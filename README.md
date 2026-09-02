@@ -26,6 +26,7 @@ Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt
 Dat heb ik nog niet gedaan. Mijn DNS is nog niet geladen dus dat is nu nog niet mogelijk. 
 
 Woensdag 2 September deep dive MMD
+We moesten een menu herontwerpen voor 'Wok to walk'. Dit is hoever ik ben gekomen.
 
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-02 om 10 36 27" src="https://github.com/user-attachments/assets/59bbd38b-7fea-42d3-a456-fd583b77991a" />
 
