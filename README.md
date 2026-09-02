@@ -16,16 +16,15 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 
-<b> Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.</b> 
+Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
 
 Ik heb gekozen voor het platform GitHub. Ik had hier al een account en eerder mee gewerkt. Daardoor voelde het progamma al vertrouwt.
 
-<b> Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.</b>
+Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
 
 Ik heb gekozen voor Tyegeuzinge.nl ik wou eigenlijk tamargeuzinge.nl maar die was al bezet. TYE zijn mijn initialen dus ik heb die gebruikt. Ik heb het domein gekoppeld aan de hand van het stappen plan op DLO.
 
-<b> Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.</b>
-
+Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 Dat heb ik nog niet gedaan. Mijn DNS is nog niet geladen dus dat is nu nog niet mogelijk. 
 
 <b> Woensdag 2 September Deep dive MMD </b> 
