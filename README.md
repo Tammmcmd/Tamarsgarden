@@ -24,3 +24,9 @@ Ik heb gekozen voor Tyegeuzinge.nl ik wou eigenlijk tamargeuzinge.nl maar die wa
 
 Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 Dat heb ik nog niet gedaan. Mijn DNS is nog niet geladen dus dat is nu nog niet mogelijk. 
+
+Woensdag 2 September deep dive MMD
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-02 om 10 36 27" src="https://github.com/user-attachments/assets/59bbd38b-7fea-42d3-a456-fd583b77991a" />
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-02 om 10 36 32" src="https://github.com/user-attachments/assets/16c849ac-852e-4955-b600-a60a347e97c2" />
