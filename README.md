@@ -61,7 +61,16 @@ Hierna hebben we digital Gardens bekeken en die geanalyseerd aan de hand van een
 <img width="4284" height="5712" alt="IMG_0905" src="https://github.com/user-attachments/assets/ce948df9-cef5-46cb-8ec7-d5f4c3df4197" /> Dit is mijn formulier, ik kreeg het niet helemaal af binnen de tijd.
 <img width="4284" height="5712" alt="IMG_0904" src="https://github.com/user-attachments/assets/4e808138-1bcd-4fe0-94f1-5f1c28f234f6" /> en dit was gezamelijk.
 
+<b> De checkout vragen voor maandag 7 September </b>
+Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+Digital garden is niet een ‘finished product’ of een website dat al helemaal af is. Het zijn half afgemaakte onderzoeken en onderzoeken die nog aan het groeien zijn. 
 
+Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+Een website die Webby is, is goed gecodeerd, duidelijk te gebruiken en toegankelijk. Daarnaast is de website creatief, heeft het animaties en een persoonlijke stijl.
+Deze websites hebben mijn geïnspireerd: https://garden.carolynyoo.com - https://maggieappleton.com
+
+Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
+Ik zou graag iets met dans doen en om het wat specifieker te maken commercial dance on camera. Ik vindt dat zelf heel interssant en ook leuk om te maken. Ik merk dat dit een groeiende wereld is ik zie veel bedrijven die ook video clips maken specifiek voor dans.
 
 
 
