@@ -54,6 +54,14 @@ bij het laatste blokje heb ik ook geëxperimenteerd met covers, dat zag er zo ui
 <img width="433" height="412" alt="Scherm­afbeelding 2026-09-02 om 22 45 39" src="https://github.com/user-attachments/assets/b762daf5-2d6f-447b-9861-0bcd05246def" />
 <img width="404" height="386" alt="Scherm­afbeelding 2026-09-02 om 22 46 16" src="https://github.com/user-attachments/assets/cd2a5666-2164-43ae-be80-3ca10c6e514b" />
 
+<b> Maandag 7 September <b>
+Vandaag heb ik het artikel: A Brief History & Ethos of the Digital Garden gelezen en ik vond dat heel leerzaam. Daarnaast heb ik met andere klasgenoten verschillende artikelen besproken die allemaal gingen over digital Gardens. 
+Hierna hebben we digital Gardens bekeken en die geanalyseerd aan de hand van een formulier. Dit hebben we daarna weer besproken en de digital Gardens vergeleken. Toen hebben we in hetzelfde formulier de minst en meest Webby digital garden vergeleken.
+<img width="4284" height="5712" alt="IMG_0905" src="https://github.com/user-attachments/assets/ce948df9-cef5-46cb-8ec7-d5f4c3df4197" /> Dit is mijn formulier, ik kreeg het niet helemaal af binnen de tijd.
+<img width="4284" height="5712" alt="IMG_0904" src="https://github.com/user-attachments/assets/4e808138-1bcd-4fe0-94f1-5f1c28f234f6" /> en dit was gezamelijk.
+
+
+
 
 
 
