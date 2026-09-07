@@ -71,6 +71,8 @@ Deze websites hebben mijn geïnspireerd: https://garden.carolynyoo.com - https:/
 
 Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
 Ik zou graag iets met dans doen en om het wat specifieker te maken commercial dance on camera. Ik vindt dat zelf heel interssant en ook leuk om te maken. Ik merk dat dit een groeiende wereld is ik zie veel bedrijven die ook video clips maken specifiek voor dans.
+Een ander idee dat ik heb gaat over ontwerpen. Mijn eigen ontwerpen, inspiratie bronnen, kleuren paletten, typografie en dieper onderzoek over die onderwerpen.
+Hierin zou ik kunnen schrijven over kleurenpaletten die ik mooi vindt en waarom die goed zijn. Ontwerpen die mij aanspreken en hoe ik inspiratie heb genomen uit ontwerpen van anderen.
 
 
 
