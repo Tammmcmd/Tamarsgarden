@@ -79,6 +79,7 @@ Ik heb een presentatie gemaakt waarin ik mijn concept voor mijn digital garden i
 <img width="1209" height="796" alt="Scherm­afbeelding 2026-09-09 om 00 26 03" src="https://github.com/user-attachments/assets/29c4481e-3fab-42fb-a50c-fe5e05af9db5" />
 
 Ik heb vandaag ook een deel van de deep dive light/dark mode gedaan. 
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-09 om 00 42 38" src="https://github.com/user-attachments/assets/a80af5ab-2c5e-4c83-aad9-90992b361db3" />
 
 
 
