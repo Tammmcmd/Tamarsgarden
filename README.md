@@ -74,6 +74,14 @@ Ik zou graag iets met dans doen en om het wat specifieker te maken commercial da
 Een ander idee dat ik heb gaat over ontwerpen. Mijn eigen ontwerpen, inspiratie bronnen, kleuren paletten, typografie en dieper onderzoek over die onderwerpen.
 Hierin zou ik kunnen schrijven over kleurenpaletten die ik mooi vindt en waarom die goed zijn. Ontwerpen die mij aanspreken en hoe ik inspiratie heb genomen uit ontwerpen van anderen.
 
+<b> Dinsdag 8 September </b>
+Ik heb een presentatie gemaakt waarin ik mijn concept voor mijn digital garden introduceer. 
+<img width="1209" height="796" alt="Scherm­afbeelding 2026-09-09 om 00 26 03" src="https://github.com/user-attachments/assets/29c4481e-3fab-42fb-a50c-fe5e05af9db5" />
+
+Ik heb vandaag ook een deel van de deep dive light/dark mode gedaan. 
+
+
+
 
 
 
