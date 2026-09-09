@@ -81,6 +81,57 @@ Ik heb een presentatie gemaakt waarin ik mijn concept voor mijn digital garden i
 Ik heb vandaag ook een deel van de deep dive light/dark mode gedaan. 
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-09 om 00 42 38" src="https://github.com/user-attachments/assets/a80af5ab-2c5e-4c83-aad9-90992b361db3" />
 
+<b> Woensdag 9 September </b>
+Vandaag heb ik mijn presentatie gepresenteerd aan één klasgenoot. We hebben gepraat over onze onderwerpen en elkaar een paar vragen gesteld:
+De vragen die ik heb gesteld aan Tharanika en haar antwoorden:
+
+Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? 
+- Kleding is meer dan mode, het is een manier om creativiteit en verbondenheid uit te drukken.
+
+Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?
+- Persoonlijk, traditioneel, modern en visueel.
+
+Heeft 'de ander' een aanvulling op je onderwerp?
+- Hoe sociale media trends impact hebben op hoe culturele kleding nu wordt gedragen en verkocht.
+
+Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)
+- Kleurrijk, depressief en persoonlijk.
+
+Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.
+- Het is heel kleurrijk, verschillende culturen hebben vaak een eigen stijl in de kleding (patronen, kleuren,vormen). De culturele kleding kan ook trots gevoel opwekken.
+
+De vragen die aan mij werden gesteld en mijn antwoorden:
+Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? 
+* Vorm van screendans en dat er veel kanten van zijn, en dat je er veel mee kan doen. Kostuums, commercial, voorstellingen etc
+ 
+Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?
+* Enthousiast, actief, creatief, sportief
+ 
+Heeft 'de ander' een aanvulling op je onderwerp?
+* Misschien dan uiteindelijk dieper er op ingaan hoe alles te werk gaat maar ook wat misschien nu trending is als je kijkt naar dans.
+
+Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)
+* Kleurrijk, dynamisch
+
+Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.
+* Bronnen gebruiken, van films of videoclips om inspiratie uit te halen
+
+Hierna heb ik visual research gedaan aan de hand van de opdrachten op het Miro bord. Die heb ik allemaal afgemaakt en kan je terug vinden op het Miro bord. https://miro.com/app/board/uXjVHpsKqYY=/?share_link_id=626870178987
+
+Ook heb ik aan het einde van de les de checkout vragen beantwoord:
+Check out vragen:
+Leg uit waar het Visual Research in 3 stappen naartoe werkt
+- Verkennen (Sfeer en Richting): Het verzamelen van eerste inspiratie en beelden.
+- Analyseren en Structureren: Het ontleden van de verzamelde beelden op specifieke elementen — zoals kleurgebruik, typografie, lichtinval, compositie en beweging — om te begrijpen waarom bepaalde visuele keuzes werken.
+- Vertalen naar Realisatie: Het omzetten van de visuele inzichten naar schetsen en ideeën.
+
+Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+- Mijn garden gaat over dans op camera. Wat wordt er allemaal gebruikt bij het maken van een dansvideo clip, film of reclame. Hoe maak je een goede dansvideo?
+
+Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+- Een voorbeeld maken van hoe licht wordt gebruikt in dansvideo’s dat kan ik doen met een animatie, of zelf een video maken en die gebruiken.
+
+
 
 
 
