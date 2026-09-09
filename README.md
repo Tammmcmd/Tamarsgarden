@@ -138,7 +138,7 @@ Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat 
 Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
 - Een voorbeeld maken van hoe licht wordt gebruikt in dansvideo’s dat kan ik doen met een animatie, of zelf een video maken en die gebruiken.
 
-  Ik heb vandaag ook de deep dive mooie kleuren en gradients gemaakt. Hier kan je de gradiësnts en vlaggen zien die ik heb gemaakt.
+  Ik heb vandaag ook de deep dive mooie kleuren en gradients gevolg. Hier kan je de gradiënts en vlaggen zien die ik heb gemaakt.
   
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-09 om 18 31 51" src="https://github.com/user-attachments/assets/c84992db-f406-472c-817a-4133575150ab" />
 
