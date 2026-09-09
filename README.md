@@ -140,7 +140,8 @@ Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder 
 
   Ik heb vandaag ook de deep dive mooie kleuren en gradients gemaakt. Hier kan je de gradiësnts en vlaggen zien die ik heb gemaakt.
   
-  <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-09 om 19 52 04" src="https://github.com/user-attachments/assets/133f45e3-4d1e-424b-9d8a-bac27045c10c" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-09 om 18 31 51" src="https://github.com/user-attachments/assets/c84992db-f406-472c-817a-4133575150ab" />
+
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-09 om 19 52 04" src="https://github.com/user-attachments/assets/d90f32ac-cc2f-4675-8043-4369b9e6511e" />
 
 
