@@ -78,8 +78,12 @@ Hierin zou ik kunnen schrijven over kleurenpaletten die ik mooi vindt en waarom 
 Ik heb een presentatie gemaakt waarin ik mijn concept voor mijn digital garden introduceer. 
 <img width="1209" height="796" alt="Scherm­afbeelding 2026-09-09 om 00 26 03" src="https://github.com/user-attachments/assets/29c4481e-3fab-42fb-a50c-fe5e05af9db5" />
 
-Ik heb vandaag ook een deel van de deep dive light/dark mode gedaan. 
+Ik heb vandaag ook de deep dive light/dark mode gedaan. 
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-09 om 00 42 38" src="https://github.com/user-attachments/assets/a80af5ab-2c5e-4c83-aad9-90992b361db3" />
+<img width="1306" height="769" alt="Scherm­afbeelding 2026-09-09 om 17 23 14" src="https://github.com/user-attachments/assets/bb86c6dc-4d45-41bd-8f5c-7e7ddd72eed1" />
+<img width="1325" height="764" alt="Scherm­afbeelding 2026-09-09 om 17 22 51" src="https://github.com/user-attachments/assets/82636ada-101a-4506-b44c-f3c475f3fdf6" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-09 om 15 27 16" src="https://github.com/user-attachments/assets/56212303-9919-47a4-8511-cc8518b07003" />
+
 
 <b> Woensdag 9 September </b>
 Vandaag heb ik mijn presentatie gepresenteerd aan één klasgenoot. We hebben gepraat over onze onderwerpen en elkaar een paar vragen gesteld:
