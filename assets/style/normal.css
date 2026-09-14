@@ -9,12 +9,12 @@
 body {
   font-family: "times new roman", system-ui;
   color-scheme: light dark;
-  background-color: black;
-  color: red;
-  --background: light-dark(<white>, <black>);
+  background-color: white;
+  color: black;
+  --background: light-dark(white, black);
 }
 
 img {
-  max-width: 100%;
+  max-width: 120%;
   max-height: 200px;
 }
