@@ -30,7 +30,7 @@ img {
   max-height: 200px;
 }
 
-img.headpic {
+header img {
   width: 100vw;
   max-height: none;
   height: auto;
