@@ -1,3 +1,7 @@
+<b> Maandag 14 September </b>
+vanochtend zijn we begonnen met een bi-weekly. Ik heb in het weekend een filmpje gekeken en twee artikelen gelezen over het internet die op DLO stonden. Tijdens de les heb ik toen met een groepje wat vragen bedacht en nagedacht over welke onderzoeksmethoden je kan gebruiken om vragen over het onderwerp te beantwoorden.
+<img width="1200" height="1600" alt="7defded2-c77a-4510-a5fc-bc75d8707160" src="https://github.com/user-attachments/assets/f4d1f5f5-f01a-49b2-adc8-899288aa48e9" />
+<img width="1200" height="1600" alt="1a6e00af-88df-469b-ba36-d6e3a08a804d" src="https://github.com/user-attachments/assets/842001aa-759e-4f9d-bc6c-50927605feb2" />
 
 <b> Vrijdag 11 September </b>
 Ik heb geprobeerd een wat duidelijker beeld te maken van mijn website. Ik vindt het heel lastig om te beginnen met coderen als ik geen idee heb wat ik wil maken. Ik heb twee ontwerpen gemaakt op figma die ik misschien ga coderen. 
