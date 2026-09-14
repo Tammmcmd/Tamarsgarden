@@ -21,8 +21,8 @@ body {
 
 h1 {
   font-family: "great vibes";
-  font-style: normal;
   font-size: 70px;
+  text-align: center;
 }
 
 img {
