@@ -32,4 +32,5 @@ img {
 
 img.headpic {
   max-width: 100%;
+  max-height: none;
 }
