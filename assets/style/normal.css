@@ -3,13 +3,11 @@
   font-family: "Comic Relief";
   src: url(../type/ComicRelief-Regular.woff2);
   font-weight: 400;
-  font-style: normal;
+  font-style: lorem ipsem;
 }
 
 body {
   font-family: "Comic Relief", system-ui;
-  background-color: blue;
-  color: black;
   color-scheme: light dark;
 }
 
