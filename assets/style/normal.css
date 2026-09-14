@@ -31,8 +31,7 @@ img {
 }
 
 img.headpic {
-  width: 500%;
-  max-width: 100%;
+  width: 100vw;
   max-height: none;
   height: auto;
   display: block;
