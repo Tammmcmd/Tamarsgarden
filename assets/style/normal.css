@@ -31,9 +31,9 @@ img {
 }
 
 img.headpic {
-  width: 100%;
+  width: 200%;
   max-width: 100%;
   max-height: none;
   height: auto;
-  display: block; /* Voorkomt een klein leeg spleetje onder de foto */
+  display: block;
 }
