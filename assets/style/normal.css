@@ -1,9 +1,9 @@
 /* HIER KOMT JOUW CSS */
 @font-face {
-  font-family: "Comic Relief";
+  font-family: italic;
   src: url(../type/ComicRelief-Regular.woff2);
   font-weight: 400;
-  font-style: oblique;
+  font-style: italic;
 }
 
 body {
