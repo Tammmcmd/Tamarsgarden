@@ -3,11 +3,11 @@
   font-family: italic;
   src: url(../type/ComicRelief-Regular.woff2);
   font-weight: 400;
-  font-style: italic;
+  font-style: normal;
 }
 
 body {
-  font-family: "italic", system-ui;
+  font-family: "times new roman", system-ui;
   color-scheme: light dark;
   background-color: black;
   color: white;
