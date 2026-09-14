@@ -10,7 +10,7 @@ body {
   font-family: "times new roman", system-ui;
   color-scheme: light dark;
   background-color: black;
-  color: white;
+  color: red;
   --background: light-dark(<white>, <black>);
 }
 
