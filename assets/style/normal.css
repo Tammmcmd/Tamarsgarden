@@ -9,6 +9,16 @@
 body {
   font-family: "Comic Relief", system-ui;
   color-scheme: light dark;
+
+  --background: white;
+  --color: black;
+}
+
+@media (prefers-color-scheme: dark) {
+  color-scheme: light;
+
+  --background: black;
+  --color: white;
 }
 
 img {
