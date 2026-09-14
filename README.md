@@ -4,7 +4,7 @@ Ik heb geprobeerd een wat duidelijker beeld te maken van mijn website. Ik vindt 
 
 <img width="245" height="763" alt="Scherm­afbeelding 2026-09-14 om 11 32 01" src="https://github.com/user-attachments/assets/95caead9-f65f-4c0d-93dc-b839847561ba" />
 <img width="237" height="454" alt="Scherm­afbeelding 2026-09-14 om 11 32 20" src="https://github.com/user-attachments/assets/024e8eff-d1ae-48f4-8064-059f2ea62435" />
-
+<div></div>
 Vandaag heb ik ook de deepdive gedaan grid 101 gedaan. Dat kan je hier zien op de foto’s.
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 16 06 45" src="https://github.com/user-attachments/assets/4870d075-e80c-4b96-8e3e-b8656b66b54b" />
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 15 49 13" src="https://github.com/user-attachments/assets/283125b4-29d9-4de6-9b0e-fb719519be23" />
