@@ -1,3 +1,22 @@
+
+<b> Vrijdag 11 September </b>
+Ik heb geprobeerd een wat duidelijker beeld te maken van mijn website. Ik vindt het heel lastig om te beginnen met coderen als ik geen idee heb wat ik wil maken. Ik heb twee ontwerpen gemaakt op figma die ik misschien ga coderen. 
+
+<img width="245" height="763" alt="Scherm­afbeelding 2026-09-14 om 11 32 01" src="https://github.com/user-attachments/assets/95caead9-f65f-4c0d-93dc-b839847561ba" />
+<img width="237" height="454" alt="Scherm­afbeelding 2026-09-14 om 11 32 20" src="https://github.com/user-attachments/assets/024e8eff-d1ae-48f4-8064-059f2ea62435" />
+
+Vandaag heb ik ook de deepdive gedaan grid 101 gedaan. Dat kan je hier zien op de foto’s.
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 16 06 45" src="https://github.com/user-attachments/assets/4870d075-e80c-4b96-8e3e-b8656b66b54b" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 15 49 13" src="https://github.com/user-attachments/assets/283125b4-29d9-4de6-9b0e-fb719519be23" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 15 28 57" src="https://github.com/user-attachments/assets/a4a116aa-86b1-464e-baa3-0272e6d3af8e" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 15 28 13" src="https://github.com/user-attachments/assets/932a2127-2303-4325-a87b-1346942a7083" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 15 14 22" src="https://github.com/user-attachments/assets/d35bdf16-6b58-48f9-ab6a-c2463782abd6" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 15 10 36" src="https://github.com/user-attachments/assets/7051445b-4085-419b-89de-4a33c68de5d3" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 15 10 33" src="https://github.com/user-attachments/assets/c6b12850-364b-49cd-9daa-8ab5792444f3" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 14 59 10" src="https://github.com/user-attachments/assets/c2bf604f-c78c-44a0-8d19-a13ee6fb7a1a" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 14 45 28" src="https://github.com/user-attachments/assets/dc260a5a-e747-488f-915b-bf25dba03df8" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 14 42 16" src="https://github.com/user-attachments/assets/01ecc980-d81b-4308-a164-f2d8104367bb" />
+
 <b> Woensdag 9 September </b>
 Vandaag heb ik mijn presentatie gepresenteerd aan één klasgenoot. We hebben gepraat over onze onderwerpen en elkaar een paar vragen gesteld:
 De vragen die ik heb gesteld aan Tharanika en haar antwoorden:
