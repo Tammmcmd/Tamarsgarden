@@ -12,6 +12,11 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "vioneta";
+  src: url("../vioneta-sloane.regular.ttf");
+}
+
 body {
   color-scheme: light dark;
   background-color: white;
@@ -20,7 +25,7 @@ body {
 }
 
 h1 {
-  font-family: "great vibes";
+  font-family: "vioneta";
   font-size: 100px;
   text-align: left;
   margin-top: 0;
