@@ -29,14 +29,8 @@ body {
   --background: light-dark(white, black);
 }
 
-.bovenbalk {
-  width: 100%;
-  background-color: beige; /* Kies hier de gewenste achtergrondkleur van de balk */
-  color: #333; /* Tekstkleur */
-  padding: 10px 10px; /* Afstand boven/onder en links/rechts in de balk */
-  font-family: montserrat; /* Het lettertype voor de headertekst */
-  font-size: 16px;
-  font-weight: normal;
+header {
+  text-align: left;
 }
 
 h1 {
