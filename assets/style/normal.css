@@ -17,6 +17,11 @@
   src: url("../playfair-display.regular.ttf");
 }
 
+@font-face {
+  font-family: Montserrat;
+  src: url("../Montserrat-VariableFont_wght.ttf");
+}
+
 body {
   color-scheme: light dark;
   background-color: white;
@@ -26,10 +31,10 @@ body {
 
 .bovenbalk {
   width: 100%;
-  background-color: whitesmoke; /* Kies hier de gewenste achtergrondkleur van de balk */
+  background-color: beige; /* Kies hier de gewenste achtergrondkleur van de balk */
   color: #333; /* Tekstkleur */
-  padding: 15px 20px; /* Afstand boven/onder en links/rechts in de balk */
-  font-family: sans-serif; /* Het lettertype voor de headertekst */
+  padding: 10px 10px; /* Afstand boven/onder en links/rechts in de balk */
+  font-family: montserrat; /* Het lettertype voor de headertekst */
   font-size: 16px;
   font-weight: normal;
 }
