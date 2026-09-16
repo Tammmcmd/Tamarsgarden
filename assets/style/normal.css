@@ -24,6 +24,16 @@ body {
   --background: light-dark(white, black);
 }
 
+.bovenbalk {
+  width: 100%;
+  background-color: whitesmoke; /* Kies hier de gewenste achtergrondkleur van de balk */
+  color: #333; /* Tekstkleur */
+  padding: 15px 20px; /* Afstand boven/onder en links/rechts in de balk */
+  font-family: sans-serif; /* Het lettertype voor de headertekst */
+  font-size: 16px;
+  font-weight: normal;
+}
+
 h1 {
   font-family: "playfair";
   font-size: 40px;
