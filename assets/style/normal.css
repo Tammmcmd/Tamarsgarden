@@ -21,6 +21,10 @@
   font-family: Montserrat;
   src: url("../Montserrat-VariableFont_wght.ttf");
 }
+@font-face {
+  font-family: Geraldine;
+  src: url("../GeraldinePersonalUseItalic-PK12m.ttf");
+}
 
 body {
   color-scheme: light dark;
@@ -38,8 +42,8 @@ header p {
 }
 
 h1 {
-  font-family: "playfair";
-  font-size: 40px;
+  font-family: "Geraldine";
+  font-size: 100px;
   text-align: left;
   margin-top: 0;
   margin-bottom: 0;
