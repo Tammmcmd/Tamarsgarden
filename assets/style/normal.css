@@ -23,11 +23,12 @@ h1 {
   font-family: "great vibes";
   font-size: 100px;
   text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 p {
   text-align: center;
-  line-height: 10%;
 }
 
 img {
