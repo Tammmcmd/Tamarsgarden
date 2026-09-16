@@ -13,14 +13,10 @@
 }
 
 @font-face {
-  font-family: "vioneta";
-  src: url("../vioneta-sloane.regular.ttf");
+  font-family: "playfair";
+  src: url("../playfair-display.regular.ttf");
 }
 
-@font-face {
-  font-family: "orange";
-  src: url("../OrangeAvenueDEMO-Regular.otf");
-}
 body {
   color-scheme: light dark;
   background-color: white;
@@ -29,7 +25,7 @@ body {
 }
 
 h1 {
-  font-family: "orange";
+  font-family: "playfair";
   font-size: 70px;
   text-align: left;
   margin-top: 0;
