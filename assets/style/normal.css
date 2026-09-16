@@ -30,15 +30,3 @@ h1 {
 p {
   text-align: center;
 }
-
-img {
-  width: 100%;
-  max-height: 200px;
-}
-
-header img {
-  width: 100vw;
-  max-height: none;
-  height: auto;
-  display: block;
-}
