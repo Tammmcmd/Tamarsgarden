@@ -22,6 +22,11 @@
   src: url("../Montserrat-VariableFont_wght.ttf");
 }
 
+@font-face {
+  font-family: "Monserratlight";
+  src: url("../Montserrat-Light.ttf");
+}
+
 body {
   color-scheme: light dark;
   background-color: white;
@@ -35,10 +40,11 @@ header {
 
 header p {
   text-align: left;
+  font-family: "Monserratlight";
 }
 
 h1 {
-  font-family: "cursive";
+  font-family: "Monserrat";
   font-size: 100px;
   text-align: left;
   margin-top: 0;
