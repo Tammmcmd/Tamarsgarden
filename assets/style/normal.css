@@ -39,7 +39,7 @@ body {
 
 header {
   text-align: left;
-  padding: 0.03%;
+  border-bottom: 0.2px solid rgb(234, 232, 232);
 }
 
 header p {
