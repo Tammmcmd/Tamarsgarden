@@ -1,3 +1,21 @@
+Ik heb gewerkt aan mijn website. Ik heb verschillende ontwerpen uitgeprobeert en ik ben lang bezig met coderen en uitproberen. Ik heb voor hulp met het coderen ook verschillende websites geraadpleegd voor hulp. Dit is hoe mijn website er nu uitziet maar, ik weet eigenlijk wel zeker dat ik nog veel ga veranderen ik ben niet tevreden moet hoe het er nu uitziet. Dit is nog niet heel Webby. 
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-14 om 15 11 54" src="https://github.com/user-attachments/assets/57c32b36-64e8-4881-9b16-7d333dc0db97" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-14 om 15 11 51" src="https://github.com/user-attachments/assets/b3159087-2026-4109-82c6-78da87b3d8b6" />
+
+De checkout vragen van woensdag.
+Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen.
+
+Balans: Er is een eerlijke verdeling van visuele signalen.
+
+Hiërarchie: Je baseert de grote van elementen op basis van hoe belangrijk ze zijn. Zo laat je mensen als eerste kijken naar het belangrijkste op de pagina.
+
+Contrast: Met contrast laat je zien dat elementen verschillend zijn. 
+
+Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld? 
+Een grid biedt meer mogelijkheden om te spelen met de lay-out van de pagina. Het blijft een structuur omdat een grid eigenlijk een column is die altijd in een volgorde staat. 
+
+Welk principe neem je mee in een laatste iteratie van je ontwerp? 
+Ik neem ze allemaal mee maar vooral hiërarchie ik vindt dat heel belangrijk voor een website. Zonder een duidelijke hiërarchie is de website onduidelijk en vaak ook veel minder mooi.
 <b> Maandag 14 September </b>
 vanochtend zijn we begonnen met een bi-weekly. Ik heb in het weekend een filmpje gekeken en twee artikelen gelezen over het internet die op DLO stonden. Tijdens de les heb ik toen met een groepje wat vragen bedacht en nagedacht over welke onderzoeksmethoden je kan gebruiken om vragen over het onderwerp te beantwoorden.
 <img width="1200" height="1600" alt="7defded2-c77a-4510-a5fc-bc75d8707160" src="https://github.com/user-attachments/assets/f4d1f5f5-f01a-49b2-adc8-899288aa48e9" />
