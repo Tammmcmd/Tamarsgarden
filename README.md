@@ -1,3 +1,6 @@
+<b>Maandag 21 September</b>
+<div>Vandaag hebben we tijdens de les uitleg gekregen code, en cookies. Samen met een klasgenoot heb ik cookie pup-ups onderzocht.</div>
+<div></div><img width="1127" height="421" alt="Scherm­afbeelding 2026-09-21 om 20 39 46" src="https://github.com/user-attachments/assets/81cc2586-4214-4e55-b5a4-3045e4eea4d9" /></div>
 
 <b> Het weekend 18-20 September </b>
 <div> Na het voortgangsgesprek met Barbara had ik eigenlijk wat nieuwe ideeën gekregen voor mijn website. Ik wou zelf eigenlijk al veel veranderen maar ik wist niet zo goed hoe, wat en waar ik moest beginnen. De feedback van het gesprek heeft me in de juiste richting geduwd. </div>
