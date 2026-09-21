@@ -1,12 +1,5 @@
 /* HIER KOMT JOUW CSS */
 @font-face {
-  font-family: "Times New Roman", Times, serif;
-  src: url(../type/ComicRelief-Regular.woff2);
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
   font-family: Montserrat;
   src: url("../Montserrat-VariableFont_wght.ttf");
 }
@@ -32,11 +25,31 @@ img {
 
 body {
   color-scheme: light dark;
-  --background: light-dark(white, black);
+  background: radial-gradient(
+    rgb(199, 157, 231),
+    rgb(79, 79, 204),
+    rgb(253, 79, 155),
+    rgb(255, 169, 10),
+    red
+  );
+  min-height: 100vh;
+  background-size: 300% 400%;
+  animation: move 10s alternate infinite;
 }
 
+@keyframes move {
+  from {
+    background-position: 0%;
+  }
+  to {
+    background-position: 100% 100%;
+  }
+}
+
+/* https://youtu.be/5KFd9OzmX78?si=dSYLHjFR_qULq-dD */
+
 header p {
-  text-align: left;
+  text-align: center;
   font-family: "Monserratlight";
   line-height: 1;
 }
@@ -47,26 +60,21 @@ header p {
 
 h1 {
   font-family: "Modelista";
-  font-size: 70px;
-  text-align: left;
-  margin-top: 0;
-  margin-bottom: -0.2em;
+  font-size: 80px;
   text-align: center;
+  word-spacing: 2%;
 }
 
 h2 {
   font-size: 35px;
-  text-align: center;
-  font-family: Monserratlight;
-  font-weight: lighter;
+  text-align: left;
+  font-family: Modelista;
 }
 
 p {
-  text-align: center;
+  text-align: left;
   font-family: Monserratlight;
   font-weight: lighter;
-  padding-left: 5em;
-  padding-right: 5em;
 }
 
 section {
@@ -80,34 +88,21 @@ section {
 
 section > article:nth-of-type(1) {
   grid-column: 1 / 3;
-  grid-row: 1 / 4;
-}
-
-section > article:nth-of-type(1) img {
-  width: 100%;
-  max-height: 93vh;
-  display: block;
+  padding-top: 37em;
+  padding-right: 8em;
+  padding-left: 3em;
+  padding-bottom: 0em;
 }
 
 section > article:nth-of-type(2) {
-  grid-column: 3 / 5;
-  grid-row: 2;
-  text-align: left;
+  grid-column: 3 / 6;
+  padding-right: 5em;
+  padding-top: 43em;
+  padding-bottom: 0em;
 }
-
-section > article:nth-of-type(3) {
-  grid-column: 3 / 5;
-  grid-row: 3;
-  align-self: end;
-}
-
-section > article:nth-of-type(2) h2 {
-  margin-bottom: 0.2em;
-  word-spacing: -5%;
-}
-
 section > article:nth-of-type(2) p {
   margin-top: 0;
+  font-size: 17px;
 }
 
 .main-header {
@@ -130,22 +125,51 @@ section > article:nth-of-type(2) p {
   font-family: "MonserratLight";
   text-decoration: none;
 }
+
 .nav-knoppen a {
   text-decoration: none;
   color: black;
 }
-.hover-belichting:hover {
+
+.nav-knoppen a:hover {
   opacity: 50%;
 }
 
-.hover-camera:hover {
-  opacity: 50%;
+.carousel {
+  margin-top: 100px auto 0 auto;
+  width: 90%;
+  border: 5px solid red;
+  display: flex;
+  overflow-x: auto;
+}
+.carousel : : -webkit ::-webkit-scrollbar {
+  display: none;
 }
 
-.hover-choreografie:hover {
-  opacity: 50%;
+.card {
+  height: 5em;
+  padding: 1em;
+  background: cornflowerblue;
+  font-size: 3rem;
+  border-radius: 0.2em;
+  text-align: center;
+  align-content: center;
+  flex: 0 0 5em;
 }
 
-.hover-montage:hover {
-  opacity: 50%;
+.group {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+  animation: spin 5s infinite linear;
+}
+
+@keyframes spin {
+  from {
+    translate: 0;
+  }
+  to {
+    translate: -100%;
+  }
 }
