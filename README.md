@@ -48,7 +48,7 @@ Ook heb ik de deepdive responsive grid + grid areas gedaan.
 
 <div><b> Maandag 14 September </b></div>
 vanochtend zijn we begonnen met een bi-weekly. Ik heb in het weekend een filmpje gekeken en twee artikelen gelezen over het internet die op DLO stonden. Tijdens de les heb ik toen met een groepje wat vragen bedacht en nagedacht over welke onderzoeksmethoden je kan gebruiken om vragen over het onderwerp te beantwoorden.
-<img width="733" height="257" alt="Scherm­afbeelding 2026-09-21 om 18 30 11" src="https://github.com/user-attachments/assets/e2d5e78e-3398-483d-b88a-e41ea0795ee7" />
+<div><img width="733" height="257" alt="Scherm­afbeelding 2026-09-21 om 18 30 11" src="https://github.com/user-attachments/assets/e2d5e78e-3398-483d-b88a-e41ea0795ee7" /> </div>
 
 
 <div>Ook heb ik de check-out vragen gemaakt.</div>
