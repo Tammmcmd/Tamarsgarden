@@ -25,7 +25,7 @@ Ik neem ze allemaal mee maar vooral hiërarchie ik vindt dat heel belangrijk voo
 Ook heb ik de deepdive grid 101 + media queries gedaan.
 <img width="1710" height="972" alt="Scherm­afbeelding 2026-09-15 om 17 22 04" src="https://github.com/user-attachments/assets/931204ee-ae20-48f7-b260-c78e8f2a4a59" />
 
-<div><b> Maandag 14 September </b></div>div>
+<div><b> Maandag 14 September </b></div>
 vanochtend zijn we begonnen met een bi-weekly. Ik heb in het weekend een filmpje gekeken en twee artikelen gelezen over het internet die op DLO stonden. Tijdens de les heb ik toen met een groepje wat vragen bedacht en nagedacht over welke onderzoeksmethoden je kan gebruiken om vragen over het onderwerp te beantwoorden.
 <img width="1200" height="1600" alt="7defded2-c77a-4510-a5fc-bc75d8707160" src="https://github.com/user-attachments/assets/f4d1f5f5-f01a-49b2-adc8-899288aa48e9" />
 <img width="1200" height="1600" alt="1a6e00af-88df-469b-ba36-d6e3a08a804d" src="https://github.com/user-attachments/assets/842001aa-759e-4f9d-bc6c-50927605feb2" />
