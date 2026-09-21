@@ -99,7 +99,7 @@ Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat 
 Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
 - Een voorbeeld maken van hoe licht wordt gebruikt in dansvideo’s dat kan ik doen met een animatie, of zelf een video maken en die gebruiken.
 
-  Ik heb vandaag ook de deep dive mooie kleuren en gradients gevolg. Hier kan je de gradiënts en vlaggen zien die ik heb gemaakt.
+Ik heb vandaag ook de deep dive mooie kleuren en gradients gevolg. Hier kan je de gradiënts en vlaggen zien die ik heb gemaakt.
   
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-09 om 18 31 51" src="https://github.com/user-attachments/assets/c84992db-f406-472c-817a-4133575150ab" />
 
@@ -107,19 +107,19 @@ Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder 
 
 
 
-
-<b> Dinsdag 8 September </b>
+<div> 
+<b> Dinsdag 8 September </b> </div>
 Ik heb een presentatie gemaakt waarin ik mijn concept voor mijn digital garden introduceer. 
 <img width="1209" height="796" alt="Scherm­afbeelding 2026-09-09 om 00 26 03" src="https://github.com/user-attachments/assets/29c4481e-3fab-42fb-a50c-fe5e05af9db5" />
 
-Ik heb vandaag ook de deep dive light/dark mode gedaan. 
+<div>Ik heb op dinsdag ook de deep dive over light en dark modes gedaan. k heb vandaag ook de deep dive light/dark mode gedaan. 
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-09 om 00 42 38" src="https://github.com/user-attachments/assets/a80af5ab-2c5e-4c83-aad9-90992b361db3" />
 
 <img width="1306" height="769" alt="Scherm­afbeelding 2026-09-09 om 17 23 14" src="https://github.com/user-attachments/assets/bb86c6dc-4d45-41bd-8f5c-7e7ddd72eed1" />
 
 <img width="1325" height="764" alt="Scherm­afbeelding 2026-09-09 om 17 22 51" src="https://github.com/user-attachments/assets/82636ada-101a-4506-b44c-f3c475f3fdf6" />
 
-<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-09 om 15 27 16" src="https://github.com/user-attachments/assets/56212303-9919-47a4-8511-cc8518b07003" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-09 om 15 27 16" src="https://github.com/user-attachments/assets/56212303-9919-47a4-8511-cc8518b07003" /></div>
 
 
 <b> Maandag 7 September </b>
