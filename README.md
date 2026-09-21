@@ -10,14 +10,18 @@ Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onder
   Ik ben dus weer terug gegaan naar mijn visual research van de les die we hadden een tijdje terug. Ik heb nagedacht aan leuke manieren om de kleuren en dat effect van licht te verwerken in mijn website en ik kwam al snel op het idee om de website een gradiënt van kleuren als achtergrond te geven.
 </div>
 
-Als eerst heb ik geprobeerd de lay-out hetzelfde te houden en dan de achtergrond een gradiënt te maken. Ik heb de achtergrond van mijn plaatje eerst zelf geprobeerd om te matchen met de gradiënt maar het lukte niet om dat helemaal te matchen dus toen heb ik geprobeerd om de achtergrond van het plaatje te verwijderen zodat alleen het persoon op de website kwam maar dat werkte ook niet.
+<div>Als eerst heb ik geprobeerd de lay-out hetzelfde te houden en dan de achtergrond een gradiënt te maken. Ik heb de achtergrond van mijn plaatje eerst zelf geprobeerd om te matchen met de gradiënt maar het lukte niet om dat helemaal te matchen dus toen heb ik geprobeerd om de achtergrond van het plaatje te verwijderen zodat alleen het persoon op de website kwam maar dat werkte ook niet.</div>
 
 <div><img width="937" height="265" alt="Scherm­afbeelding 2026-09-21 om 20 22 00" src="https://github.com/user-attachments/assets/231a6974-238c-4727-94c8-47895a083f76" /></div>
 
 <div>Toen dat allemaal niet werkte ben ik nog eens gaan nadenken, ik dacht aan mijn onderwerp dans en aan de feedback. Het zou leuk zijn als ik iets meer kon doen met beweging, toen ben ik op het idee gekomen om een bewegende gradiënt te maken als achtergrond. Ik had geen idee hoe ik dat moest doen maar aan de hand van een YouTube video is het mij gelukt! Ik heb de kleuren gebruikt uit mijn visual research en wit gebruikt in de gradiënt zodat het soort van lijkt op licht en ik heb de gradiënt laten bewegen op een rustige vloeiende manier. </div>
 
-Met deze nieuwe achtergrond heb ik besloten het plaatje weg te halen en de lay-out van de eerste pagina minimaal te houden, zo staat het licht en de beweging echt centraal en wordt je aandacht daar ook naar toe getrokken. Ik ben blij met dit resultaat.
+<div>Met deze nieuwe achtergrond heb ik besloten het plaatje weg te halen en de lay-out van de eerste pagina minimaal te houden, zo staat het licht en de beweging echt centraal en wordt je aandacht daar ook naar toe getrokken. Ik ben blij met dit resultaat.</div>
 <div><img width="754" height="697" alt="Scherm­afbeelding 2026-09-21 om 20 27 51" src="https://github.com/user-attachments/assets/51564374-3ed3-470d-bf88-4e68d9002581" /></div>
+
+<div> Ook heb ik alvast visual research gedaan voor de rest van mijn website, ik wil cards maken in css die bewegen.</div>
+<div></div><img width="839" height="590" alt="Scherm­afbeelding 2026-09-21 om 20 32 48" src="https://github.com/user-attachments/assets/f974c573-f47a-485a-9078-5ed6c0a4e3d0" /> </div>
+
 
 
 <b>Vrijdag 18 September</b>
