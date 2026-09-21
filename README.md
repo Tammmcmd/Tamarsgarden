@@ -6,6 +6,8 @@ Ik was niet tevreden met mijn website en ik ben even helemaal een andere kant op
   <img width="999" height="764" alt="Scherm­afbeelding 2026-09-21 om 14 04 40" src="https://github.com/user-attachments/assets/a85ad984-5818-41eb-9412-678952630992" />
 Ik vond dat het ontwerp er goed uitzag. Ik heb goed gelet op de hiërarchie en het contrast om te zorgen dat het goed is. Toen ik tevreden was met mijn ontwerp ben ik begonnen met coderen. Dit ging niet makkelijk ik ben hier lang mee bezig geweest en het lukte zeker niet allemaal in een dag. Ik ben eerst bezig geweest met alles voor de hoofdpagina op de juiste plek te krijgen door gebruik te maken van grid en children.
 </div>
+<img width="975" height="603" alt="Scherm­afbeelding 2026-09-21 om 14 59 11" src="https://github.com/user-attachments/assets/4ddef16b-94f2-4981-aa6e-3e8f1a044f11" />
+
 
 
 
