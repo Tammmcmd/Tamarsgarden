@@ -1,3 +1,4 @@
+<b> Vrijdag 18 September </b>
 
 
 <b> Woensdag 16 September </b>
