@@ -1,5 +1,21 @@
 
 <b> Het weekend 18-20 September </b>
+<div> Na het voortgangsgesprek met Barbara had ik eigenlijk wat nieuwe ideeën gekregen voor mijn website. Ik wou zelf eigenlijk al veel veranderen maar ik wist niet zo goed hoe, wat en waar ik moest beginnen. De feedback van het gesprek heeft me in de juiste richting geduwd. </div>
+
+<div>Wat van mijn feedback was bijvoorbeeld, dat ik nog wat meer kan spelen kleur en beweging in mijn website en dat ik terug kan kijken naar mijn visual research voor ideeën. 
+Ook moet ik mijn website gewoon nog beter uitwerken en er nog meer content inzetten
+Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onderdeel van mijn onderwerp ook gaat over belichting.</div>
+
+<div>Ik ben dus weer terug gegaan naar mijn visual research van de les die we hadden een tijdje terug. Ik heb nagedacht aan leuke manieren om de kleuren en dat effect van licht te verwerken in mijn website en ik kwam al snel op het idee om de website een gradiënt van kleuren als achtergrond te geven.</div>
+
+Als eerst heb ik geprobeerd de lay-out hetzelfde te houden en dan de achtergrond een gradiënt te maken. Ik heb de achtergrond van mijn plaatje eerst zelf geprobeerd om te matchen met de gradiënt maar het lukte niet om dat helemaal te matchen dus toen heb ik geprobeerd om de achtergrond van het plaatje te verwijderen zodat alleen het persoon op de website kwam maar dat werkte ook niet.
+
+<div><img width="937" height="265" alt="Scherm­afbeelding 2026-09-21 om 20 22 00" src="https://github.com/user-attachments/assets/231a6974-238c-4727-94c8-47895a083f76" /></div>
+
+<div>Toen dat allemaal niet werkte ben ik nog eens gaan nadenken, ik dacht aan mijn onderwerp dans en aan de feedback. Het zou leuk zijn als ik iets meer kon doen met beweging, toen ben ik op het idee gekomen om een bewegende gradiënt te maken als achtergrond. Ik had geen idee hoe ik dat moest doen maar aan de hand van een YouTube video is het mij gelukt! Ik heb de kleuren gebruikt uit mijn visual research en wit gebruikt in de gradiënt zodat het soort van lijkt op licht en ik heb de gradiënt laten bewegen op een rustige vloeiende manier. </div>
+
+Met deze nieuwe achtergrond heb ik besloten het plaatje weg te halen en de lay-out van de eerste pagina minimaal te houden, zo staat het licht en de beweging echt centraal en wordt je aandacht daar ook naar toe getrokken. Ik ben blij met dit resultaat.
+<div><img width="754" height="697" alt="Scherm­afbeelding 2026-09-21 om 20 27 51" src="https://github.com/user-attachments/assets/51564374-3ed3-470d-bf88-4e68d9002581" /></div>
 
 
 <b>Vrijdag 18 September</b>
