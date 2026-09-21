@@ -1,3 +1,7 @@
+
+<b> Het weekend 18-20 September </b>
+
+
 <b>Vrijdag 18 September</b>
 
 <div>
