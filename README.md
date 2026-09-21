@@ -13,7 +13,7 @@
 
 
 <b> Het weekend 18-20 September </b>
-<div> Na het voortgangsgesprek met Barbara had ik eigenlijk wat nieuwe ideeën gekregen voor mijn website. Ik wou zelf eigenlijk al veel veranderen maar ik wist niet zo goed hoe, wat en waar ik moest beginnen. De feedback van het gesprek heeft me in de juiste richting geduwd. </div>
+<span> Na het voortgangsgesprek met Barbara had ik eigenlijk wat nieuwe ideeën gekregen voor mijn website. Ik wou zelf eigenlijk al veel veranderen maar ik wist niet zo goed hoe, wat en waar ik moest beginnen. De feedback van het gesprek heeft me in de juiste richting geduwd. </span>
 
 <div>Wat van mijn feedback was bijvoorbeeld, dat ik nog wat meer kan spelen kleur en beweging in mijn website en dat ik terug kan kijken naar mijn visual research voor ideeën. 
 Ook moet ik mijn website gewoon nog beter uitwerken en er nog meer content inzetten
@@ -37,11 +37,11 @@ Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onder
 
 
 
-<b>Vrijdag 18 September</b>
+<span><b>Vrijdag 18 September</b></span>
 
-<div>
+<span>
   Vandaag ben ik de hele tijd bezig geweest met het verbeteren van mijn ontwerp. Ik heb navigatie knoppen toegevoegd, een video in mijn website gezet en nieuwe lettertypes gebruikt.
-</div>
+</span>
 
 <div>
   <img width="1004" height="301" alt="Scherm­afbeelding 2026-09-21 om 15 15 48" src="https://github.com/user-attachments/assets/2d504ab7-9766-40d4-a74f-5f65a846e8cb" />
@@ -70,7 +70,7 @@ Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onder
 
 </div>
 
-<b>Donderdag 17 September</b>
+<span><b>Donderdag 17 September</b></span>
 
 <span>
   Ik was niet tevreden met mijn website en ik ben even helemaal een andere kant op gaan. Alles wat ik wou maken werkte gewoon niet goed op mijn website. Ik heb opnieuw wat inspiratie opgezocht. Ik wil iets maken dat simplistisch maar nog steeds magnetisch is. Simplistisch omdat het dan werkt op een website, het zier er schoon en netjes uit en magnetisch omdat dat het woord is dat mijn onderwerp omschrijft. Dit is de visuele inspiratie die ik heb verzameld.
@@ -104,7 +104,7 @@ Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onder
   <img width="542" height="411" alt="Scherm­afbeelding 2026-09-21 om 15 08 39" src="https://github.com/user-attachments/assets/2a67e392-44fa-4dc3-8ab8-8d5648c28a91" />
 </div>
 
-<b>Woensdag 16 September</b>
+<span><b>Woensdag 16 September</b></span>
 
 <div>
   Ik heb gewerkt aan mijn website. Ik heb verschillende ontwerpen uitgeprobeert en ik ben lang bezig met coderen en uitproberen. Ik heb voor hulp met het coderen ook verschillende websites geraadpleegd voor hulp. Dit is hoe mijn website er nu uitziet maar, ik weet eigenlijk wel zeker dat ik nog veel ga veranderen ik ben niet tevreden moet hoe het er nu uitziet. Dit is nog niet heel Webby.
@@ -135,7 +135,7 @@ Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onder
   <img width="1710" height="972" alt="Scherm­afbeelding 2026-09-15 om 17 22 04" src="https://github.com/user-attachments/assets/931204ee-ae20-48f7-b260-c78e8f2a4a59" />
 </div>
 
-<b>Maandag 14 September</b>
+<span><b>Maandag 14 September</b></span>
 
 <div>
   Vanochtend zijn we begonnen met een bi-weekly. Ik heb in het weekend een filmpje gekeken en twee artikelen gelezen over het internet die op DLO stonden. Tijdens de les heb ik toen met een groepje wat vragen bedacht en nagedacht over welke onderzoeksmethoden je kan gebruiken om vragen over het onderwerp te beantwoorden.
