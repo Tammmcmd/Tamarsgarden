@@ -29,7 +29,7 @@ Ik heb gewerkt aan mijn website. Ik heb verschillende ontwerpen uitgeprobeert en
 
 
 De checkout vragen van woensdag.
-Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen.
+<div>Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen.</div>
 
 Balans: Er is een eerlijke verdeling van visuele signalen.
 
