@@ -48,8 +48,8 @@ Ook heb ik de deepdive responsive grid + grid areas gedaan.
 
 <div><b> Maandag 14 September </b></div>
 vanochtend zijn we begonnen met een bi-weekly. Ik heb in het weekend een filmpje gekeken en twee artikelen gelezen over het internet die op DLO stonden. Tijdens de les heb ik toen met een groepje wat vragen bedacht en nagedacht over welke onderzoeksmethoden je kan gebruiken om vragen over het onderwerp te beantwoorden.
-<img width="1200" height="1600" alt="7defded2-c77a-4510-a5fc-bc75d8707160" src="https://github.com/user-attachments/assets/f4d1f5f5-f01a-49b2-adc8-899288aa48e9" />
-<img width="1200" height="1600" alt="1a6e00af-88df-469b-ba36-d6e3a08a804d" src="https://github.com/user-attachments/assets/842001aa-759e-4f9d-bc6c-50927605feb2" />
+<img width="733" height="257" alt="Scherm­afbeelding 2026-09-21 om 18 30 11" src="https://github.com/user-attachments/assets/e2d5e78e-3398-483d-b88a-e41ea0795ee7" />
+
 
 <div>Ook heb ik de check-out vragen gemaakt.</div>
 Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
