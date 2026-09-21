@@ -9,10 +9,10 @@
 - Je nest dingen door een element in een ander element te plaatsen.
 
 <div>Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.</div>
-- Ik accepteer niet zomaar alle cookies en dat ga ik ook zeker blijven doen, ik zet ze eigenlijk altijd allemaal uit alleen als je iets alleen kan doen zonder cookies zet ik het misschien aan.
+<div>- Ik accepteer niet zomaar alle cookies en dat ga ik ook zeker blijven doen, ik zet ze eigenlijk altijd allemaal uit alleen als je iets alleen kan doen zonder cookies zet ik het misschien aan.</div>
 
 
-<div><b> Het weekend 18-20 September </b></div>
+<b> Het weekend 18-20 September </b>
 <div> Na het voortgangsgesprek met Barbara had ik eigenlijk wat nieuwe ideeën gekregen voor mijn website. Ik wou zelf eigenlijk al veel veranderen maar ik wist niet zo goed hoe, wat en waar ik moest beginnen. De feedback van het gesprek heeft me in de juiste richting geduwd. </div>
 
 <div>Wat van mijn feedback was bijvoorbeeld, dat ik nog wat meer kan spelen kleur en beweging in mijn website en dat ik terug kan kijken naar mijn visual research voor ideeën. 
