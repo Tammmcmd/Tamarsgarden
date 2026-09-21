@@ -1,6 +1,4 @@
-<img width="699" height="377" alt="Scherm­afbeelding 2026-09-21 om 12 34 36" src="https://github.com/user-attachments/assets/bc9ac604-dac2-43fb-8e2f-287fa5251e99" />
-<img width="619" height="324" alt="Scherm­afbeelding 2026-09-21 om 12 34 19" src="https://github.com/user-attachments/assets/93ed6a34-dd4c-4080-a300-6898f60462eb" />
-<img width="619" height="324" alt="Scherm­afbeelding 2026-09-21 om 12 34 19" src="https://github.com/user-attachments/assets/5dc9baaa-4245-4cd9-89fb-e0b83a1e933d" />
+
 <b> Vrijdag 18 September </b>
 
 
