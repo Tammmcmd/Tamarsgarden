@@ -1,6 +1,11 @@
+
+
+<b> Woensdag 16 September </b>
 Ik heb gewerkt aan mijn website. Ik heb verschillende ontwerpen uitgeprobeert en ik ben lang bezig met coderen en uitproberen. Ik heb voor hulp met het coderen ook verschillende websites geraadpleegd voor hulp. Dit is hoe mijn website er nu uitziet maar, ik weet eigenlijk wel zeker dat ik nog veel ga veranderen ik ben niet tevreden moet hoe het er nu uitziet. Dit is nog niet heel Webby. 
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-14 om 15 11 54" src="https://github.com/user-attachments/assets/57c32b36-64e8-4881-9b16-7d333dc0db97" />
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-14 om 15 11 51" src="https://github.com/user-attachments/assets/b3159087-2026-4109-82c6-78da87b3d8b6" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-14 om 14 05 02" src="https://github.com/user-attachments/assets/238094aa-6b54-4819-b7ff-5fa438b12858" />
+
 
 De checkout vragen van woensdag.
 Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen.
