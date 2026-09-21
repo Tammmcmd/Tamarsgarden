@@ -1,5 +1,12 @@
 
-<b> Vrijdag 18 September </b>
+<b> Donderdag 17 September </b>
+Ik was niet tevreden met mijn website en ik ben even helemaal een andere kant op gaan. Alles wat ik wou maken werkte gewoon niet goed op mijn website. Ik heb opnieuw wat inspiratie opgezocht. Ik wil iets maken dat simplistisch maar nog steeds magnetisch is. Simplistisch omdat het dan werkt op een website, het zier er schoon en netjes uit en magnetisch omdat dat het woord is dat mijn onderwerp omschrijft. Dit is de visuele inspiratie die ik heb verzameld.<img width="421" height="605" alt="Scherm­afbeelding 2026-09-21 om 14 02 31" src="https://github.com/user-attachments/assets/661cabb3-8cd1-4a57-b3fe-175ec34b6012" />
+<div>
+  Na het verzamelen van informatie ben ik begonnen met het maken van een ontwerp op firma.
+  <img width="999" height="764" alt="Scherm­afbeelding 2026-09-21 om 14 04 40" src="https://github.com/user-attachments/assets/a85ad984-5818-41eb-9412-678952630992" />
+Ik vond dat het ontwerp er goed uitzag. Ik heb goed gelet op de hiërarchie en het contrast om te zorgen dat het goed is. Toen ik tevreden was met mijn ontwerp ben ik begonnen met coderen. Dit ging niet makkelijk ik ben hier lang mee bezig geweest en het lukte zeker niet allemaal in een dag. Ik ben eerst bezig geweest met alles voor de hoofdpagina op de juiste plek te krijgen door gebruik te maken van grid en children.
+</div>
+
 
 
 <b> Woensdag 16 September </b>
