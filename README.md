@@ -22,7 +22,7 @@ Een grid biedt meer mogelijkheden om te spelen met de lay-out van de pagina. Het
 Welk principe neem je mee in een laatste iteratie van je ontwerp? 
 Ik neem ze allemaal mee maar vooral hiërarchie ik vindt dat heel belangrijk voor een website. Zonder een duidelijke hiërarchie is de website onduidelijk en vaak ook veel minder mooi.
 
-Ook heb ik de deepdive grid 101 + media queries gedaan.
+Ook heb ik de deepdive responsive grid + grid areas gedaan.
 <img width="1710" height="972" alt="Scherm­afbeelding 2026-09-15 om 17 22 04" src="https://github.com/user-attachments/assets/931204ee-ae20-48f7-b260-c78e8f2a4a59" />
 
 <div><b> Maandag 14 September </b></div>
