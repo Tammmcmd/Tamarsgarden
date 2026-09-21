@@ -3,8 +3,8 @@
 <div> Vandaag ben ik de hele tijd bezig geweest met het verbeteren van mijn ontwerp. Ik heb navigatie knoppen toegevoegd, een video in mijn website gezet en nieuwe lettertypes gebruikt.
     <div><img width="1004" height="301" alt="Scherm­afbeelding 2026-09-21 om 15 15 48" src="https://github.com/user-attachments/assets/2d504ab7-9766-40d4-a74f-5f65a846e8cb" />
 </div>
-    Ik heb ook feedback gekregen op mijn ontwerp, dit staat in DLO en ik ga dat zeker gebruiken om mijn ontwerp te verbeteren.
-    <div>Verder heb ik vandaag een teken opdracht gedaan tijdens de les.</div>
+    <div>Ik heb ook feedback gekregen op mijn ontwerp, dit staat in DLO en ik ga dat zeker gebruiken om mijn ontwerp te verbeteren.</div>
+   Verder heb ik vandaag een teken opdracht gedaan tijdens de les.
    <img width="716" height="528" alt="Scherm­afbeelding 2026-09-21 om 18 18 16" src="https://github.com/user-attachments/assets/7521f770-ad57-4888-9bbe-6ed3b715213d" />
 <div>En als laatste natuurlijk de check out van deze dag.</div>
 
