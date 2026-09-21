@@ -19,7 +19,6 @@
 
 <div>
   En als laatste natuurlijk de check out van deze dag.
-  blaaaablaaa
 </div>
 
 <b>Donderdag 17 September</b>
@@ -63,9 +62,7 @@
 </div>
 
 <div>
-  <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-14 om 15 11 54" src="https://github.com/user-attachments/assets/57c32b36-64e8-4881-9b16-7d333dc0db97" />
-  <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-14 om 15 11 51" src="https://github.com/user-attachments/assets/b3159087-2026-4109-82c6-78da87b3d8b6" />
-  <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-14 om 14 05 02" src="https://github.com/user-attachments/assets/238094aa-6b54-4819-b7ff-5fa438b12858" />
+ 
 </div>
 
 <div>
