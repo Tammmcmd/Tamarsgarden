@@ -42,7 +42,18 @@ vanochtend zijn we begonnen met een bi-weekly. Ik heb in het weekend een filmpje
 <img width="1200" height="1600" alt="7defded2-c77a-4510-a5fc-bc75d8707160" src="https://github.com/user-attachments/assets/f4d1f5f5-f01a-49b2-adc8-899288aa48e9" />
 <img width="1200" height="1600" alt="1a6e00af-88df-469b-ba36-d6e3a08a804d" src="https://github.com/user-attachments/assets/842001aa-759e-4f9d-bc6c-50927605feb2" />
 
-<b> Vrijdag 11 September </b>
+<div>Ook heb ik de check-out vragen gemaakt.</div>
+Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+Een website ziet er vaak lelijk of rommelig uit als er geen duidelijke HTML strucuur is. 
+Om dat te voorkomen moet je altijd een logische en duidelijke HTML pagina maken zodat de website er minder ‘lelijk’ uit ziet. 
+
+Vertel welke volgende stap je neemt om je website responsive te maken.
+Ik wil ervoor zorgen dat je mijn website ook kan gebruiken op een kleiner scherm en de plaatjes die een groot onderdeel zijn dan ook kleiner worden zodat, het duidelijk blijft waar je naar kijkt.
+
+Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+Nu is dat nog lastig als ik mijn website nog af en duidelijk maak lukt dat mij wel. 
+
+<div><b> Vrijdag 11 September </b></div>div>
 Ik heb geprobeerd een wat duidelijker beeld te maken van mijn website. Ik vindt het heel lastig om te beginnen met coderen als ik geen idee heb wat ik wil maken. Ik heb twee ontwerpen gemaakt op figma die ik misschien ga coderen. 
 
 <img width="245" height="763" alt="Scherm­afbeelding 2026-09-14 om 11 32 01" src="https://github.com/user-attachments/assets/95caead9-f65f-4c0d-93dc-b839847561ba" />
