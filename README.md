@@ -112,7 +112,7 @@ Ik heb vandaag ook de deep dive mooie kleuren en gradients gevolg. Hier kan je d
 Ik heb een presentatie gemaakt waarin ik mijn concept voor mijn digital garden introduceer. 
 <img width="1209" height="796" alt="Scherm­afbeelding 2026-09-09 om 00 26 03" src="https://github.com/user-attachments/assets/29c4481e-3fab-42fb-a50c-fe5e05af9db5" />
 
-<div>Ik heb op dinsdag ook de deep dive over light en dark modes gedaan. k heb vandaag ook de deep dive light/dark mode gedaan. 
+<div>Ik heb op dinsdag ook de deep dive over light en dark modes gedaan.
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-09 om 00 42 38" src="https://github.com/user-attachments/assets/a80af5ab-2c5e-4c83-aad9-90992b361db3" />
 
 <img width="1306" height="769" alt="Scherm­afbeelding 2026-09-09 om 17 23 14" src="https://github.com/user-attachments/assets/bb86c6dc-4d45-41bd-8f5c-7e7ddd72eed1" />
