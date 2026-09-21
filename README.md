@@ -7,6 +7,7 @@
    Verder heb ik vandaag een teken opdracht gedaan tijdens de les.
    <img width="716" height="528" alt="Scherm­afbeelding 2026-09-21 om 18 18 16" src="https://github.com/user-attachments/assets/7521f770-ad57-4888-9bbe-6ed3b715213d" /> <div></div>
 En als laatste natuurlijk de check out van deze dag.
+<div></div>
 
 
 <b> Donderdag 17 September </b> <div>
