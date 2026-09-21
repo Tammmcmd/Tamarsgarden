@@ -6,7 +6,9 @@
 Ook moet ik mijn website gewoon nog beter uitwerken en er nog meer content inzetten
 Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onderdeel van mijn onderwerp ook gaat over belichting.</div>
 
-<div>Ik ben dus weer terug gegaan naar mijn visual research van de les die we hadden een tijdje terug. Ik heb nagedacht aan leuke manieren om de kleuren en dat effect van licht te verwerken in mijn website en ik kwam al snel op het idee om de website een gradiënt van kleuren als achtergrond te geven.</div>
+<div>
+  Ik ben dus weer terug gegaan naar mijn visual research van de les die we hadden een tijdje terug. Ik heb nagedacht aan leuke manieren om de kleuren en dat effect van licht te verwerken in mijn website en ik kwam al snel op het idee om de website een gradiënt van kleuren als achtergrond te geven.
+</div>
 
 Als eerst heb ik geprobeerd de lay-out hetzelfde te houden en dan de achtergrond een gradiënt te maken. Ik heb de achtergrond van mijn plaatje eerst zelf geprobeerd om te matchen met de gradiënt maar het lukte niet om dat helemaal te matchen dus toen heb ik geprobeerd om de achtergrond van het plaatje te verwijderen zodat alleen het persoon op de website kwam maar dat werkte ook niet.
 
