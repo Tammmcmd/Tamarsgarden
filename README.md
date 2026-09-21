@@ -62,7 +62,8 @@
 </div>
 
 <div>
- 
+ <img width="988" height="394" alt="Scherm­afbeelding 2026-09-21 om 19 32 44" src="https://github.com/user-attachments/assets/ecb2b894-7c6c-464b-aa04-186040ef91ff" />
+
 </div>
 
 <div>
