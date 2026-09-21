@@ -1,5 +1,7 @@
 <b>Vrijdag 18 September</b>
-<div> Vandaag ben ik de hele tijd bezig geweest met het verbeteren van mijn ontwerp.
+<div> Vandaag ben ik de hele tijd bezig geweest met het verbeteren van mijn ontwerp. Ik heb navigatie knoppen toegevoegd, een video in mijn website gezet en nieuwe lettertypes gebruikt.
+    <div><img width="1004" height="301" alt="Scherm­afbeelding 2026-09-21 om 15 15 48" src="https://github.com/user-attachments/assets/2d504ab7-9766-40d4-a74f-5f65a846e8cb" />
+</div>
 <b> Donderdag 17 September </b>
 Ik was niet tevreden met mijn website en ik ben even helemaal een andere kant op gaan. Alles wat ik wou maken werkte gewoon niet goed op mijn website. Ik heb opnieuw wat inspiratie opgezocht. Ik wil iets maken dat simplistisch maar nog steeds magnetisch is. Simplistisch omdat het dan werkt op een website, het zier er schoon en netjes uit en magnetisch omdat dat het woord is dat mijn onderwerp omschrijft. Dit is de visuele inspiratie die ik heb verzameld.<div> <img width="421" height="605" alt="Scherm­afbeelding 2026-09-21 om 14 02 31" src="https://github.com/user-attachments/assets/661cabb3-8cd1-4a57-b3fe-175ec34b6012" /> </div>
 <div>
