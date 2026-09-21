@@ -6,10 +6,10 @@
     <div>Ik heb ook feedback gekregen op mijn ontwerp, dit staat in DLO en ik ga dat zeker gebruiken om mijn ontwerp te verbeteren.</div>
    Verder heb ik vandaag een teken opdracht gedaan tijdens de les.
    <img width="716" height="528" alt="Scherm­afbeelding 2026-09-21 om 18 18 16" src="https://github.com/user-attachments/assets/7521f770-ad57-4888-9bbe-6ed3b715213d" />
-<div>En als laatste natuurlijk de check out van deze dag.</div>
+En als laatste natuurlijk de check out van deze dag.
 
 
-<div><b> Donderdag 17 September </b></div>div>
+<b> Donderdag 17 September </b> <div>
 Ik was niet tevreden met mijn website en ik ben even helemaal een andere kant op gaan. Alles wat ik wou maken werkte gewoon niet goed op mijn website. Ik heb opnieuw wat inspiratie opgezocht. Ik wil iets maken dat simplistisch maar nog steeds magnetisch is. Simplistisch omdat het dan werkt op een website, het zier er schoon en netjes uit en magnetisch omdat dat het woord is dat mijn onderwerp omschrijft. Dit is de visuele inspiratie die ik heb verzameld.<div> <img width="421" height="605" alt="Scherm­afbeelding 2026-09-21 om 14 02 31" src="https://github.com/user-attachments/assets/661cabb3-8cd1-4a57-b3fe-175ec34b6012" /> </div>
 <div>
     Na het verzamelen van informatie ben ik begonnen met het maken van een ontwerp op figma.</div>
