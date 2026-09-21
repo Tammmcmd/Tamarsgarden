@@ -114,25 +114,13 @@
 </div>
 
 <div>
- ![Uploading Scherm­afbeelding 2026-09-21 om 19.35.33.png…]()
-
-</div>
-
-<div>
   Vandaag heb ik ook de deepdive gedaan grid 101 gedaan. Dat kan je hier zien op de foto’s.
 </div>
 
 <div>
-  <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 16 06 45" src="https://github.com/user-attachments/assets/4870d075-e80c-4b96-8e3e-b8656b66b54b" />
-  <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 15 49 13" src="https://github.com/user-attachments/assets/283125b4-29d9-4de6-9b0e-fb719519be23" />
-  <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 15 28 57" src="https://github.com/user-attachments/assets/a4a116aa-86b1-464e-baa3-0272e6d3af8e" />
-  <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 15 28 13" src="https://github.com/user-attachments/assets/932a2127-2303-4325-a87b-1346942a7083" />
-  <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 15 14 22" src="https://github.com/user-attachments/assets/d35bdf16-6b58-48f9-ab6a-c2463782abd6" />
-  <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 15 10 36" src="https://github.com/user-attachments/assets/7051445b-4085-419b-89de-4a33c68de5d3" />
-  <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 15 10 33" src="https://github.com/user-attachments/assets/c6b12850-364b-49cd-9daa-8ab5792444f3" />
-  <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 14 59 10" src="https://github.com/user-attachments/assets/c2bf604f-c78c-44a0-8d19-a13ee6fb7a1a" />
-  <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 14 45 28" src="https://github.com/user-attachments/assets/dc260a5a-e747-488f-915b-bf25dba03df8" />
-  <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 14 42 16" src="https://github.com/user-attachments/assets/01ecc980-d81b-4308-a164-f2d8104367bb" />
+<img width="1101" height="634" alt="Scherm­afbeelding 2026-09-21 om 19 43 24" src="https://github.com/user-attachments/assets/3b2009d4-6160-4c7d-8fd9-24a3ba24a3a8" />
+<img width="876" height="789" alt="Scherm­afbeelding 2026-09-21 om 19 41 58" src="https://github.com/user-attachments/assets/f6938935-65aa-49b7-a710-344a5d98032a" />
+
 </div>
 
 <b>Woensdag 9 September</b>
