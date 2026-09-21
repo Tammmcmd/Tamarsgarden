@@ -1,3 +1,6 @@
+<img width="699" height="377" alt="Scherm­afbeelding 2026-09-21 om 12 34 36" src="https://github.com/user-attachments/assets/bc9ac604-dac2-43fb-8e2f-287fa5251e99" />
+<img width="619" height="324" alt="Scherm­afbeelding 2026-09-21 om 12 34 19" src="https://github.com/user-attachments/assets/93ed6a34-dd4c-4080-a300-6898f60462eb" />
+<img width="619" height="324" alt="Scherm­afbeelding 2026-09-21 om 12 34 19" src="https://github.com/user-attachments/assets/5dc9baaa-4245-4cd9-89fb-e0b83a1e933d" />
 <b> Vrijdag 18 September </b>
 
 
@@ -85,6 +88,8 @@ Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, e
 * Bronnen gebruiken, van films of videoclips om inspiratie uit te halen
 
 Hierna heb ik visual research gedaan aan de hand van de opdrachten op het Miro bord. Die heb ik allemaal afgemaakt en kan je terug vinden op het Miro bord. https://miro.com/app/board/uXjVHpsKqYY=/?share_link_id=626870178987
+<img width="699" height="377" alt="Scherm­afbeelding 2026-09-21 om 12 34 36" src="https://github.com/user-attachments/assets/0396ddf8-634e-4727-8100-fc8da8a568e0" />
+<img width="619" height="324" alt="Scherm­afbeelding 2026-09-21 om 12 34 19" src="https://github.com/user-attachments/assets/9a0fb3c0-e9f6-4f6d-9362-ae05fba7c1c1" />
 
 Ook heb ik aan het einde van de les de checkout vragen beantwoord:
 Check out vragen:
