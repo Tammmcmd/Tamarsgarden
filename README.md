@@ -114,8 +114,8 @@
 </div>
 
 <div>
-  <img width="245" height="763" alt="Scherm­afbeelding 2026-09-14 om 11 32 01" src="https://github.com/user-attachments/assets/95caead9-f65f-4c0d-93dc-b839847561ba" />
-  <img width="237" height="454" alt="Scherm­afbeelding 2026-09-14 om 11 32 20" src="https://github.com/user-attachments/assets/024e8eff-d1ae-48f4-8064-059f2ea62435" />
+ ![Uploading Scherm­afbeelding 2026-09-21 om 19.35.33.png…]()
+
 </div>
 
 <div>
