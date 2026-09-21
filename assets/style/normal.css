@@ -13,7 +13,7 @@
 
 @font-face {
   font-family: "Monserratlight";
-  src: url("../Montserrat-Light.ttf");
+  src: url("../Montserrat-Light.ttf") format(truetype);
 }
 
 @font-face {
@@ -32,18 +32,17 @@ img {
 
 body {
   color-scheme: light dark;
-  background-color: white;
-  color: black;
   --background: light-dark(white, black);
-}
-
-header {
-  text-align: left;
 }
 
 header p {
   text-align: left;
   font-family: "Monserratlight";
+  line-height: 1;
+}
+
+.belichting {
+  text-align: left;
 }
 
 h1 {
@@ -90,14 +89,12 @@ section > article:nth-of-type(1) img {
   display: block;
 }
 
-/* 2. Tekstblok (strak in het midden op rij 2) */
 section > article:nth-of-type(2) {
   grid-column: 3 / 5;
   grid-row: 2;
   text-align: left;
 }
 
-/* 3. Onderste titel (onderaan vastgeplakt op rij 3) */
 section > article:nth-of-type(3) {
   grid-column: 3 / 5;
   grid-row: 3;
@@ -106,9 +103,49 @@ section > article:nth-of-type(3) {
 
 section > article:nth-of-type(2) h2 {
   margin-bottom: 0.2em;
-  word-spacing: -5%; /* Maakt de afstand onder de kop kleiner */
+  word-spacing: -5%;
 }
 
 section > article:nth-of-type(2) p {
   margin-top: 0;
+}
+
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+  font-family: "MontserratLight";
+}
+
+.site-titel {
+  margin: 0;
+  line-height: 1;
+  padding-left: 0em;
+}
+
+.nav-knoppen {
+  display: flex;
+  gap: 50px;
+  line-height: 1;
+  font-family: "MonserratLight";
+  text-decoration: none;
+}
+.nav-knoppen a {
+  text-decoration: none;
+  color: black;
+}
+.hover-belichting:hover {
+  opacity: 50%;
+}
+
+.hover-camera:hover {
+  opacity: 50%;
+}
+
+.hover-choreografie:hover {
+  opacity: 50%;
+}
+
+.hover-montage:hover {
+  opacity: 50%;
 }
