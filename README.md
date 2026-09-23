@@ -7,7 +7,8 @@ Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"
 <b> Dinsdag 22 September</b>
 <div>Ik heb gewerkt aan mijn website en ik heb floating css cards toegevoegd, dit duurde eventjes maar met hulp van een YouTube filmpje is het gelukt, het is nog niet klaar qua opmaak maar de basis is me gelukt!
 </div>
-<span><img width="714" height="529" alt="Scherm­afbeelding 2026-09-23 om 11 47 13" src="https://github.com/user-attachments/assets/3c3ee993-b972-4e44-9cc5-b3bc16590d3d"</span>
+<span><img width="714" height="529" alt="Scherm­afbeelding 2026-09-23 om 11 47 13" src="https://github.com/user-attachments/assets/9cf966ad-5d07-438d-bdf8-fa6d652c8641" />
+</span>
 
 
 <b>Maandag 21 September</b>
