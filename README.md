@@ -1,4 +1,4 @@
-<div><b>Woensdag 23 September </b></div>div>
+<div><b>Woensdag 23 September </b></div>
 <span>Vandaag moesten we wireframes tekenen in de les. Ik heb samen met mijn groepje gekozen om een wireframe te tekenen voor de darkpatterns van de website Gina tricot.</span>
 <span>We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cookies volledig af te wijzen. Er komt een knop met alleen vereiste cookies en alle cookies toestaan. Onderin de pop-up staat een knop met instellingen waar je verder kan kijken naar wat er met je data gaat gebeuren. Ook zijn niet alle noodzakelijke cookies noodzakelijk. Ook de tekst: "Statistische cookies helpen eigenaren van websites begrijpen hoe bezoekers hun website gebruiken, door anoniem gegevens te verzamelen en te rapporteren.", hoe kan dit anoniem zijn als deze cookie staat onder statistieken en niet onder noodzakelijk? 
 
