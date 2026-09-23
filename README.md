@@ -6,7 +6,7 @@ Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"
 <span><img width="2806" height="3820" alt="60a135ae-bb98-4a75-acf2-cc8c6244f4f8" src="https://github.com/user-attachments/assets/9b219152-a7e4-4f78-b205-c64502395d49" /> </span>
 
 <span>Human consent component:</span>
-<span>- Op mijn eigen website worden er sowieso gegevens verzameld door git.hub. Daarnaast heb ik fonts gebruikt van de website 1001fonts.com. Die website maakt gebruik van cookies en zouden dus ook de gegevens van gebruikers verwerken. 
+<div>- Op mijn eigen website worden er sowieso gegevens verzameld door git.hub. Daarnaast heb ik fonts gebruikt van de website 1001fonts.com. Die website maakt gebruik van cookies en zouden dus ook de gegevens van gebruikers verwerken. 
 - Een pop-up maken waarmee ze de cookies kunnen accepteren, weigeren of aanpassen. In de pop-up zou dan ook een uitgestaan over welke gegevens het gaat en wat daarmee zou gebeuren.
 - Er zijn verschillende manieren waarop je mensen toestemming kan vragen op het web bijvoorbeeld: 
 * actief een vakje aan te vinken;
@@ -14,7 +14,7 @@ Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"
 * een elektronisch formulier in te vullen;
 * een e-mail aan u te sturen;
 * een elektronische handtekening te zetten;
-* een gescand document met handtekening te uploaden.
+* een gescand document met handtekening te uploaden.</div>
   <span><img width="1000" height="494" alt="Scherm­afbeelding 2026-09-23 om 11 57 46" src="https://github.com/user-attachments/assets/dba356a1-bc15-4c9e-aa4f-51be3e603662" /></span>
 
 - Ik denk dat in mijn digital garden het beste een cookies pop-up past die simpel en niet irritant is. Omdat mijn onderwerp over beweging gaat is het misschien leuk als het in het scherm schuift inplaats van gewoon verschijnt. Verder zou ik het simpel houden met zwart wit en misschien de doorzichtigheid iets naar beneden halen zodat je nog mijn gradiënt er doorheen kan zien. Als dat zou werken zou dat denk ik wel een leuk detail zijn.</span>
