@@ -3,6 +3,21 @@ Vandaag moesten we wireframes tekenen in de les. Ik heb samen met mijn groepje g
 <span>We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cookies volledig af te wijzen. Er komt een knop met alleen vereiste cookies en alle cookies toestaan. Onderin de pop-up staat een knop met instellingen waar je verder kan kijken naar wat er met je data gaat gebeuren. Ook zijn niet alle noodzakelijke cookies noodzakelijk. Ook de tekst: "Statistische cookies helpen eigenaren van websites begrijpen hoe bezoekers hun website gebruiken, door anoniem gegevens te verzamelen en te rapporteren.", hoe kan dit anoniem zijn als deze cookie staat onder statistieken en niet onder noodzakelijk? 
 
 Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"Verplicht - kan niet worden gedeselecteerd. Noodzakelijke cookies helpen een website bruikbaarder te maken, door basisfuncties als paginanavigatie en toegang tot beveiligde gedeelten van de website mogelijk te maken. Zonder deze cookies kan de website niet naar behoren werken."</span>
+Human consent component:
+<span>- Op mijn eigen website worden er sowieso gegevens verzameld door git.hub. Daarnaast heb ik fonts gebruikt van de website 1001fonts.com. Die website maakt gebruik van cookies en zouden dus ook de gegevens van gebruikers verwerken. 
+- Een pop-up maken waarmee ze de cookies kunnen accepteren, weigeren of aanpassen. In de pop-up zou dan ook een uitgestaan over welke gegevens het gaat en wat daarmee zou gebeuren.
+- Er zijn verschillende manieren waarop je mensen toestemming kan vragen op het web bijvoorbeeld: 
+* actief een vakje aan te vinken;
+* op een knop of een link te klikken;
+* een elektronisch formulier in te vullen;
+* een e-mail aan u te sturen;
+* een elektronische handtekening te zetten;
+* een gescand document met handtekening te uploaden.
+  <span><img width="1000" height="494" alt="Scherm­afbeelding 2026-09-23 om 11 57 46" src="https://github.com/user-attachments/assets/dba356a1-bc15-4c9e-aa4f-51be3e603662" /></span>
+
+- Ik denk dat in mijn digital garden het beste een cookies pop-up past die simpel en niet irritant is. Omdat mijn onderwerp over beweging gaat is het misschien leuk als het in het scherm schuift inplaats van gewoon verschijnt. Verder zou ik het simpel houden met zwart wit en misschien de doorzichtigheid iets naar beneden halen zodat je nog mijn gradiënt er doorheen kan zien. Als dat zou werken zou dat denk ik wel een leuk detail zijn.</span>
+<span> <img width="910" height="358" alt="Scherm­afbeelding 2026-09-23 om 12 01 22" src="https://github.com/user-attachments/assets/22a66b86-9dab-4bb7-8b09-8249162a1b61" /> </span>
+
 
 <b> Dinsdag 22 September</b>
 <div>Ik heb gewerkt aan mijn website en ik heb floating css cards toegevoegd, dit duurde eventjes maar met hulp van een YouTube filmpje is het gelukt, het is nog niet klaar qua opmaak maar de basis is me gelukt!
