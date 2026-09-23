@@ -4,6 +4,12 @@ Vandaag moesten we wireframes tekenen in de les. Ik heb samen met mijn groepje g
 
 Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"Verplicht - kan niet worden gedeselecteerd. Noodzakelijke cookies helpen een website bruikbaarder te maken, door basisfuncties als paginanavigatie en toegang tot beveiligde gedeelten van de website mogelijk te maken. Zonder deze cookies kan de website niet naar behoren werken."</span>
 
+<b> Dinsdag 22 September</b>
+<div>Ik heb gewerkt aan mijn website en ik heb floating css cards toegevoegd, dit duurde eventjes maar met hulp van een YouTube filmpje is het gelukt, het is nog niet klaar qua opmaak maar de basis is me gelukt!
+</div>
+<span></span><img width="714" height="529" alt="Scherm­afbeelding 2026-09-23 om 11 47 13" src="https://github.com/user-attachments/assets/3c3ee993-b972-4e44-9cc5-b3bc16590d3d" /></span>
+
+
 <b>Maandag 21 September</b>
 <div>Vandaag hebben we tijdens de les uitleg gekregen code, en cookies. Samen met een klasgenoot heb ik cookie pup-ups onderzocht.</div>
 <div></div><img width="1127" height="421" alt="Scherm­afbeelding 2026-09-21 om 20 39 46" src="https://github.com/user-attachments/assets/81cc2586-4214-4e55-b5a4-3045e4eea4d9" /></div>
