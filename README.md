@@ -3,7 +3,7 @@ Vandaag moesten we wireframes tekenen in de les. Ik heb samen met mijn groepje g
 <span>We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cookies volledig af te wijzen. Er komt een knop met alleen vereiste cookies en alle cookies toestaan. Onderin de pop-up staat een knop met instellingen waar je verder kan kijken naar wat er met je data gaat gebeuren. Ook zijn niet alle noodzakelijke cookies noodzakelijk. Ook de tekst: "Statistische cookies helpen eigenaren van websites begrijpen hoe bezoekers hun website gebruiken, door anoniem gegevens te verzamelen en te rapporteren.", hoe kan dit anoniem zijn als deze cookie staat onder statistieken en niet onder noodzakelijk? 
 
 Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"Verplicht - kan niet worden gedeselecteerd. Noodzakelijke cookies helpen een website bruikbaarder te maken, door basisfuncties als paginanavigatie en toegang tot beveiligde gedeelten van de website mogelijk te maken. Zonder deze cookies kan de website niet naar behoren werken."</span>
-Human consent component:
+<span>Human consent component:</span>
 <span>- Op mijn eigen website worden er sowieso gegevens verzameld door git.hub. Daarnaast heb ik fonts gebruikt van de website 1001fonts.com. Die website maakt gebruik van cookies en zouden dus ook de gegevens van gebruikers verwerken. 
 - Een pop-up maken waarmee ze de cookies kunnen accepteren, weigeren of aanpassen. In de pop-up zou dan ook een uitgestaan over welke gegevens het gaat en wat daarmee zou gebeuren.
 - Er zijn verschillende manieren waarop je mensen toestemming kan vragen op het web bijvoorbeeld: 
