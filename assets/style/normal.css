@@ -124,7 +124,7 @@ section:nth-of-type(1) > article:nth-of-type(2) {
   grid-column: 3 / 5;
   grid-row: 3;
   align-self: end;
-  padding-bottom: 5%;
+  padding-bottom: 7%;
   padding-right: 5%;
   text-align: left;
   font-family: "MontserratLight";
@@ -146,16 +146,8 @@ section:nth-of-type(2) h2 {
   text-align: center;
   margin-bottom: 0.5rem;
   font-family: "MontserratLight";
-  padding-bottom: 1em;
+  padding-bottom: 3em;
   word-spacing: -2%;
-}
-
-section:nth-of-type(2) p {
-  font-size: 25px;
-  font-family: "MontserratLight";
-  font-weight: 300;
-  text-align: center;
-  align-self: start;
 }
 section:nth-of-type(2) > article:nth-of-type(2) {
   grid-column: 1 / -1;
@@ -177,7 +169,7 @@ section:nth-of-type(2) > article:nth-of-type(2) {
   align-items: center;
   justify-content: center;
   gap: 4em;
-  animation: spin 14s infinite linear;
+  animation: spin 17s infinite linear;
   padding-right: 4em;
 }
 
@@ -186,15 +178,27 @@ section:nth-of-type(2) > article:nth-of-type(2) {
   width: 12em;
   height: 13em;
   background: purple;
-  opacity: 70%;
-  border-radius: 0.5em;
+  opacity: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 2rem;
   color: white;
+  border-radius: 1em;
 }
 
+.card img {
+  filter: grayscale(100%);
+  opacity: 85%;
+  transition:
+    filter 0.5s ease,
+    opacity 0.5s ease;
+}
+
+.card:hover img {
+  filter: grayscale(0%);
+  opacity: 100%;
+}
 @keyframes spin {
   from {
     translate: 0;
