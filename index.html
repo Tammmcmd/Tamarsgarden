@@ -56,30 +56,46 @@
           <div class="carousel">
             <ul>
               <li>
-                <img src="assets/camerawerk.jpg" alt="camerawerk" />
+                <a href="camerawerk.html">
+                  <img src="assets/camerawerk.jpg" alt="camerawerk" />
+                </a>
               </li>
               <li>
-                <img src="assets/belichting.jpg" alt="belichting" />
+                <a href="belichting.html">
+                  <img src="assets/belichting.jpg" alt="belichting" />
+                </a>
               </li>
               <li>
-                <img src="assets/choreo.jpg" alt="choreografie" />
+                <a href="choreografie.html">
+                  <img src="assets/choreo.jpg" alt="choreografie" />
+                </a>
               </li>
               <li>
-                <img src="assets/montage.jpg" alt="montage" />
+                <a href="montage.html">
+                  <img src="assets/montage.jpg" alt="montage" />
+                </a>
               </li>
             </ul>
-            <ul>
+            <ul aria-hidden="true">
               <li>
-                <img src="assets/camerawerk.jpg" alt="" />
+                <a href="camerawerk.html" tabindex="-1"
+                  ><img src="assets/camerawerk.jpg" alt=""
+                /></a>
               </li>
               <li>
-                <img src="assets/belichting.jpg" alt="" />
+                <a href="belichting.html" tabindex="-1"
+                  ><img src="assets/belichting.jpg" alt=""
+                /></a>
               </li>
               <li>
-                <img src="assets/choreo.jpg" alt="" />
+                <a href="choreografie.html" tabindex="-1"
+                  ><img src="assets/choreo.jpg" alt=""
+                /></a>
               </li>
               <li>
-                <img src="assets/montage.jpg" alt="" />
+                <a href="montage.html" tabindex="-1"
+                  ><img src="assets/montage.jpg" alt=""
+                /></a>
               </li>
             </ul>
           </div>
@@ -106,8 +122,8 @@
             you’ve provided to them or that they’ve collected from your use of
             their services.
           </p>
-          <button onclick="setCookie()">Allow</button>
-          <button onclick="unsetCookie()">Deny</button>
+          <button id="cookieallow" onclick="setCookie()">Allow</button>
+          <button id="cookiedeny" onclick="unsetCookie()">Deny</button>
         </form>
       </dialog>
     </footer>
