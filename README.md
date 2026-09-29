@@ -1,3 +1,35 @@
+<div><b>Maandag 28 September</b></div>
+<div>Vandaag tijdens de les hebben we een bi-weekly geek gedaan, hiervoor had ik als voorbereiding de artikelen gelezen en filmpjes bekeken op dlo.</div>
+Hierna heb ik de toegankelijkheid getest van mijn website via mijn screen reader. Hiervoor heb ik ook een tabel gemaakt waarin staat wat je met bepaalde toetsen kan doen.
+<span><img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-28 om 15 38 52" src="https://github.com/user-attachments/assets/e5c66c86-6ab5-48d9-bab9-84b5169590b5" /></span>
+
+<span>Toets	Actie
+Tab / Shift+Tab	Volgend / vorig interactief element
+Enter	Link of knop activeren
+Spatiebalk	Knop of checkbox activeren, pagina omlaag scrollen
+Pijltjes	Binnen radiogroepen, menu's, tabs en lijsten navigeren
+Esc	Dialoog, menu of popup sluiten
+Home / End	Begin / einde van pagina of lijst
+Page Up / Page Down	Pagina omhoog / omlaag
+Ctrl+F	Zoeken op de pagina </span>
+<span>Ik heb mijn cookies consent form verder uitgewerkt en het vorm gegeven op een manier die beter past in mijn website.</span>
+<img width="1056" height="269" alt="Scherm­afbeelding 2026-09-30 om 00 24 40" src="https://github.com/user-attachments/assets/e33f2820-2b15-4e1e-a663-3c3061797fdf" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-27 om 17 33 45" src="https://github.com/user-attachments/assets/6adb4596-f472-4ffc-b85c-146f56da11e8" />
+<span>Ik heb de check-out gedaan van vandaag</span>
+1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+Dat hij liever bezig is met hoe iets er uiteindelijk uitziet op de website inplaats van hoe netjes, duidelijk en toegankelijk de code is die is geschreven.
+
+- Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+- Visuele beperkingen (blind, slechtziend, kleurenblind) 
+- Doof of slechthorendheid
+- Motorische beperkingen
+
+3. Noem drie manieren om door een website te navigeren met jouw screenreader.
+- Met het toetsenbord knoppen indrukken
+- De website laten voorlezen
+    - Langs alle klikbare elementen met ‘tab’
+
+
 <div> <b>Vrijdag 25 September</b><div>
 <span>Tijdens de les heb ik na een voortgangsgesprek verder gewerkt aan mijn website. Ik heb mijn carrousel die rond draait afgemaakt en nog gestyled met hovers en kleur, dat was moeilijk maar, ik ben blij met het resultaat.</span>
   <span><img width="1659" height="894" alt="Scherm­afbeelding 2026-09-29 om 23 47 18" src="https://github.com/user-attachments/assets/ad187e6d-8cf7-44f9-ab57-0aa1fc7c1026" /></span>
