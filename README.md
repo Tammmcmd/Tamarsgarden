@@ -1,3 +1,10 @@
+<div> <b>Vrijdag 25 September</b><div>
+<span>Tijdens de les heb ik na een voortgangsgesprek verder gewerkt aan mijn website. Ik heb mijn carrousel die rond draait afgemaakt en nog gestyled met hovers en kleur, dat was moeilijk maar, ik ben blij met het resultaat.</span>
+  <span><img width="1659" height="894" alt="Scherm­afbeelding 2026-09-29 om 23 47 18" src="https://github.com/user-attachments/assets/ad187e6d-8cf7-44f9-ab57-0aa1fc7c1026" /></span>
+<img width="981" height="293" alt="Scherm­afbeelding 2026-09-29 om 23 58 19" src="https://github.com/user-attachments/assets/f7dbe9b0-ca4f-4083-a5a0-9bce5d9d4bde" />
+Ik heb vandaag ook mijn HTML getest aan de hand van een W3C validator. De enige errors die ik heb gekregen gingen over mijn plaatjes waar ik nog geen alt= bij had geplaatst voor de rest had ik helemaal geen errors dus dat is top! Ook bijna al mijn warming’s en info’s gingen over hetzelfde, namelijk mijn h’s en mijn foto links. Daar ga ik even naar kijken.
+<pan>Hierna heb ik een begin gemaakt aan mijn cookies consent form. Dit heb</pan>
+  
 <div><b>Woensdag 23 September </b></div>
 Vandaag moesten we wireframes tekenen in de les. Ik heb samen met mijn groepje gekozen om een wireframe te tekenen voor de darkpatterns van de website Gina tricot.
 <span>We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cookies volledig af te wijzen. Er komt een knop met alleen vereiste cookies en alle cookies toestaan. Onderin de pop-up staat een knop met instellingen waar je verder kan kijken naar wat er met je data gaat gebeuren. Ook zijn niet alle noodzakelijke cookies noodzakelijk. Ook de tekst: "Statistische cookies helpen eigenaren van websites begrijpen hoe bezoekers hun website gebruiken, door anoniem gegevens te verzamelen en te rapporteren.", hoe kan dit anoniem zijn als deze cookie staat onder statistieken en niet onder noodzakelijk? 
