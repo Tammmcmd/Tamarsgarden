@@ -1,3 +1,7 @@
+<span><b>Disndag 29 September</b></span>
+Ik heb de deep dive meer interactie met HTML en CSS gedaan.
+<span> <img width="973" height="600" alt="Scherm­afbeelding 2026-09-30 om 00 29 24" src="https://github.com/user-attachments/assets/b5967788-2d27-4e6b-bda5-078d3ea18ef1" /> </span>
+
 <div><b>Maandag 28 September</b></div>
 <div>Vandaag tijdens de les hebben we een bi-weekly geek gedaan, hiervoor had ik als voorbereiding de artikelen gelezen en filmpjes bekeken op dlo.</div>
 Hierna heb ik de toegankelijkheid getest van mijn website via mijn screen reader. Hiervoor heb ik ook een tabel gemaakt waarin staat wat je met bepaalde toetsen kan doen.
