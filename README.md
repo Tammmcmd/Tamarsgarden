@@ -13,7 +13,7 @@ Interactie elementen  link, button, dialog, details/summary, inputs
 Hierna heb ik de A11 check lijst ingevuld.
 <img width="495" height="780" alt="Scherm­afbeelding 2026-09-30 om 17 51 57" src="https://github.com/user-attachments/assets/5d47b07b-8f96-49f0-aac5-17e6b05e87f7" />
 <div>Er zijn nog een paar dingen die ik kan verbeteren om te zorgen dat mijn website toegankelijk is. Ik heb voor mijzelf een lijstje gemaakt en ga proberen het zo snel mogelijk af te krijgen.</div>
-Als laatst heb ik natuurlijk ook nog de check-out gedaan van de dag.
+<span></span>Als laatst heb ik natuurlijk ook nog de check-out gedaan van de dag.
 Waar staat WCAG en A11y voor?
 - WCAG staat voor De Web Content Accessibility Guidelines het is een standaard voor de toegankelijkheid van websites.
 - A11y is een checklist van die standaarden. 
@@ -23,7 +23,7 @@ Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of 
 
 Met welke beperking rekening houden vind je het meest lastig? 
 - Ik denk blindheid, dan ben je echt volledig afhankelijk kan een screenreader die voorleest. Daarvoor moet je dus ook veel dingen toevoegen in je code. Vind je dat je beperkt wordt in wat je kunt ontwerpen? 
-- Een beetje je moet nu zorgen dat alles in een ‘logische volgorde staat’ anders is het voor sommige mensen niet te gebruiken. Dat zorgt wel voor beperking van creatieve vrijheid bepaalde ontwerpen kan je dan niet meer maken.  
+- Een beetje je moet nu zorgen dat alles in een ‘logische volgorde staat’ anders is het voor sommige mensen niet te gebruiken. Dat zorgt wel voor beperking van creatieve vrijheid bepaalde ontwerpen kan je dan niet meer maken.  <span>
 
 <span><b>Disndag 29 September</b></span>
 Ik heb de deep dive meer interactie met HTML en CSS gedaan.
