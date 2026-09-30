@@ -1,3 +1,30 @@
+<span><b>Woensdag 30 September</b></span>
+Vandaag heb ik de toegankelijkheid van mijn website gecheckt aan de hand van de vragen en checkpoints op dlo:
+<div>Headings
+Is de structuur logisch?
+- De focus state volgt dezelfde structuur van de pagina dus die werkt en is ook duidelijk.  Geeft elk kopje goed aan wat er onder het kopje valt?
+- Als ik de screenreader alles laat lezen geeft hij ook de juiste inhoud bij de kopjes.
+
+
+Interactie elementen  link, button, dialog, details/summary, inputs
+- Alle links en buttons werken met de screenreader. Details heb ik volgens mij ook goed gebruikt en de rest heb ik niet in mijn HTML. Bij alle links wordt er verteld wat ze zijn en waar ze naar toegaan. Alle buttons hebben een ’alt’. 
+- Ook heb ik een skip content button in mijn code.
+- Niet al mijn knoppen en links hebben een focus en Active state dus dat ga ik nog toevoegen.</div>
+Hierna heb ik de A11 check lijst ingevuld.
+<img width="495" height="780" alt="Scherm­afbeelding 2026-09-30 om 17 51 57" src="https://github.com/user-attachments/assets/5d47b07b-8f96-49f0-aac5-17e6b05e87f7" />
+<div>Er zijn nog een paar dingen die ik kan verbeteren om te zorgen dat mijn website toegankelijk is. Ik heb voor mijzelf een lijstje gemaakt en ga proberen het zo snel mogelijk af te krijgen.</div>
+Als laatst heb ik natuurlijk ook nog de check-out gedaan van de dag.
+Waar staat WCAG en A11y voor?
+- WCAG staat voor De Web Content Accessibility Guidelines het is een standaard voor de toegankelijkheid van websites.
+- A11y is een checklist van die standaarden. 
+
+Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
+- Met een screenreader vindt ik lastiger dat ben ik nog niet gewend, ik weet nog niet hoe ik dat precies doe. Ik moet dus vooral beter leren welke toetsen ik moet gebruiken met een screenreader. 
+
+Met welke beperking rekening houden vind je het meest lastig? 
+- Ik denk blindheid, dan ben je echt volledig afhankelijk kan een screenreader die voorleest. Daarvoor moet je dus ook veel dingen toevoegen in je code. Vind je dat je beperkt wordt in wat je kunt ontwerpen? 
+- Een beetje je moet nu zorgen dat alles in een ‘logische volgorde staat’ anders is het voor sommige mensen niet te gebruiken. Dat zorgt wel voor beperking van creatieve vrijheid bepaalde ontwerpen kan je dan niet meer maken.  
+
 <span><b>Disndag 29 September</b></span>
 Ik heb de deep dive meer interactie met HTML en CSS gedaan.
 <span> <img width="973" height="600" alt="Scherm­afbeelding 2026-09-30 om 00 29 24" src="https://github.com/user-attachments/assets/b5967788-2d27-4e6b-bda5-078d3ea18ef1" /> </span>
