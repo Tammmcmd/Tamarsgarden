@@ -7,15 +7,8 @@ Ik heb de deep dive meer interactie met HTML en CSS gedaan.
 Hierna heb ik de toegankelijkheid getest van mijn website via mijn screen reader. Hiervoor heb ik ook een tabel gemaakt waarin staat wat je met bepaalde toetsen kan doen.
 <span><img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-28 om 15 38 52" src="https://github.com/user-attachments/assets/e5c66c86-6ab5-48d9-bab9-84b5169590b5" /></span>
 
-<span>Toets	Actie
-Tab / Shift+Tab	Volgend / vorig interactief element
-Enter	Link of knop activeren
-Spatiebalk	Knop of checkbox activeren, pagina omlaag scrollen
-Pijltjes	Binnen radiogroepen, menu's, tabs en lijsten navigeren
-Esc	Dialoog, menu of popup sluiten
-Home / End	Begin / einde van pagina of lijst
-Page Up / Page Down	Pagina omhoog / omlaag
-Ctrl+F	Zoeken op de pagina </span>
+<img width="384" height="347" alt="Scherm­afbeelding 2026-09-30 om 18 36 33" src="https://github.com/user-attachments/assets/3d049309-6131-4c50-85ec-b84f6ba1fb2f" />
+
 <span>Ik heb mijn cookies consent form verder uitgewerkt en het vorm gegeven op een manier die beter past in mijn website.</span>
 <img width="1056" height="269" alt="Scherm­afbeelding 2026-09-30 om 00 24 40" src="https://github.com/user-attachments/assets/e33f2820-2b15-4e1e-a663-3c3061797fdf" />
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-27 om 17 33 45" src="https://github.com/user-attachments/assets/6adb4596-f472-4ffc-b85c-146f56da11e8" />
