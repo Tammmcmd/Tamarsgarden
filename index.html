@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="nl">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -12,8 +12,9 @@
 
   <body>
     <header>
+      <a href="#main" class="skip-link">Direct naar inhoud</a>
       <p>Tamar's digital garden</p>
-      <nav>
+      <nav aria-label="Hoofdmenu">
         <ul>
           <li><a href="belichting.html">Belichting</a></li>
           <li><a href="camerawerk.html">Camera werk</a></li>
@@ -23,7 +24,7 @@
       </nav>
     </header>
 
-    <main>
+    <main id="main" tabindex="-1">
       <section>
         <article>
           <h1>Dans op camera</h1>
@@ -53,48 +54,63 @@
           </p>
         </article>
         <article>
-          <div class="carousel">
+          <div
+            class="carousel"
+            role="region"
+            aria-label="Onderwerpen"
+            aria-roledescription="carousel"
+          >
             <ul>
               <li>
                 <a href="camerawerk.html">
-                  <img src="assets/camerawerk.jpg" alt="camerawerk" />
+                  <img
+                    src="assets/camerawerk.jpg"
+                    alt="pagina over camerawerk"
+                  />
                 </a>
               </li>
               <li>
                 <a href="belichting.html">
-                  <img src="assets/belichting.jpg" alt="belichting" />
+                  <img
+                    src="assets/belichting.jpg"
+                    alt="pagina over belichting"
+                  />
                 </a>
               </li>
               <li>
                 <a href="choreografie.html">
-                  <img src="assets/choreo.jpg" alt="choreografie" />
+                  <img src="assets/choreo.jpg" alt="pagina over choreografie" />
                 </a>
               </li>
               <li>
                 <a href="montage.html">
-                  <img src="assets/montage.jpg" alt="montage" />
+                  <img src="assets/montage.jpg" alt="pagina over montage" />
                 </a>
               </li>
             </ul>
             <ul aria-hidden="true">
               <li>
                 <a href="camerawerk.html" tabindex="-1"
-                  ><img src="assets/camerawerk.jpg" alt="camerawerk"
+                  ><img
+                    src="assets/camerawerk.jpg"
+                    alt="pagina over camerawerk"
                 /></a>
               </li>
               <li>
                 <a href="belichting.html" tabindex="-1"
-                  ><img src="assets/belichting.jpg" alt="balichting"
+                  ><img
+                    src="assets/belichting.jpg"
+                    alt="pagina over belichting"
                 /></a>
               </li>
               <li>
                 <a href="choreografie.html" tabindex="-1"
-                  ><img src="assets/choreo.jpg" alt="choreografie"
+                  ><img src="assets/choreo.jpg" alt="pagina over choreografie"
                 /></a>
               </li>
               <li>
                 <a href="montage.html" tabindex="-1"
-                  ><img src="assets/montage.jpg" alt="montage"
+                  ><img src="assets/montage.jpg" alt="pagina over montage"
                 /></a>
               </li>
             </ul>
@@ -106,7 +122,7 @@
     <footer>
       <p>[Copyleft 2026, all wrongs reversed]</p>
 
-      <nav>
+      <nav aria-label="Cookievoorkeuren">
         <button commandfor="cookieModal" command="show-modal">
           <span>Allow cookies?</span>
         </button>
@@ -115,15 +131,12 @@
       <dialog id="cookieModal">
         <form method="dialog">
           <p>
-            We use cookies to personalise content and ads, to provide social
-            media features and to analyse our traffic. We also share information
-            about your use of our site with our social media, advertising and
-            analytics partners who may combine it with other information that
-            you’ve provided to them or that they’ve collected from your use of
-            their services.
+            Welkom in mijn digitale tuin! Deze website wordt gehost via Github
+            pages. Github pages houdt technische logs bij (zoals IP-adres) voor
+            beveiliging.
           </p>
-          <button id="cookieallow" onclick="setCookie()">Allow</button>
-          <button id="cookiedeny" onclick="unsetCookie()">Deny</button>
+          <button id="cookieallow" onclick="setCookie()">Akoord</button>
+          <button id="cookiedeny" onclick="unsetCookie()">Weiger</button>
         </form>
       </dialog>
     </footer>
