@@ -95,6 +95,15 @@ h2 {
 /**************************
 * MARK: Header
 **************************/
+
+.skip-link:focus {
+  position: absolute;
+  top: 50px;
+  left: 20px;
+  color: black;
+  z-index: 1000;
+}
+
 header {
   display: flex;
   justify-content: space-between;
@@ -125,9 +134,10 @@ nav a:hover {
   opacity: 0.5;
 }
 
+/* Styling voor wanneer er op een link wordt geklikt (Active) */
 nav a:active {
   opacity: 0.3;
-  transform: scale(0.98);
+  transform: scale(0.98); /* subtiel 'indruk'-effect */
 }
 
 /**************************
@@ -318,4 +328,14 @@ footer {
   background-color: rgb(126, 10, 134);
   border-radius: 0.5em;
   color: white;
+}
+
+#cookieallow:hover,
+#cookiedeny:hover {
+  opacity: 0.9;
+  background-color: rgb(191, 3, 201);
+}
+#cookieallow:active,
+#cookiedeny:active {
+  background-color: rgb(68, 4, 73); /* Iets donkerder paars */
 }
