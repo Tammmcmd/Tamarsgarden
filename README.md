@@ -3,8 +3,8 @@ Vandaag zijn we tijdens de les begonnen met het lezen van artikelen. Ik heb same
 <img width="764" height="412" alt="Scherm­afbeelding 2026-10-05 om 23 55 31" src="https://github.com/user-attachments/assets/a4e8c8e2-1987-40b2-bc28-95eaa1fc8ba7" />
 
 hierna zijn we bezig geweest met typografie. Ik heb de opdracht gemaakt tijdens de les en tien schetsen gemaakt met de tekst van het liedje 'voor ik vergeet' van Spinvis. Deze schetsen heb ik vervolgens besproken met een klasgenoot (Jesse). Hierna was de les eigenlijk al klaar en heb ik nog een checkout gedaan. Toen ik thuis kwam ben ik verder gaan werken aan de typografie opdracht en heb ik gelijk de eerste digitale vertaling van mijn schetsen gemaakt!
-<div><img width="587" height="396" alt="Scherm­afbeelding 2026-10-05 om 23 51 07" src="https://github.com/user-attachments/assets/c6e42c82-016d-407e-a701-7f875b01e2a0" </div>
-Checkout van de les:
+<img width="587" height="396" alt="Scherm­afbeelding 2026-10-05 om 23 51 07" src="https://github.com/user-attachments/assets/c6e42c82-016d-407e-a701-7f875b01e2a0" 
+<div>Checkout van de les:</div>
 1. Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
 * Kerning: Ruimte tussen twee specifieke letters.
 * Tracking: Ruimte tussen alle letters in een woord/zin.
