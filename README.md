@@ -5,6 +5,7 @@ Vandaag had ik een voortgang gesprek met Vasillis, het onderdeel waar ik het mee
 - het contrast checken bij de header tekst
 <div>Het eerste wat ik gelijk heb aangepast was de tekst van de header, die stond op blauw en heb ik zwart gemaakt zodat die beter te lezen was.</div>
 Verder heb ik tijdens de les de retrospect gedaan.
+<img width="799" height="574" alt="Scherm­afbeelding 2026-10-05 om 23 46 46" src="https://github.com/user-attachments/assets/a7e8e6df-d4cc-4d9a-b1b6-d150feee7191" />
 
 <span><b>Woensdag 30 September</b></span>
 Vandaag heb ik de toegankelijkheid van mijn website gecheckt aan de hand van de vragen en checkpoints op dlo:
@@ -157,11 +158,12 @@ Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onder
 
 <div>
   Ik heb ook feedback gekregen op mijn ontwerp, dit staat in DLO en ik ga dat zeker gebruiken om mijn ontwerp te verbeteren.
-  Verder heb ik vandaag een teken opdracht gedaan tijdens de les.
+  Verder heb ik vandaag een teken opdracht gedaan tijdens de les de retrospectief.
 </div>
 
 <div>
-  <img width="716" height="528" alt="Scherm­afbeelding 2026-09-21 om 18 18 16" src="https://github.com/user-attachments/assets/7521f770-ad57-4888-9bbe-6ed3b715213d" />
+  <img width="951" height="326" alt="Scherm­afbeelding 2026-10-05 om 23 44 23" src="https://github.com/user-attachments/assets/f3fb9b45-bbf4-48b6-84ef-62425c3c68ce" />
+
 </div>
 
 <div>
