@@ -26,7 +26,7 @@ hierna zijn we bezig geweest met typografie. Ik heb de opdracht gemaakt tijdens 
 
 3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
 Ik zou persoonlijk spacing gebruiken, dan kan je nog steeds tekst van elkaar scheiden en dingen benadrukken.
-<div>Ook heb ik thuis alvast de deep-dive interessante lay-outs gedaan, die kan ik ook gebruiken voor mijn typografie opdracht.
+<div>Ook heb ik thuis alvast de deep-dive interessante lay-outs gedaan, die kan ik ook gebruiken voor de typografie opdracht.
 <img width="980" height="306" alt="Scherm­afbeelding 2026-10-05 om 23 51 27" src="https://github.com/user-attachments/assets/6938d3ff-eea5-4e5f-af71-ccf5c42c5823" /></div>
 
 <b>vrijdag 2 September </b>
