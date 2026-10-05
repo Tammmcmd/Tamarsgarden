@@ -4,7 +4,7 @@ Vandaag zijn we tijdens de les begonnen met het lezen van artikelen. Ik heb same
 
 hierna zijn we bezig geweest met typografie. Ik heb de opdracht gemaakt tijdens de les en tien schetsen gemaakt met de tekst van het liedje 'voor ik vergeet' van Spinvis. Deze schetsen heb ik vervolgens besproken met een klasgenoot (Jesse). Hierna was de les eigenlijk al klaar en heb ik nog een checkout gedaan. Toen ik thuis kwam ben ik verder gaan werken aan de typografie opdracht en heb ik gelijk de eerste digitale vertaling van mijn schetsen gemaakt!
 <div><img width="587" height="396" alt="Scherm­afbeelding 2026-10-05 om 23 51 07" src="https://github.com/user-attachments/assets/c6e42c82-016d-407e-a701-7f875b01e2a0" </div>
-<span> Checkout van de les:
+Checkout van de les:
 1. Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
 * Kerning: Ruimte tussen twee specifieke letters.
 * Tracking: Ruimte tussen alle letters in een woord/zin.
@@ -25,9 +25,9 @@ hierna zijn we bezig geweest met typografie. Ik heb de opdracht gemaakt tijdens 
 40 - 60 karakters is mijn ideale regellengte.
 
 3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
-Ik zou persoonlijk spacing gebruiken, dan kan je nog steeds tekst van elkaar scheiden en dingen benadrukken. </span>
-Ook heb ik thuis alvast de deep-dive interessante lay-outs gedaan, die kan ik ook gebruiken voor mijn typografie opdracht.
-<img width="980" height="306" alt="Scherm­afbeelding 2026-10-05 om 23 51 27" src="https://github.com/user-attachments/assets/6938d3ff-eea5-4e5f-af71-ccf5c42c5823" />
+Ik zou persoonlijk spacing gebruiken, dan kan je nog steeds tekst van elkaar scheiden en dingen benadrukken.
+<span>Ook heb ik thuis alvast de deep-dive interessante lay-outs gedaan, die kan ik ook gebruiken voor mijn typografie opdracht.
+<img width="980" height="306" alt="Scherm­afbeelding 2026-10-05 om 23 51 27" src="https://github.com/user-attachments/assets/6938d3ff-eea5-4e5f-af71-ccf5c42c5823" /></span>
 
 <b>vrijdag 2 September </b>
 Vandaag had ik een voortgang gesprek met Vasillis, het onderdeel waar ik het meeste feedback over heb gekregen is de toegankelijkheid van mijn website. Ik had die wel al getest en geoefend maar er waren nog een paar onderdelen die nog niet helemaal voldoen aan de eisen. <span>Wat ik nog ga verbeteren: 
