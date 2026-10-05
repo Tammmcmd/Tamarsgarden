@@ -1,3 +1,11 @@
+<b>vrijdag 2 September <b>
+Vandaag had ik een voortgang gesprek met Vasillis, het onderdeel waar ik het meeste feedback over heb gekregen is de toegankelijkheid van mijn website. Ik had die wel al getest en geoefend maar er waren nog een paar onderdelen die nog niet helemaal voldoen aan de eisen. <span>Wat ik nog ga verbeteren: 
+- dat je een overzicht kan krijgen van alle links en hoofdstukken met een screen reader.
+- de hover nog beter maken, op mijn carrousel wordt die niet goed gepakt.
+- het contrast checken bij de header tekst
+<div>Het eerste wat ik gelijk heb aangepast was de tekst van de header, die stond op blauw en heb ik zwart gemaakt zodat die beter te lezen was.</div>
+Verder heb ik tijdens de les de retrospect gedaan.
+
 <span><b>Woensdag 30 September</b></span>
 Vandaag heb ik de toegankelijkheid van mijn website gecheckt aan de hand van de vragen en checkpoints op dlo:
 <div>Headings
