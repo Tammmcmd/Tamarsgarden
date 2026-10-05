@@ -1,3 +1,34 @@
+<b> Maandag 5 September </b> 
+Vandaag zijn we tijdens de les begonnen met het lezen van artikelen. Ik heb samen met drie anderen klasgenoten het artikel over de modular scale gelezen en daar een korte samenvatting van gemaakt.
+<img width="764" height="412" alt="Scherm­afbeelding 2026-10-05 om 23 55 31" src="https://github.com/user-attachments/assets/a4e8c8e2-1987-40b2-bc28-95eaa1fc8ba7" />
+
+hierna zijn we bezig geweest met typografie. Ik heb de opdracht gemaakt tijdens de les en tien schetsen gemaakt met de tekst van het liedje 'voor ik vergeet' van Spinvis. Deze schetsen heb ik vervolgens besproken met een klasgenoot (Jesse). Hierna was de les eigenlijk al klaar en heb ik nog een checkout gedaan. Toen ik thuis kwam ben ik verder gaan werken aan de typografie opdracht en heb ik gelijk de eerste digitale vertaling van mijn schetsen gemaakt!
+<img width="587" height="396" alt="Scherm­afbeelding 2026-10-05 om 23 51 07" src="https://github.com/user-attachments/assets/c6e42c82-016d-407e-a701-7f875b01e2a0" />
+<span> Checkout van de les:
+1. Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
+* Kerning: Ruimte tussen twee specifieke letters.
+* Tracking: Ruimte tussen alle letters in een woord/zin.
+* Leading: Regelafstand.
+* Flush-left: Links uitgelijnd.
+* Flush-right: Rechts uitgelijnd.
+* Centered: Gecentreerd in het midden.
+* Justified: Uitgevuld (zowel links als rechts uitgelijnd).
+* Indent: Inspringen van tekst.
+* Outdent: Uitspringen van tekst (eerste regel steekt uit).
+* Modular scale: Harmonieuze verhouding voor lettergroottes.
+* Movable type: Losse, herbruikbare drukletters.
+* Focus punt: Waar de aandacht als eerste naartoe gaat in een ontwerp.
+* Vijf soorten contrast: Contrast in typografie: grootte, gewicht, structuur (lettertype), vorm en kleur.
+* Spatial tension: Visuele spanning door de afstand en plaatsing van elementen.
+
+2. Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+40 - 60 karakters is mijn ideale regellengte.
+
+3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+Ik zou persoonlijk spacing gebruiken, dan kan je nog steeds tekst van elkaar scheiden en dingen benadrukken. </span>
+Ook heb ik thuis alvast de deep-dive interessante lay-outs gedaan, die kan ik ook gebruiken voor mijn typografie opdracht.
+<img width="980" height="306" alt="Scherm­afbeelding 2026-10-05 om 23 51 27" src="https://github.com/user-attachments/assets/6938d3ff-eea5-4e5f-af71-ccf5c42c5823" />
+
 <b>vrijdag 2 September </b>
 Vandaag had ik een voortgang gesprek met Vasillis, het onderdeel waar ik het meeste feedback over heb gekregen is de toegankelijkheid van mijn website. Ik had die wel al getest en geoefend maar er waren nog een paar onderdelen die nog niet helemaal voldoen aan de eisen. <span>Wat ik nog ga verbeteren: 
 - dat je een overzicht kan krijgen van alle links en hoofdstukken met een screen reader.
