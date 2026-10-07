@@ -1,3 +1,14 @@
+<b> Woensdag 7 September </b>
+Vandaag zijn we tijdens de les verder gegaan met de typografie opdracht. Ik heb een van de digitale ontwerpen die ik gister heb gemaakt uitgewerkt in html/css. Dat ging eigenlijk helemaal goed. Aan het einde van de les kregen we ook uitleg over transitions. Ik heb ook gebruik gemaakt van transitions in mijn ontwerp die je kan zien wanneer je over het element gaat met je muis.
+
+
+https://github.com/user-attachments/assets/b7db8398-5b6c-4f17-b21a-9934aefed1a4
+
+
+<b> dinsdag 6 september</b>
+Ik had gister al een eerste ontwerp gemaakt voor de typografie opdracht maar ben niet helemaal blij met hoe dat eruit ziet. Vandaag heb ik opnieuw geschetst en ontwerpen gemaakt op figma.
+<img width="982" height="481" alt="Scherm­afbeelding 2026-10-07 om 19 22 05" src="https://github.com/user-attachments/assets/eb49bd5b-f925-48c3-8a29-31006bb1342d" />
+
 <b> Maandag 5 September </b> 
 Vandaag zijn we tijdens de les begonnen met het lezen van artikelen. Ik heb samen met drie anderen klasgenoten het artikel over de modular scale gelezen en daar een korte samenvatting van gemaakt.
 <img width="764" height="412" alt="Scherm­afbeelding 2026-10-05 om 23 55 31" src="https://github.com/user-attachments/assets/a4e8c8e2-1987-40b2-bc28-95eaa1fc8ba7" />
