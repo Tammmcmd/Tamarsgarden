@@ -1,9 +1,33 @@
 <b> Woensdag 7 September </b>
-Vandaag zijn we tijdens de les verder gegaan met de typografie opdracht. Ik heb een van de digitale ontwerpen die ik gister heb gemaakt uitgewerkt in html/css. Dat ging eigenlijk helemaal goed. Aan het einde van de les kregen we ook uitleg over transitions. Ik heb ook gebruik gemaakt van transitions in mijn ontwerp die je kan zien wanneer je over het element gaat met je muis.
+Vandaag zijn we tijdens de les verder gegaan met de typografie opdracht. Ik heb een van de digitale ontwerpen die ik gister heb gemaakt uitgewerkt in html/css. Dat ging eigenlijk helemaal goed. Ik heb hierbij de opdracht gebruikt die op dlo stond: 
+1.Bepaal de line-height bij je gekozen font-size
+Mijn font-size is 30px hierbij hoort een line-height van 36px
+
+2.Baseer je column-width op een veelvoud van je line-height
+504px 
+
+3.Kun je daarmee een grid maken dat past bij je pagina ontwerp, rekening houdend met je measures?
+Ja,  grid-template-columns: 504px;
+<div>Aan het einde van de les kregen we ook uitleg over transitions. Ik heb ook gebruik gemaakt van transitions in mijn ontwerp die je kan zien wanneer je over het element gaat met je muis.</div>
 
 
 https://github.com/user-attachments/assets/b7db8398-5b6c-4f17-b21a-9934aefed1a4
 
+
+
+https://github.com/user-attachments/assets/370c59b1-e71f-4cf4-8533-84fcda627464
+
+<div>En op het einde van de les heb ik de check-out gedaan van de dag</div>
+1. Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+Een grid zorgt voor consistentie in een ontwerp en een duidelijke structuurDit zorgt ervoor dat een pagina overzichtelijker en duidelijker wordt voor gebruikers. 
+
+2. Noem drie manieren om chaos in je ontwerp te voorkomen.
+- Gebruik maken van een grid lay-out
+- een line-height bepalen op basis van je font-size 
+- Je column-width baseren op een veelvoud van je line-height
+
+1. Hoeveel gekkigheid moet er in je werk zitten?
+Zoveel je wilt het moet alleen gedaan worden op een manier die niet weg neemt van de overzichtelijkheid en affordance van een pagina.
 
 <b> dinsdag 6 september</b>
 Ik had gister al een eerste ontwerp gemaakt voor de typografie opdracht maar ben niet helemaal blij met hoe dat eruit ziet. Vandaag heb ik opnieuw geschetst en ontwerpen gemaakt op figma.
