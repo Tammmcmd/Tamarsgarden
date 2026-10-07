@@ -14,8 +14,8 @@ Ja,  grid-template-columns: 504px;
 https://github.com/user-attachments/assets/b7db8398-5b6c-4f17-b21a-9934aefed1a4
 
 
+<img width="639" height="672" alt="Scherm­afbeelding 2026-10-07 om 19 31 59" src="https://github.com/user-attachments/assets/f008b894-fd6d-4ff1-b6aa-5266834f7aca" />
 
-https://github.com/user-attachments/assets/370c59b1-e71f-4cf4-8533-84fcda627464
 
 <div>En op het einde van de les heb ik de check-out gedaan van de dag</div>
 1. Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
