@@ -1,3 +1,7 @@
+<b> Donderdag 7 September </b>
+Ik heb de deepdive variabele fonts gedaan.
+<img width="1116" height="726" alt="Scherm­afbeelding 2026-10-08 om 15 28 20" src="https://github.com/user-attachments/assets/31778ad5-6833-456b-8877-b9e01b6b8a0c" />
+
 <b> Woensdag 7 September </b>
 Vandaag zijn we tijdens de les verder gegaan met de typografie opdracht. Ik heb een van de digitale ontwerpen die ik gister heb gemaakt uitgewerkt in html/css. Dat ging eigenlijk helemaal goed. Ik heb hierbij de opdracht gebruikt die op dlo stond: 
 1.Bepaal de line-height bij je gekozen font-size
