@@ -23,7 +23,7 @@ Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave 
 - Ik heb al veel animaties toegepast in mijn ontwerp. Uit mijn feedback kwam alleen dat ik die animaties misschien uit zichzelf kon laten bewegen want dat gaat nu met een hover. </span>
 <div>Na de checkout ben ik begonnen aan het huiswerk en heb ik even duidelijk gemaakt wat ik nog kan verbeteren aan het ontwerp van mijn song tekst. </div>
     Feedback: "De pa's in de pagina zijn leuk en voegen echt wel iets bijzonders toe aan de pagina. Het zou misschien leuk zijn als je pa's uit zichzelf konden bewegen."
-Aanpassing: De paragrafen (<p>) bewegen nu subtiel en automatisch over het scherm dankzij een rustige CSS-animatie. Dit versterkt het 'drijvende' en filmische gevoel van een vervagende herinnering.
+<div>Aanpassing: Ik ga de animatie van de pa's uit zich zelf af laten spelen op een manier dat het 'drijvende' en filmische gevoel van een vervagende herinnering versterkt.</div>
     
 <div><b> Donderdag 8 Oktober </b></div>
 Ik heb de deepdive variabele fonts gedaan.
