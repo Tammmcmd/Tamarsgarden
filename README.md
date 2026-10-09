@@ -1,8 +1,32 @@
-<b> Donderdag 7 September </b>
+<b>Vrijdag 9 Oktober</b>
+Ik was vandaag nog al ziek dus ben jammer genoeg niet op school geweest en heb dus geen feedback kunnen krijgen van klasgenoten of docenten. Wel heb ik feedback gevraagd aan mijn ouders zodat ik wel nog aan de slag kon met de opdrachten en het huiswerk.
+<div>Feedback:
+-De pa's in de pagina zijn leuk en voegen echt wel iets bijzonders toe aan de pagina.
+- Met een uitleg van wat je hebt gedaan worden de keuzes die je hebt gemaakt duidelijk. Heel leuk hoe je bepaalde dingen dikgedrukt hebt gemaakt en andere heb laten vervagen, dat geeft veel betekenis aan de tekst. 
+- Het zou misschien leuk zijn als je pa's uit zichzelf konden bewegen. </div>
+Na het ontvangen van de feedback heb ik even de checkout gedaan van de dag en ben ik alvast begonnen aan het huiswerk.
+<div>Checkout:
+Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+    -  font-variation-settings:
+    "wght" 100,
+    "SRFS" 25;
+    - font-variation-settings:
+    "wght" 130,
+    "SRFS" 25;
+    -  font-variation-settings:
+    "wght" 150,
+    "SRFS" 20;
+    - ja echt heel veel meer verschillende weet niet of het nut heeft om die allemaal op te schrijven.
+Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+    - Ik gebruik typografie om het verhaal van de tekst visueel te versterken. In het begin is het woord 'JOU' groot en dikgedrukt, omdat de zanger vertelt hoeveel hij van deze persoon houdt. Later, wanneer het gaat over het vergeten van de persoon, worden de woorden 'jou' en 'vergeet' juist steeds kleiner, lichter en waziger. Ik wil hiermee visueel weergeven hoe een herinnering langzaam vervaagt.
+Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?</div>
+- Ik heb al veel animaties toegepast in mijn ontwerp. Uit mijn feedback kwam alleen dat ik die animaties misschien uit zichzelf kon laten bewegen want dat gaat nu met een hover. 
+
+<b> Donderdag 8 Oktober </b>
 Ik heb de deepdive variabele fonts gedaan.
 <img width="1116" height="726" alt="Scherm­afbeelding 2026-10-08 om 15 28 20" src="https://github.com/user-attachments/assets/31778ad5-6833-456b-8877-b9e01b6b8a0c" />
 
-<b> Woensdag 7 September </b>
+<b> Woensdag 7 Oktober </b>
 Vandaag zijn we tijdens de les verder gegaan met de typografie opdracht. Ik heb een van de digitale ontwerpen die ik gister heb gemaakt uitgewerkt in html/css. Dat ging eigenlijk helemaal goed. Ik heb hierbij de opdracht gebruikt die op dlo stond: 
 1.Bepaal de line-height bij je gekozen font-size
 Mijn font-size is 30px hierbij hoort een line-height van 36px
