@@ -21,8 +21,11 @@ Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchi
     - Ik gebruik typografie om het verhaal van de tekst visueel te versterken. In het begin is het woord 'JOU' groot en dikgedrukt, omdat de zanger vertelt hoeveel hij van deze persoon houdt. Later, wanneer het gaat <span>over het vergeten van de persoon, worden de woorden 'jou' en 'vergeet' juist steeds kleiner, lichter en waziger. Ik wil hiermee visueel weergeven hoe een herinnering langzaam vervaagt.
 Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?</div>
 - Ik heb al veel animaties toegepast in mijn ontwerp. Uit mijn feedback kwam alleen dat ik die animaties misschien uit zichzelf kon laten bewegen want dat gaat nu met een hover. </span>
-
-<b> Donderdag 8 Oktober </b>
+<div>Na de checkout ben ik begonnen aan het huiswerk en heb ik even duidelijk gemaakt wat ik nog kan verbeteren aan het ontwerp van mijn song tekst. </div>
+    Feedback: "De pa's in de pagina zijn leuk en voegen echt wel iets bijzonders toe aan de pagina. Het zou misschien leuk zijn als je pa's uit zichzelf konden bewegen."
+Aanpassing: De paragrafen (<p>) bewegen nu subtiel en automatisch over het scherm dankzij een rustige CSS-animatie. Dit versterkt het 'drijvende' en filmische gevoel van een vervagende herinnering.
+    
+<div><b> Donderdag 8 Oktober </b></div>
 Ik heb de deepdive variabele fonts gedaan.
 <img width="1116" height="726" alt="Scherm­afbeelding 2026-10-08 om 15 28 20" src="https://github.com/user-attachments/assets/31778ad5-6833-456b-8877-b9e01b6b8a0c" />
 
