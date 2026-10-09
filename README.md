@@ -6,7 +6,7 @@ Ik was vandaag nog al ziek dus ben jammer genoeg niet op school geweest en heb d
 - Het zou misschien leuk zijn als je pa's uit zichzelf konden bewegen. </div>
 Na het ontvangen van de feedback heb ik even de checkout gedaan van de dag en ben ik alvast begonnen aan het huiswerk.
 <div>Checkout:
-Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+<span>Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
     -  font-variation-settings:
     "wght" 100,
     "SRFS" 25;
@@ -16,11 +16,11 @@ Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
     -  font-variation-settings:
     "wght" 150,
     "SRFS" 20;
-    - ja echt heel veel meer verschillende weet niet of het nut heeft om die allemaal op te schrijven.
+    - ja echt heel veel meer verschillende weet niet of het nut heeft om die allemaal op te schrijven.</span>
 Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
-    - Ik gebruik typografie om het verhaal van de tekst visueel te versterken. In het begin is het woord 'JOU' groot en dikgedrukt, omdat de zanger vertelt hoeveel hij van deze persoon houdt. Later, wanneer het gaat over het vergeten van de persoon, worden de woorden 'jou' en 'vergeet' juist steeds kleiner, lichter en waziger. Ik wil hiermee visueel weergeven hoe een herinnering langzaam vervaagt.
+    - Ik gebruik typografie om het verhaal van de tekst visueel te versterken. In het begin is het woord 'JOU' groot en dikgedrukt, omdat de zanger vertelt hoeveel hij van deze persoon houdt. Later, wanneer het gaat <span>over het vergeten van de persoon, worden de woorden 'jou' en 'vergeet' juist steeds kleiner, lichter en waziger. Ik wil hiermee visueel weergeven hoe een herinnering langzaam vervaagt.
 Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?</div>
-- Ik heb al veel animaties toegepast in mijn ontwerp. Uit mijn feedback kwam alleen dat ik die animaties misschien uit zichzelf kon laten bewegen want dat gaat nu met een hover. 
+- Ik heb al veel animaties toegepast in mijn ontwerp. Uit mijn feedback kwam alleen dat ik die animaties misschien uit zichzelf kon laten bewegen want dat gaat nu met een hover. </span>
 
 <b> Donderdag 8 Oktober </b>
 Ik heb de deepdive variabele fonts gedaan.
