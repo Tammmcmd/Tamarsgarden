@@ -1,3 +1,7 @@
+<b>Weekend en vakantie</b>
+<div>Ik heb de deep-dive CSS animaties gedaan.</div>
+<img width="1046" height="731" alt="Scherm­afbeelding 2026-10-10 om 18 51 35" src="https://github.com/user-attachments/assets/3d8df93c-97d6-4373-9b77-030da7904564" />
+
 <b>Vrijdag 9 Oktober</b>
 Ik was vandaag nog al ziek dus ben jammer genoeg niet op school geweest en heb dus geen feedback kunnen krijgen van klasgenoten of docenten. Wel heb ik feedback gevraagd aan mijn ouders zodat ik wel nog aan de slag kon met de opdrachten en het huiswerk.
 <div>Feedback:
