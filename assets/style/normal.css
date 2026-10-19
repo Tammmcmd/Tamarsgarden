@@ -464,4 +464,8 @@ section {
     grid-template-columns: repeat(4, 1fr);
     min-height: 91dvh;
   }
+
+  #cookieModal {
+    max-width: 25%;
+  }
 }
