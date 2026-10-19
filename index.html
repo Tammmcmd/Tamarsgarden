@@ -13,15 +13,13 @@
   <body>
     <header>
       <a href="#main" class="skip-link">Direct naar inhoud</a>
-      <p>Tamar's digital garden</p>
+      <p>Tamar's digitale tuin</p>
       <nav aria-label="Hoofdmenu">
         <ul>
-          <li><a href="belichting.html" target="belichting">Belichting</a></li>
-          <li><a href="camerawerk.html" target="camerawerk">Camera werk</a></li>
-          <li>
-            <a href="choreografie.html" target="choreografie">Choreografie</a>
-          </li>
-          <li><a href="montage.html" target="montage">Montage</a></li>
+          <li><a href="belichting.html" aria-current="page">Belichting</a></li>
+          <li><a href="camerawerk.html">Camerawerk</a></li>
+          <li><a href="choreografie.html">Choreografie</a></li>
+          <li><a href="montage.html">Montage</a></li>
         </ul>
       </nav>
     </header>
@@ -126,11 +124,9 @@
   -->
 
     <footer>
-      <p>[Copyleft 2026, all wrongs reversed]</p>
-
       <nav aria-label="Cookievoorkeuren">
         <button commandfor="cookieModal" command="show-modal">
-          <span>Allow cookies?</span>
+          <span>Accepteer cookies?</span>
         </button>
       </nav>
 
@@ -141,8 +137,8 @@
             pages. Github pages houdt technische logs bij (zoals IP-adres) voor
             beveiliging.
           </p>
-          <button id="cookieallow" onclick="setCookie()">Akoord</button>
-          <button id="cookiedeny" onclick="unsetCookie()">Weiger</button>
+          <button id="cookieallow" onclick="setCookie()">Akkoord</button>
+          <button id="cookiedeny" onclick="unsetCookie()">Sluiten</button>
         </form>
       </dialog>
     </footer>
