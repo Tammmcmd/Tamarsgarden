@@ -144,6 +144,7 @@ header a:hover {
 }
 nav ul {
   display: flex;
+  flex-wrap: wrap;
   gap: 50px;
   line-height: 1;
   font-family: "MontserratLight", sans-serif;
@@ -275,4 +276,31 @@ iframe {
   height: auto;
   aspect-ratio: 16 / 9;
   border: none;
+}
+
+/**************************************************
+- Mobile-only fix (alleen op telefoons actief)
+**************************************************/
+@media (max-width: 767px) {
+  /* 1. Voorkom dat de hele pagina naar rechts/links kan schuiven */
+  body {
+    overflow-x: hidden;
+  }
+
+  /* 2. Zet de secties onder elkaar en laat de hoogte meegroeien met de tekst */
+  section {
+    display: flex !important;
+    flex-direction: column !important;
+    height: auto !important;
+    min-height: auto !important;
+    padding: 2rem 1rem !important;
+    gap: 1.5rem !important;
+  }
+
+  /* 3. Haal de kolom-afstanden op artikelen weg zodat ze volle breedte pakken */
+  section > article {
+    width: 100% !important;
+    padding: 0 !important;
+    text-align: left !important;
+  }
 }
