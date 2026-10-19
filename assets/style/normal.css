@@ -450,21 +450,3 @@ footer {
 /***************************
 - MARK: schaal
 **************************/
-
-section {
-  display: flex;
-  flex-direction: column;
-  min-height: auto;
-}
-
-@media (min-width: 768px) {
-  section {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    min-height: 91dvh;
-  }
-
-  #cookieModal {
-    max-width: 25%;
-  }
-}
