@@ -28,6 +28,40 @@ body {
   animation: move 10s alternate infinite;
 }
 
+h1 {
+  font-family: "Classo", sans-serif;
+  font-size: clamp(2rem, 9vw, 5rem);
+  font-weight: bold;
+  word-spacing: -1%;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 35px;
+  font-weight: 350;
+  margin-bottom: 1.5rem;
+}
+
+h3 {
+  font-family: "MontserratLight", sans-serif;
+  font-size: 27px;
+  margin-bottom: 1rem;
+}
+
+h4 {
+  font-family: "MontserratLight", sans-serif;
+  font-size: 17px;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  font-family: "MontserratLight", sans-serif;
+  font-weight: lighter;
+  font-size: 19px;
+  line-height: 1.6;
+}
+
 .skip-link {
   position: absolute;
   left: -9999px;
@@ -122,7 +156,7 @@ header p {
 
 nav ul {
   display: flex;
-  gap: 50px;
+  gap: clamp(1rem, 3vw, 50px);
   line-height: 1;
   font-family: "MontserratLight";
   list-style: none;
