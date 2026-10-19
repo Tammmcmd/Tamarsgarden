@@ -156,6 +156,7 @@ header p {
 
 nav ul {
   display: flex;
+  flex-wrap: wrap;
   gap: clamp(1rem, 3vw, 50px);
   line-height: 1;
   font-family: "MontserratLight";
