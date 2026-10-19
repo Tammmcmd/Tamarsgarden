@@ -370,7 +370,7 @@ footer nav li {
 }
 
 /**************************************************
-MARK: Desktop & Tablet Weergave (Vanaf 768px)
+MARK: schaal
 **************************************************/
 @media (min-width: 768px) {
   section {
@@ -413,10 +413,5 @@ MARK: Desktop & Tablet Weergave (Vanaf 768px)
 
   #cookieModal {
     max-width: 25%;
-  }
-
-  #cookieModal form {
-    flex-direction: row;
-    justify-content: center;
   }
 }
