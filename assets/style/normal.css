@@ -71,7 +71,7 @@ p {
 .skip-link:focus {
   position: absolute;
   top: 60px;
-  left: 20px;
+  left: 28px;
   font-family: "MontserratLight";
   color: black;
   outline: 2px solid var(--text-color);
