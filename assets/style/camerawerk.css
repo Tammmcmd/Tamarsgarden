@@ -71,7 +71,7 @@ body {
 .skip-link:focus {
   position: absolute;
   top: 60px;
-  left: 28px;
+  left: 45px;
   font-family: "MontserratLight", sans-serif;
   color: black;
   outline: 2px solid var(--text-color);
@@ -180,7 +180,6 @@ nav a:focus-visible {
   outline-offset: 4px;
   border-radius: 0.2em;
 }
-
 /**************************
 * MARK: Section 1 & 2 (Intro & Kleur)
 **************************/
