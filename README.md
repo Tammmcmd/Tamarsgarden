@@ -1,10 +1,22 @@
+De rest van de dag ben ik bezig geweest met een stop optie op mijn carousel, met de hulp van Sanna is dit eindelijk gelukt! Het koste me echt veel tijd maar nu stop mijn carousel automatisch met scrollen als je er op komt met een tab of focus state dus ik ben daar heel blij mee. Ook had ik wat problemen met de lay-out van verschillende hoofdstukken wat ik heb kunnen oplossen maar dat was gewoon een domme typefout maar nog steeds fijn want ik was lang beizg met het proberen op te lossen van het probleem.
+<div>Hier is de nieuwe code van mijn carousel.</div>
+<img width="1221" height="1030" alt="Scherm­afbeelding 2026-10-21 om 20 59 34" src="https://github.com/user-attachments/assets/19acd3db-e4f1-442f-b2cc-0c5fecca2a5a" />
+<img width="1244" height="1051" alt="Scherm­afbeelding 2026-10-21 om 20 59 17" src="https://github.com/user-attachments/assets/71346574-ca81-45ae-8288-14af7c1c4e2b" />
+
+Ik heb ook wat advies gevraagd over het gebruik van mijn screenreader en cookie button en dat heeft veel geholpen.
+Vandaag heb ik op school veel af kunnen krijgen. Ik heb gewerkt aan de toegankelijkheid van mijn website en samen met twee klasgenoten nog een keer mijn website beoordeeld.
+<img width="4284" height="5712" alt="IMG_1317" src="https://github.com/user-attachments/assets/d19931a3-bbe8-48af-93b1-f49f8102f1ee" />
+<img width="4284" height="5712" alt="IMG_1316" src="https://github.com/user-attachments/assets/067947c7-da6a-4e89-8396-3cc8efad8d9d" />
+
+<b>Woensdag 21 Oktober</b>
+
 Ook heb ik een check gedaan van mijn screenreader en tab-toetsen, deze liepen opzich al helemaal goed alleen bij de carousel had ik wat problemen. Doordat die beweegt zijn die knoppen gewoon niet fijn te bedienen met een screen reader en is het niet duidelijk op welk element de focus state staat. Ik wil graag dat de carousel eigenlijk stopt met bewegen als je met tab of een screenreader op de carousel komt zodat die voor mensen met een beperking ook goed te bedienen is. Ik heb zelf al wel gekeken naar de mogelijkheden maar, dit is heel ingewikkeld. Ik hoop dat ik morgen op school voor hulp kan vragen.
 <div>Ik ben nu ook begonnen aan de tekst van het volgende hoofdstuk over camerawerk. Ik heb hier bronnen voor verzameld en ook de eerste teksten al geschreven en op de website gezet.</div>
 Vandaag heb ik thuis veel gedaan. Ik ben er lang mee bezig geweest maar het is me uiteindelijk gelukt om de responsiveness van mijn website te verbeteren, nu werkt hij ook op een telefoon! 
 <div><img width="702" height="865" alt="Scherm­afbeelding 2026-10-21 om 15 41 51" src="https://github.com/user-attachments/assets/87323abe-85af-4c35-ae4a-7321f20a8e94" />
 </div> 
 
-<b> Dinsdag 19 Oktoer </b>
+<b> Dinsdag 20 Oktoer </b>
 <div>Vandaag heb ik tijdens de les vooral zelfstandig gewerkt aan mijn website. Ik was vooral bezig met de responsiveness van mijn website en ik had een probleem met het syncen naar github waar ik hulp voor moest vragen.</div>
 <div>Toen mijn github gesynct was kon ik verder werken aan de responsiveness maar dit vondt ik heel lastig door de lay-out van mijn website.<img width="575" height="1082" alt="Scherm­afbeelding 2026-10-19 om 17 27 47" src="https://github.com/user-attachments/assets/1075857d-b6f8-4704-8583-68a2e4ef08ea" />
 </div>
@@ -19,7 +31,7 @@ Zoals je op de foto ziet had ik binnen de tijd niet alles kunnen invullen maar t
 <div> - De teksten schtijven</div>
 Ik ben na school gelijk begonnen met het verbeteren van mijn hover en heb een weekplanning gemaakt zodat ik alles optijd af krijg!.
 Ik heb de hover verbeterd maar je kan geen screenshot maken van een hover. Ik heb mijn hover inplaats van lichter, groter gemaakt. De tekst wordt dus groter als je er met je muis over heen gaat. 
-<b> Maandag 18 Oktober </b>
+<b> Maandag 19 Oktober </b>
 
 <b>Weekend en vakantie</b>
 <div>Ik heb de deep-dive CSS animaties gedaan.</div>
