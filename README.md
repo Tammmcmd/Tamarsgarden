@@ -12,8 +12,8 @@ De rest van de dag ben ik bezig geweest met een stop optie op mijn carousel, met
 
 Ik heb ook wat advies gevraagd over het gebruik van mijn screenreader en cookie button en dat heeft veel geholpen.
 Vandaag heb ik op school veel af kunnen krijgen. Ik heb gewerkt aan de toegankelijkheid van mijn website en samen met twee klasgenoten nog een keer mijn website beoordeeld.
-<img width="4284" height="5712" alt="IMG_1317" src="https://github.com/user-attachments/assets/d19931a3-bbe8-48af-93b1-f49f8102f1ee" />
-<img width="4284" height="5712" alt="IMG_1316" src="https://github.com/user-attachments/assets/067947c7-da6a-4e89-8396-3cc8efad8d9d" />
+<img width="840" height="459" alt="Scherm­afbeelding 2026-10-21 om 22 04 20" src="https://github.com/user-attachments/assets/a402fe49-630e-4917-8ea5-1d942b90d80e" />
+
 
 <b>Woensdag 21 Oktober</b>
 
