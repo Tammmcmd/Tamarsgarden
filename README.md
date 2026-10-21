@@ -4,7 +4,7 @@ Tijdens de vakantie heb ik nog veel gewerkt aan mijn website. Ik heb als eerst e
 Hierna heb ik een lijstje gemaakt van alle dingen die ik nog wil en moet doen. <img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-21 om 09 59 02" src="https://github.com/user-attachments/assets/af6843e7-0882-4499-902c-243fa1d51e19" />
 
 <div>Hierna ben ik gewoon begonnen met het coderen van mijn ontwerp en heb ik een paar dingen van het lijstje ook kunnen doen.</div>
-Ik heb tijdens de vakantie bijna het hele ontwerp afgegeven
+Ik heb tijdens de vakantie bijna het hele ontwerp af gekregen
 
 
 <div>Ik heb de deep-dive CSS animaties gedaan.</div>
