@@ -1,4 +1,7 @@
 <b>Weekend en vakantie</b>
+<div>Ik heb de deep-dive CSS animaties gedaan.</div>
+<img width="1046" height="731" alt="Scherm­afbeelding 2026-10-10 om 18 51 35" src="https://github.com/user-attachments/assets/3d8df93c-97d6-4373-9b77-030da7904564" />
+
 Tijdens de vakantie heb ik nog veel gewerkt aan mijn website. Ik heb als eerst een ontwerp geschetst voor mijn verschillende hoofdstukken en een ontwerp uitgewerkt op figma. <div> <img width="301" height="810" alt="Scherm­afbeelding 2026-10-21 om 09 35 35" src="https://github.com/user-attachments/assets/a4706902-8d7c-4a2c-bcf7-fa1f9a64abe7" /> </div>
 
 Hierna heb ik een lijstje gemaakt van alle dingen die ik nog wil en moet doen. <img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-21 om 09 59 02" src="https://github.com/user-attachments/assets/af6843e7-0882-4499-902c-243fa1d51e19" />
@@ -9,10 +12,6 @@ Ik heb tijdens de vakantie bijna het hele figma ontwerp kunnen coderen. Deze lay
 <div><img width="430" height="820" alt="Scherm­afbeelding 2026-10-21 om 10 10 58" src="https://github.com/user-attachments/assets/74bdc941-ab54-451d-bd0f-80072d9c08f5" /></div>
 <img width="334" height="598" alt="Scherm­afbeelding 2026-10-21 om 10 08 39" src="https://github.com/user-attachments/assets/87f3b06a-f4c8-43f1-9ac1-98b533f9474a" />
 
-
-
-<div>Ik heb de deep-dive CSS animaties gedaan.</div>
-<img width="1046" height="731" alt="Scherm­afbeelding 2026-10-10 om 18 51 35" src="https://github.com/user-attachments/assets/3d8df93c-97d6-4373-9b77-030da7904564" />
 
 <b>Vrijdag 9 Oktober</b>
 Ik was vandaag nog al ziek dus ben jammer genoeg niet op school geweest en heb dus geen feedback kunnen krijgen van klasgenoten of docenten. Wel heb ik feedback gevraagd aan mijn ouders zodat ik wel nog aan de slag kon met de opdrachten en het huiswerk.
