@@ -1,3 +1,5 @@
+<b>Maandag 18 Oktober</b>
+Vandaag heb ik tijdens de les vooral gewerkt aan de responsiveness van mijn website want die ziet er nog niet helemaal goed uit als het scherm kleiner wordt. Daarnaast heb ik tijdens de les mijn
 <b>Weekend en vakantie</b>
 <div>Ik heb de deep-dive CSS animaties gedaan.</div>
 <img width="1046" height="731" alt="Scherm­afbeelding 2026-10-10 om 18 51 35" src="https://github.com/user-attachments/assets/3d8df93c-97d6-4373-9b77-030da7904564" />
