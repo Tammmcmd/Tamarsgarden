@@ -204,17 +204,12 @@ nav a:focus-visible {
 }
 
 /**************************
-- MARK: Main
-**************************/
-/* Hier komen je algemene <main> regels te staan indien nodig */
-
-/**************************
 - MARK: Section
 **************************/
 section {
   display: flex;
-  flex-direction: column; /* Zet alles netjes onder elkaar op mobiel */
-  min-height: auto; /* Mag meegroeien met de hoeveelheid tekst */
+  flex-direction: column;
+  min-height: auto;
 }
 
 /* Pas vanaf een breed scherm (768px+) wordt het grid aangezet */
@@ -307,64 +302,90 @@ section:nth-of-type(2) > article:nth-of-type(2) {
 }
 
 .carousel {
-  margin-bottom: 3rem;
-  width: 100%;
-  display: flex;
-  overflow-x: auto;
-  gap: 13rem;
-}
+  --marquee-item-width: clamp(28.125rem, 28.125rem + 0vw, 28.125rem);
+  --marquee-item-height: var(--marquee-item-width);
 
-.carousel::-webkit-scrollbar {
-  display: none;
-}
+  --marquee-duration: 30s;
 
-.carousel ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: "";
+
   display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 4em;
-  animation: spin 20s infinite linear;
-  padding-right: 4em;
-  list-style: none;
+  height: var(--marquee-item-height);
+
+  position: relative;
+
+  max-inline-size: 100dvw;
+
+  overflow-x: clip;
+  overflow-y: visible;
+  padding-bottom: 4em;
 }
 
 .carousel li {
-  flex: 0 0 14em;
-  width: 12em;
-  height: 14em;
-  background: purple;
-  opacity: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: clamp(1.2rem, 3vw, 2rem);
-  color: white;
-  border-radius: 0.7em;
-  overflow: hidden;
+  height: var(--marquee-item-height);
+  width: var(--marquee-item-width);
+  flex-shrink: 0;
+
+  position: absolute;
+  left: max(
+    calc(
+      (var(--marquee-item-width) + 5rem) * sibling-count() -
+        var(--marquee-item-width)
+    ),
+    calc(100% + var(--marquee-item-width))
+  );
+  transform: translateX(-50%);
+
+  --marquee-delay: calc(
+    var(--marquee-duration) / sibling-count() *
+      (sibling-count() - sibling-index()) * -1
+  );
+  animation: go linear var(--marquee-duration) var(--marquee-delay, 0s) infinite;
 }
 
 .carousel img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
   filter: grayscale(100%);
   opacity: 80%;
   transition:
     filter 0.5s ease,
     opacity 0.5s ease,
     transform 1.15s cubic-bezier(0.25, 0.8, 0.25, 1);
+  border-radius: 0.7em;
 }
 
 .carousel li:hover img {
   filter: grayscale(0%);
   opacity: 100%;
-  transform: scale(1.1);
-}
-
-.carousel a:focus-visible {
-  outline: none;
+  transform: scale(1.05);
 }
 
 .carousel li:focus-within {
   outline: 2px solid var(--text-color);
-  outline-offset: 3px;
+  outline-offset: 2px;
+}
+
+@keyframes go {
+  to {
+    left: calc(var(--marquee-item-width) * -1);
+  }
+}
+
+.carousel:has(:focus) {
+  overflow-x: scroll;
+  gap: 2em;
+  scroll-behavior: smooth;
+
+  li {
+    animation: unset;
+    position: static;
+    left: 0;
+    transform: none;
+  }
 }
 
 @keyframes spin {
@@ -375,7 +396,9 @@ section:nth-of-type(2) > article:nth-of-type(2) {
     translate: -100%;
   }
 }
-/* https://youtu.be/KD1Yo8a_Qis?si=XMEdPOEJb-ZW1zPI**/
+
+/* Deze code heb ik gemaakt met de hulp van Sanne en deze website
+ https://www.smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/**/
 
 /***************************
 - MARK: Footer
