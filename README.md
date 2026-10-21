@@ -1,29 +1,28 @@
-<div>Thuis ben ik begonnen met het verbeteren van mijn cookie buton ik heb hem wat groter en duidelijk gemaakt en ook op een andere positie gezet zodat die niet in de weg staat op de pagina.Hierna heb ik de informatie in de cookie banner aangepast zodat ook duidelijk wordt dat Youtube de gegevens van gebruikers verzameld. </div>
-<img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-21 om 22 18 16" src="https://github.com/user-attachments/assets/22b5c7b6-d7f2-47fc-b383-e042fca69681" />
 
-<div>Als laatst heb ik op school nog wat vragen gesteld over de bronnen en mijn cookies button omdat ik niet zeker wist of dat in orde was maar, ik doe mijn bronvermelding gelukkig goed en mijn cookies button is ook goed alleen moet ik er nog bij zetten dat Youtube ook gegevens verzameld want ik heb videos ingsloten vanuit Youtube op mijn website.</div>
-Ik heb dus ook alles dat nog op mijn checklist voor toegankelijkheid stond afgemaakt en verbeterd.
-<img width="1275" height="369" alt="Scherm­afbeelding 2026-10-21 om 21 07 54" src="https://github.com/user-attachments/assets/82a4129e-2e7f-45b1-8738-366fe2187a17" />
+<b>Woensdag 21 Oktober</b>
+Vandaag heb ik op school veel af kunnen krijgen. Ik heb gewerkt aan de toegankelijkheid van mijn website en samen met twee klasgenoten nog een keer mijn website beoordeeld.
+<div><img width="840" height="459" alt="Scherm­afbeelding 2026-10-21 om 22 04 20" src="https://github.com/user-attachments/assets/a402fe49-630e-4917-8ea5-1d942b90d80e" /></div>
 
 De rest van de dag ben ik bezig geweest met een stop optie op mijn carousel, met de hulp van Sanna is dit eindelijk gelukt! Het koste me echt veel tijd maar nu stop mijn carousel automatisch met scrollen als je er op komt met een tab of focus state dus ik ben daar heel blij mee. Ook had ik wat problemen met de lay-out van verschillende hoofdstukken wat ik heb kunnen oplossen maar dat was gewoon een domme typefout maar nog steeds fijn want ik was lang beizg met het proberen op te lossen van het probleem.
 <div>Hier is de nieuwe code van mijn carousel.</div>
 <img width="1221" height="1030" alt="Scherm­afbeelding 2026-10-21 om 20 59 34" src="https://github.com/user-attachments/assets/19acd3db-e4f1-442f-b2cc-0c5fecca2a5a" />
 <img width="1244" height="1051" alt="Scherm­afbeelding 2026-10-21 om 20 59 17" src="https://github.com/user-attachments/assets/71346574-ca81-45ae-8288-14af7c1c4e2b" />
+<div>Als laatst heb ik op school nog wat vragen gesteld over de bronnen en mijn cookies button omdat ik niet zeker wist of dat in orde was maar, ik doe mijn bronvermelding gelukkig goed en mijn cookies button is ook goed alleen moet ik er nog bij zetten dat Youtube ook gegevens verzameld want ik heb videos ingsloten vanuit Youtube op mijn website.</div>
+Ik heb dus ook alles dat nog op mijn checklist voor toegankelijkheid stond afgemaakt en verbeterd.
+<img width="1275" height="369" alt="Scherm­afbeelding 2026-10-21 om 21 07 54" src="https://github.com/user-attachments/assets/82a4129e-2e7f-45b1-8738-366fe2187a17" />
 
-Ik heb ook wat advies gevraagd over het gebruik van mijn screenreader en cookie button en dat heeft veel geholpen.
-Vandaag heb ik op school veel af kunnen krijgen. Ik heb gewerkt aan de toegankelijkheid van mijn website en samen met twee klasgenoten nog een keer mijn website beoordeeld.
-<div><img width="840" height="459" alt="Scherm­afbeelding 2026-10-21 om 22 04 20" src="https://github.com/user-attachments/assets/a402fe49-630e-4917-8ea5-1d942b90d80e" /></div>
+<div>Thuis ben ik begonnen met het verbeteren van mijn cookie buton ik heb hem wat groter en duidelijk gemaakt en ook op een andere positie gezet zodat die niet in de weg staat op de pagina.Hierna heb ik de informatie in de cookie banner aangepast zodat ook duidelijk wordt dat Youtube de gegevens van gebruikers verzameld. </div>
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-21 om 22 18 16" src="https://github.com/user-attachments/assets/22b5c7b6-d7f2-47fc-b383-e042fca69681" />
 
 
-<b>Woensdag 21 Oktober</b>
-
-Ook heb ik een check gedaan van mijn screenreader en tab-toetsen, deze liepen opzich al helemaal goed alleen bij de carousel had ik wat problemen. Doordat die beweegt zijn die knoppen gewoon niet fijn te bedienen met een screen reader en is het niet duidelijk op welk element de focus state staat. Ik wil graag dat de carousel eigenlijk stopt met bewegen als je met tab of een screenreader op de carousel komt zodat die voor mensen met een beperking ook goed te bedienen is. Ik heb zelf al wel gekeken naar de mogelijkheden maar, dit is heel ingewikkeld. Ik hoop dat ik morgen op school voor hulp kan vragen.
+<b> Dinsdag 20 Oktober </b>
+<div>Ook heb ik een check gedaan van mijn screenreader en tab-toetsen, deze liepen opzich al helemaal goed alleen bij de carousel had ik wat problemen. Doordat die beweegt zijn die knoppen gewoon niet fijn te bedienen met een screen reader en is het niet duidelijk op welk element de focus state staat. Ik wil graag dat de carousel eigenlijk stopt met bewegen als je met tab of een screenreader op de carousel komt zodat die voor mensen met een beperking ook goed te bedienen is. Ik heb zelf al wel gekeken naar de mogelijkheden maar, dit is heel ingewikkeld. Ik hoop dat ik morgen op school voor hulp kan vragen.
 <div>Ik ben nu ook begonnen aan de tekst van het volgende hoofdstuk over camerawerk. Ik heb hier bronnen voor verzameld en ook de eerste teksten al geschreven en op de website gezet.</div>
 Vandaag heb ik thuis veel gedaan. Ik ben er lang mee bezig geweest maar het is me uiteindelijk gelukt om de responsiveness van mijn website te verbeteren, nu werkt hij ook op een telefoon! 
 <div><img width="702" height="865" alt="Scherm­afbeelding 2026-10-21 om 15 41 51" src="https://github.com/user-attachments/assets/87323abe-85af-4c35-ae4a-7321f20a8e94" />
 </div> 
-
-<b> Dinsdag 20 Oktoer </b>
+    
+<b> Maandag 19 Oktober </b>
 <div>Vandaag heb ik tijdens de les vooral zelfstandig gewerkt aan mijn website. Ik was vooral bezig met de responsiveness van mijn website en ik had een probleem met het syncen naar github waar ik hulp voor moest vragen.</div>
 <div>Toen mijn github gesynct was kon ik verder werken aan de responsiveness maar dit vondt ik heel lastig door de lay-out van mijn website.<img width="575" height="1082" alt="Scherm­afbeelding 2026-10-19 om 17 27 47" src="https://github.com/user-attachments/assets/1075857d-b6f8-4704-8583-68a2e4ef08ea" />
 </div>
@@ -38,7 +37,7 @@ Zoals je op de foto ziet had ik binnen de tijd niet alles kunnen invullen maar t
 <div> - De teksten schtijven</div>
 Ik ben na school gelijk begonnen met het verbeteren van mijn hover en heb een weekplanning gemaakt zodat ik alles optijd af krijg!.
 Ik heb de hover verbeterd maar je kan geen screenshot maken van een hover. Ik heb mijn hover inplaats van lichter, groter gemaakt. De tekst wordt dus groter als je er met je muis over heen gaat. 
-<b> Maandag 19 Oktober </b>
+
 
 <b>Weekend en vakantie</b>
 <div>Ik heb de deep-dive CSS animaties gedaan.</div>
