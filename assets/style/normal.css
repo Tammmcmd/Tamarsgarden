@@ -411,8 +411,8 @@ footer {
   grid-area: footer;
   padding: var(--whitespace);
   position: fixed;
-  bottom: 40px;
-  left: 20px;
+  bottom: 65px;
+  left: 1470px;
   z-index: 1000;
 
   nav {
@@ -430,6 +430,25 @@ footer {
     }
   }
 }
+
+footer nav button {
+  padding: 1em;
+  background-color: rgb(96, 8, 130);
+  border-radius: 0.7em;
+  color: rgb(252, 248, 248);
+  font-size: 0.9em;
+  font-family: "MontserratLight";
+  opacity: 80%;
+}
+
+footer nav button:hover {
+  opacity: 0.9;
+  background-color: rgb(191, 3, 201);
+}
+footer nav button:active {
+  background-color: rgb(68, 4, 73);
+}
+
 #cookieModal {
   max-width: 25%;
   background: rgb(255, 255, 255);
@@ -478,7 +497,7 @@ footer {
 }
 #cookieallow:active,
 #cookiedeny:active {
-  background-color: rgb(68, 4, 73); /* Iets donkerder paars */
+  background-color: rgb(68, 4, 73);
 }
 
 /***************************
