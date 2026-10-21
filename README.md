@@ -1,9 +1,22 @@
-<b> Maandag 18 Oktober </>
+Vandaag heb ik thuis veel gedaan. Ik ben er lang mee bezig geweest maar het is me uiteindelijk gelukt om de responsiveness van mijn website te verbeteren, nu werkt hij ook op een telefoon! ![Uploading Scherm­afbeelding 2026-10-21 om 15.41.51.png…]()
+
+<b> Dinsdag 19 Oktoer </b>
 <div>Vandaag heb ik tijdens de les vooral zelfstandig gewerkt aan mijn website. Ik was vooral bezig met de responsiveness van mijn website en ik had een probleem met het syncen naar github waar ik hulp voor moest vragen.</div>
 <div>Toen mijn github gesynct was kon ik verder werken aan de responsiveness maar dit vondt ik heel lastig door de lay-out van mijn website.<img width="575" height="1082" alt="Scherm­afbeelding 2026-10-19 om 17 27 47" src="https://github.com/user-attachments/assets/1075857d-b6f8-4704-8583-68a2e4ef08ea" />
 </div>
 Het was mij uiteindelijk redelijk gelukt maar ik was nog steeds niet helemaal tevreden want de hoofdtekst van mijn eerste pagina stond nog steeds niet helemaal goed en de hoofdstukken in de header ook niet. Hier ga ik morgen zeker aan verder werken. 
-<div></div>
+<div>Tijdens de les hebben we ook nog een keer gecheckt of onze pagina 'webby' is en dit daarna besproken met een klasgenoot</div>
+<img width="4284" height="5712" alt="IMG_1310" src="https://github.com/user-attachments/assets/df1693f3-3bae-4b9e-92c0-3777f2b32ff8" />
+Zoals je op de foto ziet had ik binnen de tijd niet alles kunnen invullen maar toen we het met een klasgenoot gingen checken hebben we wel elk onderwerp besproken ook die nog niet ingevuld waren. Hier kwamen een paar verbeter punten uit: 
+<div>- De hover state van de hoofdstukken kan iets duidelijker.</div>
+<div> - De knop maken voor de pagina belichting waarmee je verschillende kleuren kan maken</div>
+<div> - De responsiveness nog iets verbeteren </div>
+<div> - De cookies button iets groter maken</div>
+<div> - De teksten schtijven</div>
+Ik ben na school gelijk begonnen met het verbeteren van mijn hover en heb een weekplanning gemaakt zodat ik alles optijd af krijg!.
+Ik heb de hover verbeterd maar je kan geen screenshot maken van een hover. Ik heb mijn hover inplaats van lichter, groter gemaakt. De tekst wordt dus groter als je er met je muis over heen gaat. 
+<b> Maandag 18 Oktober </b>
+
 <b>Weekend en vakantie</b>
 <div>Ik heb de deep-dive CSS animaties gedaan.</div>
 <img width="1046" height="731" alt="Scherm­afbeelding 2026-10-10 om 18 51 35" src="https://github.com/user-attachments/assets/3d8df93c-97d6-4373-9b77-030da7904564" />
