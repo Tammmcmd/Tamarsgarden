@@ -293,20 +293,16 @@ iframe {
 - Mobile-only fix (alleen op telefoons actief)
 **************************************************/
 @media (max-width: 767px) {
-  /* 1. Voorkom horizontaal scrollen */
   body {
     overflow-x: hidden;
   }
 
-  /* 2. Header en navigatie netjes onder elkaar op mobiel */
   header {
     flex-direction: column;
     align-items: flex-start;
-    padding: 1.5rem 1rem;
     gap: 1rem;
   }
 
-  /* 3. Zet de secties onder elkaar en laat de hoogte meegroeien */
   section {
     display: flex;
     flex-direction: column;
@@ -324,13 +320,13 @@ iframe {
   section:nth-of-type(3),
   section:nth-of-type(4),
   section:nth-of-type(5) {
-    display: flex !important;
-    flex-direction: column !important;
-    height: auto !important;
-    min-height: auto !important;
-    padding: 2rem 1rem !important;
-    gap: 1.5rem !important;
-    width: 100% !important;
-    box-sizing: border-box !important;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    min-height: auto;
+    padding: 2rem 1rem;
+    gap: 1.5rem;
+    width: 100%;
+    box-sizing: border-box;
   }
 }
