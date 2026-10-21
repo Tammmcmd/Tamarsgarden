@@ -1,7 +1,7 @@
 <div>Thuis ben ik begonnen met het verbeteren van mijn cookie buton ik heb hem wat groter en duidelijk gemaakt en ook op een andere positie gezet zodat die niet in de weg staat op de pagina.Hierna wou ik gelijk in de cookie banner zetten dat Youtube ook de informatie van gebruikers verzameld maar toen ik ging opzoeken om welke informatie dat precies ging kwam ik erachter dat je Youtube videos kan insluiten op een manier die er voor zorgt dat er geen informarie wordt verzameld van gebruikers.</div>
 https://createdbydesign.nl/embed-jij-youtube-videos-op-je-website/
 <div>Dit ga ik gelijk aanpassen in mijn website, als dit werkt laat ik de cookie bannner zoals hij nu is.</div>
-<div>Als laatst heb ik nog wat vragen gesteld over de bronnen en mijn cookies button omdat ik niet zeker wist of dat in orde was maar, ik doe mijn bronvermelding gelukkig goed en mijn cookies button is ook goed alleen moet ik er nog bij zetten dat Youtube ook gegevens verzameld want ik heb videos ingsloten vanuit Youtube op mijn website.</div>
+<div>Als laatst heb ik op school nog wat vragen gesteld over de bronnen en mijn cookies button omdat ik niet zeker wist of dat in orde was maar, ik doe mijn bronvermelding gelukkig goed en mijn cookies button is ook goed alleen moet ik er nog bij zetten dat Youtube ook gegevens verzameld want ik heb videos ingsloten vanuit Youtube op mijn website.</div>
 Ik heb dus ook alles dat nog op mijn checklist voor toegankelijkheid stond afgemaakt en verbeterd.
 <img width="1275" height="369" alt="Scherm­afbeelding 2026-10-21 om 21 07 54" src="https://github.com/user-attachments/assets/82a4129e-2e7f-45b1-8738-366fe2187a17" />
 
