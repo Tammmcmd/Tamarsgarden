@@ -1,11 +1,14 @@
 <b>Weekend en vakantie</b>
-Tijdens de vakantie heb ik nog veel gewerkt aan mijn website. Ik heb als eerst een ontwerp geschetst voor mijn verschillende hoofdstukken <div> <img width="301" height="810" alt="Scherm­afbeelding 2026-10-21 om 09 35 35" src="https://github.com/user-attachments/assets/a4706902-8d7c-4a2c-bcf7-fa1f9a64abe7" /> </div>
-
+Tijdens de vakantie heb ik nog veel gewerkt aan mijn website. Ik heb als eerst een ontwerp geschetst voor mijn verschillende hoofdstukken en een ontwerp uitgewerkt op figma. <div> <img width="301" height="810" alt="Scherm­afbeelding 2026-10-21 om 09 35 35" src="https://github.com/user-attachments/assets/a4706902-8d7c-4a2c-bcf7-fa1f9a64abe7" /> </div>
 
 Hierna heb ik een lijstje gemaakt van alle dingen die ik nog wil en moet doen. <img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-21 om 09 59 02" src="https://github.com/user-attachments/assets/af6843e7-0882-4499-902c-243fa1d51e19" />
 
 <div>Hierna ben ik gewoon begonnen met het coderen van mijn ontwerp en heb ik een paar dingen van het lijstje ook kunnen doen.</div>
-Ik heb tijdens de vakantie bijna het hele ontwerp af gekregen
+Ik heb tijdens de vakantie bijna het hele figma ontwerp kunnen coderen. Deze lay-out ga ik gebruiken voor alle pagina's. De teksten van het eerste hoofdstuk heb ik helemaal geschreven en voor elk hoofdstuk heb ik voorbeelden opgezocht die ik wil laten zien op mijn website.
+<div>Dit is hoe de lay-out van mijn website er nu uitziet en de code die erbij hoort.</div>
+<img width="430" height="820" alt="Scherm­afbeelding 2026-10-21 om 10 10 58" src="https://github.com/user-attachments/assets/74bdc941-ab54-451d-bd0f-80072d9c08f5" />
+<img width="334" height="598" alt="Scherm­afbeelding 2026-10-21 om 10 08 39" src="https://github.com/user-attachments/assets/87f3b06a-f4c8-43f1-9ac1-98b533f9474a" />
+
 
 
 <div>Ik heb de deep-dive CSS animaties gedaan.</div>
