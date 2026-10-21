@@ -12,6 +12,15 @@ Ik heb tijdens de vakantie bijna het hele figma ontwerp kunnen coderen. Deze lay
 <div><img width="430" height="820" alt="Scherm­afbeelding 2026-10-21 om 10 10 58" src="https://github.com/user-attachments/assets/74bdc941-ab54-451d-bd0f-80072d9c08f5" /></div>
 <img width="334" height="598" alt="Scherm­afbeelding 2026-10-21 om 10 08 39" src="https://github.com/user-attachments/assets/87f3b06a-f4c8-43f1-9ac1-98b533f9474a" />
 
+<div>Ik heb bronnen verzameld en de teksten geschreven over belichting. Hier zijn alle bronnen die ik heb gebruikt voor de teksten.</div>
+<div>https://entertainment.sundrax.com/blog/designing-lighting-for-dance-performances-movement-and-rhythm</div>
+<div> https://www.limelightcostumes.com/blogs/news/color-theory-for-stage-dance-costume-colors-that-actually-pop
+https://www.uking-online.com/blogs/stage-lighting-dmx-knowledge-hub/stage-lighting-color-guide?srsltid=AU7gw4XhFPOsjO84Ky_mej_1QlBaxeYeJLHPPThYikpe1KwW2W8CgBBt</div>
+<div>https://thtr382.weebly.com/shape.html</div>
+<div>Dit zijn dus de bronnen van de pagina belichting.</div>
+
+
+
 
 <b>Vrijdag 9 Oktober</b>
 Ik was vandaag nog al ziek dus ben jammer genoeg niet op school geweest en heb dus geen feedback kunnen krijgen van klasgenoten of docenten. Wel heb ik feedback gevraagd aan mijn ouders zodat ik wel nog aan de slag kon met de opdrachten en het huiswerk.
