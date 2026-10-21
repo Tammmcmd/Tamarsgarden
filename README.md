@@ -1,5 +1,5 @@
 <b>Weekend en vakantie</b>
-Tijdens de vakantie heb ik nog veel gewerkt aan mijn website. Ik heb als eerst een ontwerp geschetst voor mijn verschillende hoofdstukken.<img width="290" height="777" alt="Scherm­afbeelding 2026-10-19 om 11 20 19" src="https://github.com/user-attachments/assets/fc81e886-c52c-40ca-a9cf-ee5291386e8e" />
+Tijdens de vakantie heb ik nog veel gewerkt aan mijn website. Ik heb als eerst een ontwerp geschetst voor mijn verschillende hoofdstukken<div>img width="290" height="777" alt="Scherm­afbeelding 2026-10-19 om 11 20 19" src="https://github.com/user-attachments/assets/fc81e886-c52c-40ca-a9cf-ee5291386e8e" /> </div>
 
 Hierna heb ik een lijstje gemaakt van alle dingen die ik nog wil en moet doen. <img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-21 om 09 59 02" src="https://github.com/user-attachments/assets/af6843e7-0882-4499-902c-243fa1d51e19" />
 
