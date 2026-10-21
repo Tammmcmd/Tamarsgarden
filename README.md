@@ -1,5 +1,9 @@
 <b> Maandag 18 Oktober </>
-<div>Vandaag heb ik tijdens de les vooral zelfstandig gewerkt aan mijn website. Ik was vooral bezig met de responsiveness van mijn website en ik had een probleem met het syncen naar github waar ik hulp voor moest vragen.  </div>
+<div>Vandaag heb ik tijdens de les vooral zelfstandig gewerkt aan mijn website. Ik was vooral bezig met de responsiveness van mijn website en ik had een probleem met het syncen naar github waar ik hulp voor moest vragen.</div>
+<div>Toen mijn github gesynct was kon ik verder werken aan de responsiveness maar dit vondt ik heel lastig door de lay-out van mijn website.<img width="575" height="1082" alt="Scherm­afbeelding 2026-10-19 om 17 27 47" src="https://github.com/user-attachments/assets/1075857d-b6f8-4704-8583-68a2e4ef08ea" />
+</div>
+Het was mij uiteindelijk redelijk gelukt maar ik was nog steeds niet helemaal tevreden want de hoofdtekst van mijn eerste pagina stond nog steeds niet helemaal goed en de hoofdstukken in de header ook niet. Hier ga ik morgen zeker aan verder werken. 
+<div></div>
 <b>Weekend en vakantie</b>
 <div>Ik heb de deep-dive CSS animaties gedaan.</div>
 <img width="1046" height="731" alt="Scherm­afbeelding 2026-10-10 om 18 51 35" src="https://github.com/user-attachments/assets/3d8df93c-97d6-4373-9b77-030da7904564" />
