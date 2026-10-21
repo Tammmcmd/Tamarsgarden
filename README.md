@@ -1,3 +1,5 @@
+<b> Maandag 18 Oktober </>
+<div>Vandaag heb ik tijdens de les vooral zelfstandig gewerkt aan mijn website. Ik was vooral bezig met de responsiveness van mijn website en ik had een probleem met het syncen naar github waar ik hulp voor moest vragen.  </div>
 <b>Weekend en vakantie</b>
 <div>Ik heb de deep-dive CSS animaties gedaan.</div>
 <img width="1046" height="731" alt="Scherm­afbeelding 2026-10-10 om 18 51 35" src="https://github.com/user-attachments/assets/3d8df93c-97d6-4373-9b77-030da7904564" />
@@ -18,9 +20,6 @@ Ik heb tijdens de vakantie bijna het hele figma ontwerp kunnen coderen. Deze lay
 https://www.uking-online.com/blogs/stage-lighting-dmx-knowledge-hub/stage-lighting-color-guide?srsltid=AU7gw4XhFPOsjO84Ky_mej_1QlBaxeYeJLHPPThYikpe1KwW2W8CgBBt</div>
 <div>https://thtr382.weebly.com/shape.html</div>
 <div>Dit zijn dus de bronnen van de pagina belichting.</div>
-
-
-
 
 <b>Vrijdag 9 Oktober</b>
 Ik was vandaag nog al ziek dus ben jammer genoeg niet op school geweest en heb dus geen feedback kunnen krijgen van klasgenoten of docenten. Wel heb ik feedback gevraagd aan mijn ouders zodat ik wel nog aan de slag kon met de opdrachten en het huiswerk.
