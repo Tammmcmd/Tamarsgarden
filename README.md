@@ -1,3 +1,5 @@
+Ook heb ik een check gedaan van mijn screenreader en tab-toetsen, deze liepen opzich al helemaal goed alleen bij de carousel had ik wat problemen. Doordat die beweegt zijn die knoppen gewoon niet fijn te bedienen met een screen reader en is het niet duidelijk op welk element de focus state staat. Ik wil graag dat de carousel eigenlijk stopt met bewegen als je met tab of een screenreader op de carousel komt zodat die voor mensen met een beperking ook goed te bedienen is. Ik heb zelf al wel gekeken naar de mogelijkheden maar, dit is heel ingewikkeld. Ik hoop dat ik morgen op school voor hulp kan vragen.
+<div>Ik ben nu ook begonnen aan de tekst van het volgende hoofdstuk over camerawerk. Ik heb hier bronnen voor verzameld en ook de eerste teksten al geschreven en op de website gezet.</div>
 Vandaag heb ik thuis veel gedaan. Ik ben er lang mee bezig geweest maar het is me uiteindelijk gelukt om de responsiveness van mijn website te verbeteren, nu werkt hij ook op een telefoon! 
 <div><img width="702" height="865" alt="Scherm­afbeelding 2026-10-21 om 15 41 51" src="https://github.com/user-attachments/assets/87323abe-85af-4c35-ae4a-7321f20a8e94" />
 </div>
