@@ -6,7 +6,7 @@ Hierna heb ik een lijstje gemaakt van alle dingen die ik nog wil en moet doen. <
 <div>Hierna ben ik gewoon begonnen met het coderen van mijn ontwerp en heb ik een paar dingen van het lijstje ook kunnen doen.</div>
 Ik heb tijdens de vakantie bijna het hele figma ontwerp kunnen coderen. Deze lay-out ga ik gebruiken voor alle pagina's. De teksten van het eerste hoofdstuk heb ik helemaal geschreven en voor elk hoofdstuk heb ik voorbeelden opgezocht die ik wil laten zien op mijn website.
 <div>Dit is hoe de lay-out van mijn website er nu uitziet en de code die erbij hoort.</div>
-<img width="430" height="820" alt="Scherm­afbeelding 2026-10-21 om 10 10 58" src="https://github.com/user-attachments/assets/74bdc941-ab54-451d-bd0f-80072d9c08f5" />
+<div><img width="430" height="820" alt="Scherm­afbeelding 2026-10-21 om 10 10 58" src="https://github.com/user-attachments/assets/74bdc941-ab54-451d-bd0f-80072d9c08f5" /></div>
 <img width="334" height="598" alt="Scherm­afbeelding 2026-10-21 om 10 08 39" src="https://github.com/user-attachments/assets/87f3b06a-f4c8-43f1-9ac1-98b533f9474a" />
 
 
