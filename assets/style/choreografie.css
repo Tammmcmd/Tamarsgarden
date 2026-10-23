@@ -100,8 +100,8 @@ h2 {
 
 h3 {
   font-family: "MontserratLight", sans-serif;
-  font-size: 27px;
-  margin-bottom: 1rem;
+  font-size: 20px;
+  margin-bottom: 0.5rem;
 }
 
 h4 {
@@ -241,7 +241,7 @@ section:nth-of-type(3) h2 {
 }
 
 section:nth-of-type(3) p {
-  font-size: 15px;
+  font-size: 18px;
   line-height: 1.5;
   color: white;
   margin: 0;
@@ -260,8 +260,9 @@ section:nth-of-type(3) p {
 section:nth-of-type(4) {
   display: flex;
   flex-direction: column;
-  gap: 6rem;
+  gap: 0rem;
   padding: 2rem;
+  font-size: 10px;
 }
 
 section:nth-of-type(4) > article {
@@ -270,16 +271,13 @@ section:nth-of-type(4) > article {
   gap: 0;
 }
 
-section:nth-of-type() > article:nth-of-type(1) {
-  margin-bottom: -5rem;
-}
-
 iframe {
   width: 100%;
   max-width: 900px;
   height: auto;
   aspect-ratio: 16 / 9;
   border: none;
+  margin-bottom: 3em;
 }
 
 /**************************************************

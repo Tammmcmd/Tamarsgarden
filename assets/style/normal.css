@@ -82,7 +82,7 @@ p {
 :root {
   --gradient: radial-gradient(
     rgb(199, 157, 231),
-    rgb(79, 79, 204),
+    rgb(98, 98, 211),
     rgb(253, 79, 155),
     rgb(255, 169, 10),
     red
@@ -305,7 +305,7 @@ section:nth-of-type(2) > article:nth-of-type(2) {
   --marquee-item-width: clamp(28.125rem, 28.125rem + 0vw, 28.125rem);
   --marquee-item-height: var(--marquee-item-width);
 
-  --marquee-duration: 30s;
+  --marquee-duration: 35s;
 
   margin: 0;
   padding: 0;
@@ -321,6 +321,7 @@ section:nth-of-type(2) > article:nth-of-type(2) {
   overflow-x: clip;
   overflow-y: visible;
   padding-bottom: 4em;
+  padding-top: 2em;
 }
 
 .carousel li {
@@ -444,13 +445,16 @@ footer nav button {
 footer nav button:hover {
   opacity: 0.9;
   background-color: rgb(191, 3, 201);
+  transform: scale(1.1);
+  transition: transform 0.6s ease;
 }
 footer nav button:active {
   background-color: rgb(68, 4, 73);
+  transform: scale(0.98);
 }
 
 #cookieModal {
-  max-width: 30%;
+  max-width: 40%;
   background: rgb(255, 255, 255);
   opacity: 95%;
   border-radius: 1.5em;
@@ -494,10 +498,13 @@ footer nav button:active {
 #cookiedeny:hover {
   opacity: 0.9;
   background-color: rgb(191, 3, 201);
+  transform: scale(1.1);
+  transition: transform 0.6s ease;
 }
 #cookieallow:active,
 #cookiedeny:active {
   background-color: rgb(68, 4, 73);
+  transform: scale(0.98);
 }
 
 /***************************
