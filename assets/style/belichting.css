@@ -44,7 +44,7 @@ html:has([value="dark"]:checked) {
 
 html:has([value="light"]:checked) {
   color-scheme: light;
-  --gradient: radial-gradient(rgb(246, 93, 28), rgb(255, 169, 10), red);
+  --gradient: radial-gradient(rgb(246, 93, 28), rgb(239, 157, 4), red);
   --text-color: black;
 }
 
@@ -71,7 +71,11 @@ section label input[type="radio"] {
 }
 
 section:nth-of-type(2) label:has([value="light"]) {
-  background-image: linear-gradient(45deg, rgb(250, 100, 0), rgb(246, 21, 21));
+  background-image: linear-gradient(
+    45deg,
+    rgb(250, 100, 0),
+    rgb(251, 221, 162)
+  );
 }
 
 section:nth-of-type(2) label:has([value="dark"]) {
@@ -83,7 +87,11 @@ section:nth-of-type(2) label:has([value="dark"]) {
 }
 
 section:nth-of-type(2) label:has([value="auto"]) {
-  background-image: linear-gradient(45deg, rgb(0, 160, 247), rgb(254, 11, 222));
+  background-image: linear-gradient(
+    45deg,
+    rgb(248, 251, 252),
+    rgb(254, 11, 222)
+  );
 }
 
 section:nth-of-type(2) label:has(input:focus-visible) {

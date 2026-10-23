@@ -212,7 +212,6 @@ section {
   min-height: auto;
 }
 
-/* Pas vanaf een breed scherm (768px+) wordt het grid aangezet */
 @media (min-width: 768px) {
   section {
     display: grid;
