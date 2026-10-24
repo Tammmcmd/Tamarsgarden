@@ -216,11 +216,26 @@ section:nth-of-type(2) {
 * MARK: Section 3 (Kaarten)
 **************************/
 
+@keyframes reveal {
+  from {
+    scale: 0.9;
+    opacity: 0;
+    clip-path: inset (45% 20% 45% 20%);
+  }
+  50% {
+    scale: 1;
+    opacity: 1;
+    clip-path: inset(0% 0% 0% 0%);
+  }
+}
+
 section:nth-of-type(3) {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 30px;
   padding: 2rem;
+  animation: reveal linear forwards;
+  animation-timeline: view();
 }
 
 section:nth-of-type(3) > article {
