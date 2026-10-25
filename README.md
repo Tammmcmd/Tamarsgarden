@@ -1,4 +1,4 @@
-<b>Vrijdag 23 Oktober <b>
+<b>Vrijdag 23 Oktober </b>
 Html
 Articles en secties zonder heading mogen eigenlijk niet en kan je er beter een div van maken als er geen heading in de section zit.
 
