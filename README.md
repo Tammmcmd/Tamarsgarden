@@ -1,3 +1,10 @@
+<b>Zaterdag 24 Oktober </b>
+Vandaag heb ik in mijn website nog een scroll driven animation toegevoegd. Ik heb dit gedaan met de hulp van een YouTube filmpje. 
+- https://youtu.be/0gVlSMGvqTs?si=KYCzxX86lZsaPUnh
+Ik heb de scroll driven animation toegepast op mijn 'cards' ik heb op mijn website allemaal kaartjes waar informatie op staat. Als je op de website scrollt worden de kaartjes zichtbaarder en groter.
+<div>Daarnaast heb ik nog wat kleur toegevoegd aan mijn songtekst. Ik heb gekozen voor een gradiënt op de achtergrond omdat ik vond dat de tekst eigenlijk geen kleur nodig had. Ik heb een geel/oranje gradiënt gemaakt op de achtergrond omdat dit liedje mij eigenlijk laat denken aan een rustige mooie zonsondergang op een zomeravond. Ik heb geprobeerd dat gevoel te creëren met de gradiënt op de achtergrond. </div>
+
+
 <b>Vrijdag 23 Oktober </b>
 
 Vandaag heb ik tijdens de les gewerkt aan mijn typografie opdracht. Ik had al animaties toegevoegd die je kon zien met een hover maar ik had als feedback gekregen om sommige animaties ook zonder hover te laten bewegen. Ik wou ook nog wat meer doen met variabele fonts, die had ik al gebruikt maar ik wou daar graag ook een transition bij toevoegen. 
