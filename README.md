@@ -1,3 +1,19 @@
+<b>Vrijdag 23 Oktober <b>
+Html
+Articles en secties zonder heading mogen eigenlijk niet en kan je er beter een div van maken als er geen heading in de section zit.
+
+Vandaag heb ik tijdens de les gewerkt aan mijn typografie opdracht. Ik had al animaties toegevoegd die je kon zien met een hover maar ik had als feedback gekregen om sommige animaties ook zonder hover te laten bewegen. Ik wou ook nog wat meer doen met variabele fonts, die had ik al gebruikt maar ik wou daar graag ook een transition bij toevoegen. 
+
+<div>Ik heb nu op verschillende pa’s  animaties gezet die uit hun zelf bewegen ik heb hiervoor de deepdive gebruikt over animaties. Ook heb ik op de woorden die ik wil benadrukken een animatie toegevoegd van een variabele font, als je met je muis over de dikgedrukte woorden gaat worden die nog groter en dikker. </div>
+
+Hierna heb ik een feedback gesprek gehad met Barbara, het gesprek ging eigenlijk heel goed. Ik had 100% accesbility gescoord waar ik heel blij mee ben want ik heb daar oprecht lang aan gewerkt en dat veel getest, voor de rest scoorde ik met alles eigenlijk voldoende behalve een punt. Ik heb in mijn css gebruikt gemaakt van sections en article’s maar hier niet altijd een header instaan. Die horen dan eigenlijk div’s te zijn. Ik had dit alleen later nog gevraagd aan Vasillis omdat we eigenlijk geen div mogen gebruiken en hij zei dat ik mijn code zo kan laten dus ik ga dat uiteindelijk niet meer aanpassen. Ook had ik nog wat feedback gekregen over mijn typografie opdracht, ik zou nog wat kleur kunnen toevoegen bijvoorbeeld een gradiënt zo sluit de song tekst wat meer aan bij de rest van mijn pagina. 
+Het enige wat ik nu dus ga veranderen aan mijn website is:
+- Kleur toevoegen aan mijn songtekst 
+- Scroll driven animation toevoegen
+- Spelfouten check
+Tot slot heb ik de retrospective gedaan:
+<div><img width="763" height="729" alt="Scherm­afbeelding 2026-10-25 om 20 17 16" src="https://github.com/user-attachments/assets/93a646dc-7c84-4d30-8f8c-1aa4a537b5f2" />
+</div>
 <b>donderdag 22 Oktober</b>
 Vandaag heb ik thuis geprobeerd mijn website helemaal af te krijgen. Ik ben alle teksten gaan schrijven voor de hoofdstukken en heb die op mijn website gezet. Ik heb voor deze website verschillende bronnen gebruikt maar, ook veel gebruik gemaakt van mijn eigen kennis en ervaring. Al mijn bronnen staan in mijn html code onder de teksten. Het schrijven van al deze tekst kostte mij best wel veel tijd, toen ik hier klaar mee was ben ik begonnen aan de 'lichtknoppen' voor mijn hoofdstuk belichten. Ik heb drie knoppen gemaakt waarmee je de achtergrond van de pagina kan veranderen. Dit heb ik gedaan aan de hand van de deepdive light en dark mode. Dit was de makkelijkste manier waarop ik knoppen kon maken die de achtergrond konden veranderen zonder java script want daar heb ik nog nooit mee gewerkt. <img width="982" height="648" alt="Scherm­afbeelding 2026-10-23 om 10 15 14" src="https://github.com/user-attachments/assets/b5312215-cf99-47d0-9e08-2d21b767c3a9" />
 <div>Hier kan je de knoppen zien en ook de achtergrond die erbij hoort</div>
