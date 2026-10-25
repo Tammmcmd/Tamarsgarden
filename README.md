@@ -1,6 +1,4 @@
 <b>Vrijdag 23 Oktober </b>
-Html
-Articles en secties zonder heading mogen eigenlijk niet en kan je er beter een div van maken als er geen heading in de section zit.
 
 Vandaag heb ik tijdens de les gewerkt aan mijn typografie opdracht. Ik had al animaties toegevoegd die je kon zien met een hover maar ik had als feedback gekregen om sommige animaties ook zonder hover te laten bewegen. Ik wou ook nog wat meer doen met variabele fonts, die had ik al gebruikt maar ik wou daar graag ook een transition bij toevoegen. 
 
