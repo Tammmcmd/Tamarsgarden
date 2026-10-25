@@ -17,11 +17,7 @@ body {
 }
 
 :root {
-  --gradient: radial-gradient(
-    rgb(255, 212, 210),
-    rgb(253, 222, 135),
-    rgb(255, 145, 0)
-  );
+  --gradient: radial-gradient(rgb(253, 190, 135), rgb(255, 119, 0));
   --text-color: black;
 }
 
