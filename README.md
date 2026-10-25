@@ -2,7 +2,10 @@
 Vandaag heb ik in mijn website nog een scroll driven animation toegevoegd. Ik heb dit gedaan met de hulp van een YouTube filmpje. 
 - https://youtu.be/0gVlSMGvqTs?si=KYCzxX86lZsaPUnh
 Ik heb de scroll driven animation toegepast op mijn 'cards' ik heb op mijn website allemaal kaartjes waar informatie op staat. Als je op de website scrollt worden de kaartjes zichtbaarder en groter.
+<img width="901" height="847" alt="Scherm­afbeelding 2026-10-25 om 20 32 09" src="https://github.com/user-attachments/assets/f65904cc-bf3b-4695-a716-2da840006ce1" />
+
 <div>Daarnaast heb ik nog wat kleur toegevoegd aan mijn songtekst. Ik heb gekozen voor een gradiënt op de achtergrond omdat ik vond dat de tekst eigenlijk geen kleur nodig had. Ik heb een geel/oranje gradiënt gemaakt op de achtergrond omdat dit liedje mij eigenlijk laat denken aan een rustige mooie zonsondergang op een zomeravond. Ik heb geprobeerd dat gevoel te creëren met de gradiënt op de achtergrond. </div>
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-25 om 20 31 16" src="https://github.com/user-attachments/assets/33076f01-c4e2-4a2e-88cb-72207448cbf2" />
 
 
 <b>Vrijdag 23 Oktober </b>
