@@ -1,3 +1,10 @@
+<b>Maandag 26 Oktober</b>
+Vandaag hadden we tijdens de les een expo. Ik heb gekeken naar het werk van klasgenoten en ook nog wat feedback gekregen. Dit was allemaal positief dus dat is fijn. Ik kreeg veel complimenten over mijn code wat ik ook heel leuk vindt want dat is eigenlijk het gene dat ik het meest lastig vindt.
+<div><img width="4928" height="3237" alt="IMG_1337" src="https://github.com/user-attachments/assets/ec64e754-081e-42af-9b58-5baabb0365cc" /></div>
+
+Hierna heb ik nog mijn website en learning log bekeken samen met klas genoten via een formulier. Ik heb hierna nog wat dingen verbeterd en toegevoegd voor mijn learning los. <img width="1053" height="370" alt="Scherm­afbeelding 2026-10-26 om 23 22 29" src="https://github.com/user-attachments/assets/a0e0c251-e6b3-4547-a930-dab38b78f602" />
+
+
 <b>Zaterdag 24 Oktober </b>
 Vandaag heb ik in mijn website nog een scroll driven animation toegevoegd. Ik heb dit gedaan met de hulp van een YouTube filmpje.
 
