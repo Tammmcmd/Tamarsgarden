@@ -368,6 +368,8 @@ Ik heb vandaag ook mijn HTML getest aan de hand van een W3C validator. De enige 
 <div><b>Woensdag 23 September </b></div>
 Vandaag moesten we wireframes tekenen in de les. Ik heb samen met mijn groepje gekozen om een wireframe te tekenen voor de darkpatterns van de website Gina tricot.
 
+![alt text](<Scherm­afbeelding 2026-10-26 om 16.12.57.png>)
+
 <span>We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cookies volledig af te wijzen. Er komt een knop met alleen vereiste cookies en alle cookies toestaan. Onderin de pop-up staat een knop met instellingen waar je verder kan kijken naar wat er met je data gaat gebeuren. Ook zijn niet alle noodzakelijke cookies noodzakelijk. Ook de tekst: "Statistische cookies helpen eigenaren van websites begrijpen hoe bezoekers hun website gebruiken, door anoniem gegevens te verzamelen en te rapporteren.", hoe kan dit anoniem zijn als deze cookie staat onder statistieken en niet onder noodzakelijk?
 
 Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"Verplicht - kan niet worden gedeselecteerd. Noodzakelijke cookies helpen een website bruikbaarder te maken, door basisfuncties als paginanavigatie en toegang tot beveiligde gedeelten van de website mogelijk te maken. Zonder deze cookies kan de website niet naar behoren werken."</span>
