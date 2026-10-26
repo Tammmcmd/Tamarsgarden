@@ -1,354 +1,502 @@
-
-
-
 <b>Zaterdag 24 Oktober </b>
-Vandaag heb ik in mijn website nog een scroll driven animation toegevoegd. Ik heb dit gedaan met de hulp van een YouTube filmpje. 
+Vandaag heb ik in mijn website nog een scroll driven animation toegevoegd. Ik heb dit gedaan met de hulp van een YouTube filmpje.
+
 - https://youtu.be/0gVlSMGvqTs?si=KYCzxX86lZsaPUnh
+
 Ik heb de scroll driven animation toegepast op mijn 'cards' ik heb op mijn website allemaal kaartjes waar informatie op staat. Als je op de website scrollt worden de kaartjes zichtbaarder en groter.
+
 <img width="901" height="847" alt="Scherm­afbeelding 2026-10-25 om 20 32 09" src="https://github.com/user-attachments/assets/f65904cc-bf3b-4695-a716-2da840006ce1" />
 
-<div>Daarnaast heb ik nog wat kleur toegevoegd aan mijn songtekst. Ik heb gekozen voor een gradiënt op de achtergrond omdat ik vond dat de tekst eigenlijk geen kleur nodig had. Ik heb een geel/oranje gradiënt gemaakt op de achtergrond omdat dit liedje mij eigenlijk laat denken aan een rustige mooie zonsondergang op een zomeravond. Ik heb geprobeerd dat gevoel te creëren met de gradiënt op de achtergrond. </div>
+<div>Daarnaast heb ik nog wat kleur toegevoegd aan mijn songtekst. Ik heb gekozen voor een gradiënt op de achtergrond omdat ik vond dat de tekst eigenlijk geen kleur nodig had. Ik heb een geel/oranje gradiënt gemaakt op de achtergrond omdat dit liedje mij eigenlijk laat denken aan een rustige mooie zonsondergang op een zomeravond. Ik heb geprobeerd dat gevoel te creëren met de gradiënt op de achtergrond.</div>
+
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-25 om 20 31 16" src="https://github.com/user-attachments/assets/33076f01-c4e2-4a2e-88cb-72207448cbf2" />
 
-
 <b>Vrijdag 23 Oktober </b>
+Vandaag heb ik tijdens de les gewerkt aan mijn typografie opdracht. Ik had al animaties toegevoegd die je kon zien met een hover maar ik had als feedback gekregen om sommige animaties ook zonder hover te laten bewegen. Ik wou ook nog wat meer doen met variabele fonts, die had ik al gebruikt maar ik wou daar graag ook een transition bij toevoegen.
 
-Vandaag heb ik tijdens de les gewerkt aan mijn typografie opdracht. Ik had al animaties toegevoegd die je kon zien met een hover maar ik had als feedback gekregen om sommige animaties ook zonder hover te laten bewegen. Ik wou ook nog wat meer doen met variabele fonts, die had ik al gebruikt maar ik wou daar graag ook een transition bij toevoegen. 
+<div>Ik heb nu op verschillende pa’s animaties gezet die uit hun zelf bewegen ik heb hiervoor de deepdive gebruikt over animaties. Ook heb ik op de woorden die ik wil benadrukken een animatie toegevoegd van een variabele font, als je met je muis over de dikgedrukte woorden gaat worden die nog groter en dikker.</div>
 
-<div>Ik heb nu op verschillende pa’s  animaties gezet die uit hun zelf bewegen ik heb hiervoor de deepdive gebruikt over animaties. Ook heb ik op de woorden die ik wil benadrukken een animatie toegevoegd van een variabele font, als je met je muis over de dikgedrukte woorden gaat worden die nog groter en dikker. </div>
+Hierna heb ik een feedback gesprek gehad met Barbara, het gesprek ging eigenlijk heel goed. Ik had 100% accesbility gescoord waar ik heel blij mee ben want ik heb daar oprecht lang aan gewerkt en dat veel getest, voor de rest scoorde ik met alles eigenlijk voldoende behalve een punt. Ik heb in mijn css gebruikt gemaakt van sections en article’s maar hier niet altijd een header instaan. Die horen dan eigenlijk div’s te zijn. Ik had dit alleen later nog gevraagd aan Vasillis omdat we eigenlijk geen div mogen gebruiken en hij zei dat ik mijn code zo kan laten dus ik ga dat uiteindelijk niet meer aanpassen. Ook had ik nog wat feedback gekregen over mijn typografie opdracht, ik zou nog wat kleur kunnen toevoegen bijvoorbeeld een gradiënt zo sluit de song tekst wat meer aan bij de rest van mijn pagina.
 
-Hierna heb ik een feedback gesprek gehad met Barbara, het gesprek ging eigenlijk heel goed. Ik had 100% accesbility gescoord waar ik heel blij mee ben want ik heb daar oprecht lang aan gewerkt en dat veel getest, voor de rest scoorde ik met alles eigenlijk voldoende behalve een punt. Ik heb in mijn css gebruikt gemaakt van sections en article’s maar hier niet altijd een header instaan. Die horen dan eigenlijk div’s te zijn. Ik had dit alleen later nog gevraagd aan Vasillis omdat we eigenlijk geen div mogen gebruiken en hij zei dat ik mijn code zo kan laten dus ik ga dat uiteindelijk niet meer aanpassen. Ook had ik nog wat feedback gekregen over mijn typografie opdracht, ik zou nog wat kleur kunnen toevoegen bijvoorbeeld een gradiënt zo sluit de song tekst wat meer aan bij de rest van mijn pagina. 
 Het enige wat ik nu dus ga veranderen aan mijn website is:
-- Kleur toevoegen aan mijn songtekst 
-- Scroll driven animation toevoegen
-- Spelfouten check
+
+<ul>
+  <li>Kleur toevoegen aan mijn songtekst</li>
+  <li>Scroll driven animation toevoegen</li>
+  <li>Spelfouten check</li>
+</ul>
+
 Tot slot heb ik de retrospective gedaan:
-<div><img width="763" height="729" alt="Scherm­afbeelding 2026-10-25 om 20 17 16" src="https://github.com/user-attachments/assets/93a646dc-7c84-4d30-8f8c-1aa4a537b5f2" />
+
+<div>
+  <img width="763" height="729" alt="Scherm­afbeelding 2026-10-25 om 20 17 16" src="https://github.com/user-attachments/assets/93a646dc-7c84-4d30-8f8c-1aa4a537b5f2" />
 </div>
+
 <b>donderdag 22 Oktober</b>
-Vandaag heb ik thuis geprobeerd mijn website helemaal af te krijgen. Ik ben alle teksten gaan schrijven voor de hoofdstukken en heb die op mijn website gezet. Ik heb voor deze website verschillende bronnen gebruikt maar, ook veel gebruik gemaakt van mijn eigen kennis en ervaring. Al mijn bronnen staan in mijn html code onder de teksten. Het schrijven van al deze tekst kostte mij best wel veel tijd, toen ik hier klaar mee was ben ik begonnen aan de 'lichtknoppen' voor mijn hoofdstuk belichten. Ik heb drie knoppen gemaakt waarmee je de achtergrond van de pagina kan veranderen. Dit heb ik gedaan aan de hand van de deepdive light en dark mode. Dit was de makkelijkste manier waarop ik knoppen kon maken die de achtergrond konden veranderen zonder java script want daar heb ik nog nooit mee gewerkt. <img width="982" height="648" alt="Scherm­afbeelding 2026-10-23 om 10 15 14" src="https://github.com/user-attachments/assets/b5312215-cf99-47d0-9e08-2d21b767c3a9" />
+Vandaag heb ik thuis geprobeerd mijn website helemaal af te krijgen. Ik ben alle teksten gaan schrijven voor de hoofdstukken en heb die op mijn website gezet. Ik heb voor deze website verschillende bronnen gebruikt maar, ook veel gebruik gemaakt van mijn eigen kennis en ervaring. Al mijn bronnen staan in mijn html code onder de teksten. Het schrijven van al deze tekst kostte mij best wel veel tijd, toen ik hier klaar mee was ben ik begonnen aan de 'lichtknoppen' voor mijn hoofdstuk belichten. Ik heb drie knoppen gemaakt waarmee je de achtergrond van de pagina kan veranderen. Dit heb ik gedaan aan de hand van de deepdive light en dark mode. Dit was de makkelijkste manier waarop ik knoppen kon maken die de achtergrond konden veranderen zonder java script want daar heb ik nog nooit mee gewerkt.
+
+<img width="982" height="648" alt="Scherm­afbeelding 2026-10-23 om 10 15 14" src="https://github.com/user-attachments/assets/b5312215-cf99-47d0-9e08-2d21b767c3a9" />
+
 <div>Hier kan je de knoppen zien en ook de achtergrond die erbij hoort</div>
+
 <img width="922" height="247" alt="Scherm­afbeelding 2026-10-23 om 10 18 22" src="https://github.com/user-attachments/assets/0afb06d0-1ed4-4f20-bf36-1b88229fa53e" />
 
 <b>Woensdag 21 Oktober</b>
 Vandaag heb ik op school veel af kunnen krijgen. Ik heb gewerkt aan de toegankelijkheid van mijn website en samen met twee klasgenoten nog een keer mijn website beoordeeld.
-<div><img width="840" height="459" alt="Scherm­afbeelding 2026-10-21 om 22 04 20" src="https://github.com/user-attachments/assets/a402fe49-630e-4917-8ea5-1d942b90d80e" /></div>
+
+<div>
+  <img width="840" height="459" alt="Scherm­afbeelding 2026-10-21 om 22 04 20" src="https://github.com/user-attachments/assets/a402fe49-630e-4917-8ea5-1d942b90d80e" />
+</div>
 
 De rest van de dag ben ik bezig geweest met een stop optie op mijn carousel, met de hulp van Sanna is dit eindelijk gelukt! Het koste me echt veel tijd maar nu stop mijn carousel automatisch met scrollen als je er op komt met een tab of focus state dus ik ben daar heel blij mee. Ook had ik wat problemen met de lay-out van verschillende hoofdstukken wat ik heb kunnen oplossen maar dat was gewoon een domme typefout maar nog steeds fijn want ik was lang beizg met het proberen op te lossen van het probleem.
+
 <div>Hier is de nieuwe code van mijn carousel.</div>
+
 <img width="1221" height="1030" alt="Scherm­afbeelding 2026-10-21 om 20 59 34" src="https://github.com/user-attachments/assets/19acd3db-e4f1-442f-b2cc-0c5fecca2a5a" />
 <img width="1244" height="1051" alt="Scherm­afbeelding 2026-10-21 om 20 59 17" src="https://github.com/user-attachments/assets/71346574-ca81-45ae-8288-14af7c1c4e2b" />
+
 <div>Als laatst heb ik op school nog wat vragen gesteld over de bronnen en mijn cookies button omdat ik niet zeker wist of dat in orde was maar, ik doe mijn bronvermelding gelukkig goed en mijn cookies button is ook goed alleen moet ik er nog bij zetten dat Youtube ook gegevens verzameld want ik heb videos ingsloten vanuit Youtube op mijn website.</div>
+
 Ik heb dus ook alles dat nog op mijn checklist voor toegankelijkheid stond afgemaakt en verbeterd.
+
 <img width="1275" height="369" alt="Scherm­afbeelding 2026-10-21 om 21 07 54" src="https://github.com/user-attachments/assets/82a4129e-2e7f-45b1-8738-366fe2187a17" />
 
-<div>Thuis ben ik begonnen met het verbeteren van mijn cookie buton ik heb hem wat groter en duidelijk gemaakt en ook op een andere positie gezet zodat die niet in de weg staat op de pagina.Hierna heb ik de informatie in de cookie banner aangepast zodat ook duidelijk wordt dat Youtube de gegevens van gebruikers verzameld. </div>
+<div>Thuis ben ik begonnen met het verbeteren van mijn cookie buton ik heb hem wat groter en duidelijk gemaakt en ook op een andere positie gezet zodat die niet in de weg staat op de pagina. Hierna heb ik de informatie in de cookie banner aangepast zodat ook duidelijk wordt dat Youtube de gegevens van gebruikers verzameld.</div>
+
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-21 om 22 18 16" src="https://github.com/user-attachments/assets/22b5c7b6-d7f2-47fc-b383-e042fca69681" />
 
-
 <b> Dinsdag 20 Oktober </b>
-<div>Ook heb ik een check gedaan van mijn screenreader en tab-toetsen, deze liepen opzich al helemaal goed alleen bij de carousel had ik wat problemen. Doordat die beweegt zijn die knoppen gewoon niet fijn te bedienen met een screen reader en is het niet duidelijk op welk element de focus state staat. Ik wil graag dat de carousel eigenlijk stopt met bewegen als je met tab of een screenreader op de carousel komt zodat die voor mensen met een beperking ook goed te bedienen is. Ik heb zelf al wel gekeken naar de mogelijkheden maar, dit is heel ingewikkeld. Ik hoop dat ik morgen op school voor hulp kan vragen.
-<div>Ik ben nu ook begonnen aan de tekst van het volgende hoofdstuk over camerawerk. Ik heb hier bronnen voor verzameld en ook de eerste teksten al geschreven en op de website gezet.</div>
-Vandaag heb ik thuis veel gedaan. Ik ben er lang mee bezig geweest maar het is me uiteindelijk gelukt om de responsiveness van mijn website te verbeteren, nu werkt hij ook op een telefoon! 
-<div><img width="702" height="865" alt="Scherm­afbeelding 2026-10-21 om 15 41 51" src="https://github.com/user-attachments/assets/87323abe-85af-4c35-ae4a-7321f20a8e94" />
+
+<div>
+  Ook heb ik een check gedaan van mijn screenreader en tab-toetsen, deze liepen opzich al helemaal goed alleen bij de carousel had ik wat problemen. Doordat die beweegt zijn die knoppen gewoon niet fijn te bedienen met een screen reader en is het niet duidelijk op welk element de focus state staat. Ik wil graag dat de carousel eigenlijk stopt met bewegen als je met tab of een screenreader op de carousel komt zodat die voor mensen met een beperking ook goed te bedienen is. Ik heb zelf al wel gekeken naar de mogelijkheden maar, dit is heel ingewikkeld. Ik hoop dat ik morgen op school voor hulp kan vragen.
+</div>
+
+<div>
+  Ik ben nu ook begonnen aan de tekst van het volgende hoofdstuk over camerawerk. Ik heb hier bronnen voor verzameld en ook de eerste teksten al geschreven en op de website gezet.
+</div>
+
+Vandaag heb ik thuis veel gedaan. Ik ben er lang mee bezig geweest maar het is me uiteindelijk gelukt om de responsiveness van mijn website te verbeteren, nu werkt hij ook op een telefoon!
+
+<div>
+  <img width="702" height="865" alt="Scherm­afbeelding 2026-10-21 om 15 41 51" src="https://github.com/user-attachments/assets/87323abe-85af-4c35-ae4a-7321f20a8e94" />
 </div> 
+    
     
 <b> Maandag 19 Oktober </b>
 <div>Vandaag heb ik tijdens de les vooral zelfstandig gewerkt aan mijn website. Ik was vooral bezig met de responsiveness van mijn website en ik had een probleem met het syncen naar github waar ik hulp voor moest vragen.</div>
-<div>Toen mijn github gesynct was kon ik verder werken aan de responsiveness maar dit vondt ik heel lastig door de lay-out van mijn website.<img width="575" height="1082" alt="Scherm­afbeelding 2026-10-19 om 17 27 47" src="https://github.com/user-attachments/assets/1075857d-b6f8-4704-8583-68a2e4ef08ea" />
-</div>
-Het was mij uiteindelijk redelijk gelukt maar ik was nog steeds niet helemaal tevreden want de hoofdtekst van mijn eerste pagina stond nog steeds niet helemaal goed en de hoofdstukken in de header ook niet. Hier ga ik morgen zeker aan verder werken. 
-<div>Tijdens de les hebben we ook nog een keer gecheckt of onze pagina 'webby' is en dit daarna besproken met een klasgenoot</div>
-<img width="4284" height="5712" alt="IMG_1310" src="https://github.com/user-attachments/assets/df1693f3-3bae-4b9e-92c0-3777f2b32ff8" />
-Zoals je op de foto ziet had ik binnen de tijd niet alles kunnen invullen maar toen we het met een klasgenoot gingen checken hebben we wel elk onderwerp besproken ook die nog niet ingevuld waren. Hier kwamen een paar verbeter punten uit: 
-<div>- De hover state van de hoofdstukken kan iets duidelijker.</div>
-<div> - De knop maken voor de pagina belichting waarmee je verschillende kleuren kan maken</div>
-<div> - De responsiveness nog iets verbeteren </div>
-<div> - De cookies button iets groter maken</div>
-<div> - De teksten schtijven</div>
-Ik ben na school gelijk begonnen met het verbeteren van mijn hover en heb een weekplanning gemaakt zodat ik alles optijd af krijg!.
-Ik heb de hover verbeterd maar je kan geen screenshot maken van een hover. Ik heb mijn hover inplaats van lichter, groter gemaakt. De tekst wordt dus groter als je er met je muis over heen gaat. 
 
+<div>
+  Toen mijn github gesynct was kon ik verder werken aan de responsiveness maar dit vondt ik heel lastig door de lay-out van mijn website.
+  <img width="575" height="1082" alt="Scherm­afbeelding 2026-10-19 om 17 27 47" src="https://github.com/user-attachments/assets/1075857d-b6f8-4704-8583-68a2e4ef08ea" />
+</div>
+
+Het was mij uiteindelijk redelijk gelukt maar ik was nog steeds niet helemaal tevreden want de hoofdtekst van mijn eerste pagina stond nog steeds niet helemaal goed en de hoofdstukken in de header ook niet. Hier ga ik morgen zeker aan verder werken.
+
+<div>Tijdens de les hebben we ook nog een keer gecheckt of onze pagina 'webby' is en dit daarna besproken met een klasgenoot</div>
+
+<img width="4284" height="5712" alt="IMG_1310" src="https://github.com/user-attachments/assets/df1693f3-3bae-4b9e-92c0-3777f2b32ff8" />
+
+Zoals je op de foto ziet had ik binnen de tijd niet alles kunnen invullen maar toen we het met een klasgenoot gingen checken hebben we wel elk onderwerp besproken ook die nog niet ingevuld waren. Hier kwamen een paar verbeterpunten uit:
+
+<div>- De hover state van die hoofdstukken kan iets duidelijker.</div>
+<div>- De knop maken voor de pagina belichting waarmee je verschillende kleuren kan maken</div>
+<div>- De responsiveness nog iets verbeteren</div>
+<div>- De cookies button iets groter maken</div>
+<div>- De teksten schrijven</div>
+
+Ik ben na school gelijk begonnen met het verbeteren van mijn hover en heb een weekplanning gemaakt zodat ik alles optijd af krijg! Ik heb de hover verbeterd maar je kan geen screenshot maken van een hover. Ik heb mijn hover inplaats van lichter, groter gemaakt. De tekst wordt dus groter als je er met je muis over heen gaat.
 
 <b>Weekend en vakantie</b>
+
 <div>Ik heb de deep-dive CSS animaties gedaan.</div>
+
 <img width="1046" height="731" alt="Scherm­afbeelding 2026-10-10 om 18 51 35" src="https://github.com/user-attachments/assets/3d8df93c-97d6-4373-9b77-030da7904564" />
 
-Tijdens de vakantie heb ik nog veel gewerkt aan mijn website. Ik heb als eerst een ontwerp geschetst voor mijn verschillende hoofdstukken en een ontwerp uitgewerkt op figma. <div> <img width="301" height="810" alt="Scherm­afbeelding 2026-10-21 om 09 35 35" src="https://github.com/user-attachments/assets/a4706902-8d7c-4a2c-bcf7-fa1f9a64abe7" /> </div>
+Tijdens de vakantie heb ik nog veel gewerkt aan mijn website. Ik heb als eerst een ontwerp geschetst voor mijn verschillende hoofdstukken en een ontwerp uitgewerkt op figma.
 
-Hierna heb ik een lijstje gemaakt van alle dingen die ik nog wil en moet doen. <img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-21 om 09 59 02" src="https://github.com/user-attachments/assets/af6843e7-0882-4499-902c-243fa1d51e19" />
+<div> 
+  <img width="301" height="810" alt="Scherm­afbeelding 2026-10-21 om 09 35 35" src="https://github.com/user-attachments/assets/a4706902-8d7c-4a2c-bcf7-fa1f9a64abe7" /> 
+</div>
+
+Hierna heb ik een lijstje gemaakt van alle dingen die ik nog wil en moet doen.
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-21 om 09 59 02" src="https://github.com/user-attachments/assets/af6843e7-0882-4499-902c-243fa1d51e19" />
 
 <div>Hierna ben ik gewoon begonnen met het coderen van mijn ontwerp en heb ik een paar dingen van het lijstje ook kunnen doen.</div>
+
 Ik heb tijdens de vakantie bijna het hele figma ontwerp kunnen coderen. Deze lay-out ga ik gebruiken voor alle pagina's. De teksten van het eerste hoofdstuk heb ik helemaal geschreven en voor elk hoofdstuk heb ik voorbeelden opgezocht die ik wil laten zien op mijn website.
+
 <div>Dit is hoe de lay-out van mijn website er nu uitziet en de code die erbij hoort.</div>
-<div><img width="430" height="820" alt="Scherm­afbeelding 2026-10-21 om 10 10 58" src="https://github.com/user-attachments/assets/74bdc941-ab54-451d-bd0f-80072d9c08f5" /></div>
+
+<div>
+  <img width="430" height="820" alt="Scherm­afbeelding 2026-10-21 om 10 10 58" src="https://github.com/user-attachments/assets/74bdc941-ab54-451d-bd0f-80072d9c08f5" />
+</div>
+
 <img width="334" height="598" alt="Scherm­afbeelding 2026-10-21 om 10 08 39" src="https://github.com/user-attachments/assets/87f3b06a-f4c8-43f1-9ac1-98b533f9474a" />
 
 <div>Ik heb bronnen verzameld en de teksten geschreven over belichting. Hier zijn alle bronnen die ik heb gebruikt voor de teksten.</div>
 <div>https://entertainment.sundrax.com/blog/designing-lighting-for-dance-performances-movement-and-rhythm</div>
-<div> https://www.limelightcostumes.com/blogs/news/color-theory-for-stage-dance-costume-colors-that-actually-pop
-https://www.uking-online.com/blogs/stage-lighting-dmx-knowledge-hub/stage-lighting-color-guide?srsltid=AU7gw4XhFPOsjO84Ky_mej_1QlBaxeYeJLHPPThYikpe1KwW2W8CgBBt</div>
+<div>https://www.limelightcostumes.com/blogs/news/color-theory-for-stage-dance-costume-colors-that-actually-pop</div>
+<div>https://www.uking-online.com/blogs/stage-lighting-dmx-knowledge-hub/stage-lighting-color-guide?srsltid=AU7gw4XhFPOsjO84Ky_mej_1QlBaxeYeJLHPPThYikpe1KwW2W8CgBBt</div>
 <div>https://thtr382.weebly.com/shape.html</div>
 <div>Dit zijn dus de bronnen van de pagina belichting.</div>
 
 <b>Vrijdag 9 Oktober</b>
 Ik was vandaag nog al ziek dus ben jammer genoeg niet op school geweest en heb dus geen feedback kunnen krijgen van klasgenoten of docenten. Wel heb ik feedback gevraagd aan mijn ouders zodat ik wel nog aan de slag kon met de opdrachten en het huiswerk.
+
 <div>Feedback:
--De pa's in de pagina zijn leuk en voegen echt wel iets bijzonders toe aan de pagina.
+- De pa's in de pagina zijn leuk en voegen echt wel iets bijzonders toe aan de pagina.
 - Met een uitleg van wat je hebt gedaan worden de keuzes die je hebt gemaakt duidelijk. Heel leuk hoe je bepaalde dingen dikgedrukt hebt gemaakt en andere heb laten vervagen, dat geeft veel betekenis aan de tekst. 
-- Het zou misschien leuk zijn als je pa's uit zichzelf konden bewegen. </div>
+- Het zou misschien leuk zijn als je pa's uit zichzelf konden bewegen.
+</div>
+
 Na het ontvangen van de feedback heb ik even de checkout gedaan van de dag en ben ik alvast begonnen aan het huiswerk.
+
 <div>Checkout:
 <span>Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
-    -  font-variation-settings:
-    "wght" 100,
-    "SRFS" 25;
-    - font-variation-settings:
-    "wght" 130,
-    "SRFS" 25;
-    -  font-variation-settings:
-    "wght" 150,
-    "SRFS" 20;
-    - ja echt heel veel meer verschillende weet niet of het nut heeft om die allemaal op te schrijven.</span>
-Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
-    - Ik gebruik typografie om het verhaal van de tekst visueel te versterken. In het begin is het woord 'JOU' groot en dikgedrukt, omdat de zanger vertelt hoeveel hij van deze persoon houdt. Later, wanneer het gaat <span>over het vergeten van de persoon, worden de woorden 'jou' en 'vergeet' juist steeds kleiner, lichter en waziger. Ik wil hiermee visueel weergeven hoe een herinnering langzaam vervaagt.
-Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?</div>
-- Ik heb al veel animaties toegepast in mijn ontwerp. Uit mijn feedback kwam alleen dat ik die animaties misschien uit zichzelf kon laten bewegen want dat gaat nu met een hover. </span>
-<div>Na de checkout ben ik begonnen aan het huiswerk en heb ik even duidelijk gemaakt wat ik nog kan verbeteren aan het ontwerp van mijn song tekst. </div>
-    Feedback: "De pa's in de pagina zijn leuk en voegen echt wel iets bijzonders toe aan de pagina. Het zou misschien leuk zijn als je pa's uit zichzelf konden bewegen."
+    - font-variation-settings: "wght" 100, "SRFS" 25;
+    - font-variation-settings: "wght" 130, "SRFS" 25;
+    - font-variation-settings: "wght" 150, "SRFS" 20;
+    - ja echt heel veel meer verschillende weet niet of het nut heeft om die allemaal op te schrijven.
+</span>
+
+Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)? - Ik gebruik typografie om het verhaal van de tekst visueel te versterken. In het begin is het woord 'JOU' groot en dikgedrukt, omdat de zanger vertelt hoeveel hij van deze persoon houdt. Later, wanneer het gaat <span>over het vergeten van de persoon, worden de woorden 'jou' en 'vergeet' juist steeds kleiner, lichter en waziger. Ik wil hiermee visueel weergeven hoe een herinnering langzaam vervaagt.
+
+Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
+
+- Ik heb al veel animaties toegepast in mijn ontwerp. Uit mijn feedback kwam alleen dat ik die animaties misschien uit zichzelf kon laten bewegen want dat gaat nu met een hover.
+</span>
+</div>
+
+<div>Na de checkout ben ik begonnen aan het huiswerk en heb ik even duidelijk gemaakt wat ik nog kan verbeteren aan het ontwerp van mijn song tekst.</div>
+Feedback: "De pa's in de pagina zijn leuk en voegen echt wel iets bijzonders toe aan de pagina. Het zou misschien leuk zijn als je pa's uit zichzelf konden bewegen."
 <div>Aanpassing: Ik ga de animatie van de pa's uit zich zelf af laten spelen op een manier dat het 'drijvende' en filmische gevoel van een vervagende herinnering versterkt.</div>
-    
+
 <div><b> Donderdag 8 Oktober </b></div>
 Ik heb de deepdive variabele fonts gedaan.
+
 <img width="1116" height="726" alt="Scherm­afbeelding 2026-10-08 om 15 28 20" src="https://github.com/user-attachments/assets/31778ad5-6833-456b-8877-b9e01b6b8a0c" />
 
 <b> Woensdag 7 Oktober </b>
-Vandaag zijn we tijdens de les verder gegaan met de typografie opdracht. Ik heb een van de digitale ontwerpen die ik gister heb gemaakt uitgewerkt in html/css. Dat ging eigenlijk helemaal goed. Ik heb hierbij de opdracht gebruikt die op dlo stond: 
-1.Bepaal de line-height bij je gekozen font-size
-Mijn font-size is 30px hierbij hoort een line-height van 36px
+Vandaag zijn we tijdens de les verder gegaan met de typografie opdracht. Ik heb een van de digitale ontwerpen die ik gister heb gemaakt uitgewerkt in html/css. Dat ging eigenlijk helemaal goed. Ik heb hierbij de opdracht gebruikt die op dlo stond:
 
-2.Baseer je column-width op een veelvoud van je line-height
-504px 
+1. Bepaal de line-height bij je gekozen font-size: Mijn font-size is 30px hierbij hoort een line-height van 36px
+2. Baseer je column-width op een veelvoud van je line-height: 504px
+3. Kun je daarmee een grid maken dat past bij je pagina ontwerp, rekening houdend met je measures? Ja, grid-template-columns: 504px;
 
-3.Kun je daarmee een grid maken dat past bij je pagina ontwerp, rekening houdend met je measures?
-Ja,  grid-template-columns: 504px;
 <div>Aan het einde van de les kregen we ook uitleg over transitions. Ik heb ook gebruik gemaakt van transitions in mijn ontwerp die je kan zien wanneer je over het element gaat met je muis.</div>
-
 
 https://github.com/user-attachments/assets/b7db8398-5b6c-4f17-b21a-9934aefed1a4
 
-
 <img width="639" height="672" alt="Scherm­afbeelding 2026-10-07 om 19 31 59" src="https://github.com/user-attachments/assets/f008b894-fd6d-4ff1-b6aa-5266834f7aca" />
 
-
 <div>En op het einde van de les heb ik de check-out gedaan van de dag</div>
-1. Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
-Een grid zorgt voor consistentie in een ontwerp en een duidelijke structuurDit zorgt ervoor dat een pagina overzichtelijker en duidelijker wordt voor gebruikers. 
+1. Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.<br>
+Een grid zorgt voor consistentie in een ontwerp en een duidelijke structuur. Dit zorgt ervoor dat een pagina overzichtelijker en duidelijker wordt voor gebruikers.
 
-2. Noem drie manieren om chaos in je ontwerp te voorkomen.
+2. Noem drie manieren om chaos in je ontwerp te voorkomen:
+
 - Gebruik maken van een grid lay-out
-- een line-height bepalen op basis van je font-size 
+- een line-height bepalen op basis van je font-size
 - Je column-width baseren op een veelvoud van je line-height
 
-1. Hoeveel gekkigheid moet er in je werk zitten?
-Zoveel je wilt het moet alleen gedaan worden op een manier die niet weg neemt van de overzichtelijkheid en affordance van een pagina.
+3. Hoeveel gekkigheid moet er in je werk zitten?<br>
+   Zoveel je wilt het moet alleen gedaan worden op een manier die niet weg neemt van de overzichtelijkheid en affordance van een pagina.
 
-<b> dinsdag 6 september</b>
+<b> dinsdag 6 Oktober</b>
 Ik had gister al een eerste ontwerp gemaakt voor de typografie opdracht maar ben niet helemaal blij met hoe dat eruit ziet. Vandaag heb ik opnieuw geschetst en ontwerpen gemaakt op figma.
+
 <img width="982" height="481" alt="Scherm­afbeelding 2026-10-07 om 19 22 05" src="https://github.com/user-attachments/assets/eb49bd5b-f925-48c3-8a29-31006bb1342d" />
 
-<b> Maandag 5 September </b> 
+<b> Maandag 5 Oktober </b>
 Vandaag zijn we tijdens de les begonnen met het lezen van artikelen. Ik heb samen met drie anderen klasgenoten het artikel over de modular scale gelezen en daar een korte samenvatting van gemaakt.
+
 <img width="764" height="412" alt="Scherm­afbeelding 2026-10-05 om 23 55 31" src="https://github.com/user-attachments/assets/a4e8c8e2-1987-40b2-bc28-95eaa1fc8ba7" />
 
-hierna zijn we bezig geweest met typografie. Ik heb de opdracht gemaakt tijdens de les en tien schetsen gemaakt met de tekst van het liedje 'voor ik vergeet' van Spinvis. Deze schetsen heb ik vervolgens besproken met een klasgenoot (Jesse). Hierna was de les eigenlijk al klaar en heb ik nog een checkout gedaan. Toen ik thuis kwam ben ik verder gaan werken aan de typografie opdracht en heb ik gelijk de eerste digitale vertaling van mijn schetsen gemaakt!
-<div><img width="587" height="396" alt="Scherm­afbeelding 2026-10-05 om 23 51 07" src="https://github.com/user-attachments/assets/c6e42c82-016d-407e-a701-7f875b01e2a0" /></div>
+Hierna zijn we bezig geweest met typografie. Ik heb de opdracht gemaakt tijdens de les en tien schetsen gemaakt met de tekst van het liedje 'voor ik vergeet' van Spinvis. Deze schetsen heb ik vervolgens besproken met een klasgenoot (Jesse). Hierna was de les eigenlijk al klaar en heb ik nog een checkout gedaan. Toen ik thuis kwam ben ik verder gaan werken aan de typografie opdracht en heb ik gelijk de eerste digitale vertaling van mijn schetsen gemaakt!
+
+<div>
+  <img width="587" height="396" alt="Scherm­afbeelding 2026-10-05 om 23 51 07" src="https://github.com/user-attachments/assets/c6e42c82-016d-407e-a701-7f875b01e2a0" />
+</div>
+
 <div>Checkout van de les:</div>
-1. Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
-* Kerning: Ruimte tussen twee specifieke letters.
-* Tracking: Ruimte tussen alle letters in een woord/zin.
-* Leading: Regelafstand.
-* Flush-left: Links uitgelijnd.
-* Flush-right: Rechts uitgelijnd.
-* Centered: Gecentreerd in het midden.
-* Justified: Uitgevuld (zowel links als rechts uitgelijnd).
-* Indent: Inspringen van tekst.
-* Outdent: Uitspringen van tekst (eerste regel steekt uit).
-* Modular scale: Harmonieuze verhouding voor lettergroottes.
-* Movable type: Losse, herbruikbare drukletters.
-* Focus punt: Waar de aandacht als eerste naartoe gaat in een ontwerp.
-* Vijf soorten contrast: Contrast in typografie: grootte, gewicht, structuur (lettertype), vorm en kleur.
-* Spatial tension: Visuele spanning door de afstand en plaatsing van elementen.
+1. Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension.
+- Kerning: Ruimte tussen twee specifieke letters.
+- Tracking: Ruimte tussen alle letters in een woord/zin.
+- Leading: Regelafstand.
+- Flush-left: Links uitgelijnd.
+- Flush-right: Rechts uitgelijnd.
+- Centered: Gecentreerd in het midden.
+- Justified: Uitgevuld (zowel links als rechts uitgelijnd).
+- Indent: Inspringen van tekst.
+- Outdent: Uitspringen van tekst (eerste regel steekt uit).
+- Modular scale: Harmonieuze verhouding voor lettergroottes.
+- Movable type: Losse, herbruikbare drukletters.
+- Focus punt: Waar de aandacht als eerste naartoe gaat in een ontwerp.
+- Vijf soorten contrast: Contrast in typografie: grootte, gewicht, structuur (lettertype), vorm en kleur.
+- Spatial tension: Visuele spanning door de afstand en plaatsing van elementen.
 
-2. Wat is jouw ideale regellengte (measure)? Leg uit waarom.
-40 - 60 karakters is mijn ideale regellengte.
+2. Wat is jouw ideale regellengte (measure)? Leg uit waarom.<br>
+   40 - 60 karakters is mijn ideale regellengte.
 
-3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
-Ik zou persoonlijk spacing gebruiken, dan kan je nog steeds tekst van elkaar scheiden en dingen benadrukken.
+3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?<br>
+   Ik zou persoonlijk spacing gebruiken, dan kan je nog steeds tekst van elkaar scheiden en dingen benadrukken.
+
 <div>Ook heb ik thuis alvast de deep-dive interessante lay-outs gedaan, die kan ik ook gebruiken voor de typografie opdracht.
-<img width="980" height="306" alt="Scherm­afbeelding 2026-10-05 om 23 51 27" src="https://github.com/user-attachments/assets/6938d3ff-eea5-4e5f-af71-ccf5c42c5823" /></div>
+  <img width="980" height="306" alt="Scherm­afbeelding 2026-10-05 om 23 51 27" src="https://github.com/user-attachments/assets/6938d3ff-eea5-4e5f-af71-ccf5c42c5823" />
+</div>
 
-<b>vrijdag 2 September </b>
-Vandaag had ik een voortgang gesprek met Vasillis, het onderdeel waar ik het meeste feedback over heb gekregen is de toegankelijkheid van mijn website. Ik had die wel al getest en geoefend maar er waren nog een paar onderdelen die nog niet helemaal voldoen aan de eisen. <span>Wat ik nog ga verbeteren: 
+<b>vrijdag 2 Oktober </b>
+Vandaag had ik een voortgang gesprek met Vasillis, het onderdeel waar ik het meeste feedback over heb gekregen is de toegankelijkheid van mijn website. Ik had die wel al getest en geoefend maar er waren nog een paar onderdelen die nog niet helemaal voldoen aan de eisen.
+
+<span>Wat ik nog ga verbeteren:
+
 - dat je een overzicht kan krijgen van alle links en hoofdstukken met een screen reader.
 - de hover nog beter maken, op mijn carrousel wordt die niet goed gepakt.
 - het contrast checken bij de header tekst
+  </span>
+
 <div>Het eerste wat ik gelijk heb aangepast was de tekst van de header, die stond op blauw en heb ik zwart gemaakt zodat die beter te lezen was.</div>
+
 Verder heb ik tijdens de les de retrospect gedaan.
+
 <img width="799" height="574" alt="Scherm­afbeelding 2026-10-05 om 23 46 46" src="https://github.com/user-attachments/assets/a7e8e6df-d4cc-4d9a-b1b6-d150feee7191" />
 
 <span><b>Woensdag 30 September</b></span>
 Vandaag heb ik de toegankelijkheid van mijn website gecheckt aan de hand van de vragen en checkpoints op dlo:
+
 <div>Headings
 Is de structuur logisch?
-- De focus state volgt dezelfde structuur van de pagina dus die werkt en is ook duidelijk.  Geeft elk kopje goed aan wat er onder het kopje valt?
+- De focus state volgt dezelfde structuur van de pagina dus die werkt en is ook duidelijk.
+Geeft elk kopje goed aan wat er onder het kopje valt?
 - Als ik de screenreader alles laat lezen geeft hij ook de juiste inhoud bij de kopjes.
 
+Interactie elementen
+link, button, dialog, details/summary, inputs
 
-Interactie elementen  link, button, dialog, details/summary, inputs
-- Alle links en buttons werken met de screenreader. Details heb ik volgens mij ook goed gebruikt en de rest heb ik niet in mijn HTML. Bij alle links wordt er verteld wat ze zijn en waar ze naar toegaan. Alle buttons hebben een ’alt’. 
+- Alle links en buttons werken met de screenreader. Details heb ik volgens mij ook goed gebruikt en de rest heb ik niet in mijn HTML. Bij alle links wordt er verteld wat ze zijn en waar ze naar toegaan. Alle buttons hebben een ’alt’.
 - Ook heb ik een skip content button in mijn code.
-- Niet al mijn knoppen en links hebben een focus en Active state dus dat ga ik nog toevoegen.</div>
+- Niet al mijn knoppen en links hebben een focus en Active state dus dat ga ik nog toevoegen.
+</div>
+
 Hierna heb ik de A11 check lijst ingevuld.
+
 <img width="495" height="780" alt="Scherm­afbeelding 2026-09-30 om 17 51 57" src="https://github.com/user-attachments/assets/5d47b07b-8f96-49f0-aac5-17e6b05e87f7" />
+
 <div>Er zijn nog een paar dingen die ik kan verbeteren om te zorgen dat mijn website toegankelijk is. Ik heb voor mijzelf een lijstje gemaakt en ga proberen het zo snel mogelijk af te krijgen.</div>
-<span></span>Als laatst heb ik natuurlijk ook nog de check-out gedaan van de dag.
-Waar staat WCAG en A11y voor?
+
+Als laatst heb ik natuurlijk ook nog de check-out gedaan van de dag.
+
+1. Waar staat WCAG en A11y voor?
+
 - WCAG staat voor De Web Content Accessibility Guidelines het is een standaard voor de toegankelijkheid van websites.
-- A11y is een checklist van die standaarden. 
+- A11y is een checklist van die standaarden.
 
-Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
-- Met een screenreader vindt ik lastiger dat ben ik nog niet gewend, ik weet nog niet hoe ik dat precies doe. Ik moet dus vooral beter leren welke toetsen ik moet gebruiken met een screenreader. 
+2. Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
 
-Met welke beperking rekening houden vind je het meest lastig? 
-- Ik denk blindheid, dan ben je echt volledig afhankelijk kan een screenreader die voorleest. Daarvoor moet je dus ook veel dingen toevoegen in je code. Vind je dat je beperkt wordt in wat je kunt ontwerpen? 
-- Een beetje je moet nu zorgen dat alles in een ‘logische volgorde staat’ anders is het voor sommige mensen niet te gebruiken. Dat zorgt wel voor beperking van creatieve vrijheid bepaalde ontwerpen kan je dan niet meer maken.  <span>
+- Met een screenreader vindt ik lastiger dat ben ik nog niet gewend, ik weet nog niet hoe ik dat precies doe. Ik moet dus vooral beter leren welke toetsen ik moet gebruiken met een screenreader.
+
+3. Met welke beperking rekening houden vind je het meest lastig?
+
+- Ik denk blindheid, dan ben je echt volledig afhankelijk van een screenreader die voorleest. Daarvoor moet je dus ook veel dingen toevoegen in je code.
+  Vind je dat je beperkt wordt in wat je kunt ontwerpen?
+- Een beetje je moet nu zorgen dat alles in een ‘logische volgorde staat’ anders is het voor sommige mensen niet te gebruiken. Dat zorgt wel voor beperking van creatieve vrijheid bepaalde ontwerpen kan je dan niet meer maken.
+
 <div>Thuis heb ik verder gewerkt. Ik ben gelijk begonnen met het toevoegen van een focus state, een Active state en een skip to content link. 
-De focus en active state gingen goed met dank aan de deepdive die ik heb gedaan heb ik dat snel kunnen oplossen. De skip to content link ging ook goed alleen liep ik tegen een probleem aan. De link zorgde ervoor dat de selecteer naar het juiste deel van de pagina sprong alleen als ik dan door klikte ging hij terug naar boven inplaats van naar de content waar hij naar toe moest. Ik wist niet hoe ik dit moest oplossen en ik kon het ook niet echt terug vinden in de deep-dives. Uiteindelijk heb ik Gemini om hulp gevraagd. Die gaf me ook geen werkende oplossing dus ik zal het vragen in de komende les. </div>
-<span><img width="1071" height="662" alt="Scherm­afbeelding 2026-09-30 om 20 26 28" src="https://github.com/user-attachments/assets/d0f0f4b1-07a9-467b-a248-1aab6935621c" /></span>
-Ook heb ik ervoor gezorgd dat mijn links en de knoppen waarvan ik het wil een nieuwe pagina open door een target=‘’’’ toe te voegen.<span><img width="925" height="464" alt="Scherm­afbeelding 2026-09-30 om 20 27 30" src="https://github.com/user-attachments/assets/104b7377-30d6-4f9b-a867-0dc3111cbb40" /></span>
+De focus en active state gingen goed met dank aan de deepdive die ik heb gedaan heb ik dat snel kunnen oplossen. De skip to content link ging ook goed alleen liep ik tegen een probleem aan. De link zorgde ervoor dat de selecteer naar het juiste deel van de pagina sprong alleen als ik dan door klikte ging hij terug naar boven inplaats van naar de content waar hij naar toe moest. Ik wist niet hoe ik dit moest oplossen en ik kon het ook niet echt terug vinden in de deep-dives. Uiteindelijk heb ik Gemini om hulp gevraagd. Die gaf me ook geen werkende oplossing dus ik zal het vragen in de komende les.</div>
 
+<span>
+  <img width="1071" height="662" alt="Scherm­afbeelding 2026-09-30 om 20 26 28" src="https://github.com/user-attachments/assets/d0f0f4b1-07a9-467b-a248-1aab6935621c" />
+</span>
 
+Ook heb ik ervoor gezorgd dat mijn links en de knoppen waarvan ik het wil een nieuwe pagina open door een target=‘\_blank’ toe te voegen.
+<span>
+<img width="925" height="464" alt="Scherm­afbeelding 2026-09-30 om 20 27 30" src="https://github.com/user-attachments/assets/104b7377-30d6-4f9b-a867-0dc3111cbb40" />
+</span>
 
-<span><b>Disndag 29 September</b></span>
+<span><b>Dinsdag 29 September</b></span>
 Ik heb de deep dive meer interactie met HTML en CSS gedaan.
-<span> <img width="973" height="600" alt="Scherm­afbeelding 2026-09-30 om 00 29 24" src="https://github.com/user-attachments/assets/b5967788-2d27-4e6b-bda5-078d3ea18ef1" /> </span>
+<span>
+<img width="973" height="600" alt="Scherm­afbeelding 2026-09-30 om 00 29 24" src="https://github.com/user-attachments/assets/b5967788-2d27-4e6b-bda5-078d3ea18ef1" />
+</span>
 
 <div><b>Maandag 28 September</b></div>
 <div>Vandaag tijdens de les hebben we een bi-weekly geek gedaan, hiervoor had ik als voorbereiding de artikelen gelezen en filmpjes bekeken op dlo.</div>
+
 Hierna heb ik de toegankelijkheid getest van mijn website via mijn screen reader. Hiervoor heb ik ook een tabel gemaakt waarin staat wat je met bepaalde toetsen kan doen.
-<span><img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-28 om 15 38 52" src="https://github.com/user-attachments/assets/e5c66c86-6ab5-48d9-bab9-84b5169590b5" /></span>
+
+<span>
+  <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-28 om 15 38 52" src="https://github.com/user-attachments/assets/e5c66c86-6ab5-48d9-bab9-84b5169590b5" />
+</span>
 
 <img width="384" height="347" alt="Scherm­afbeelding 2026-09-30 om 18 36 33" src="https://github.com/user-attachments/assets/3d049309-6131-4c50-85ec-b84f6ba1fb2f" />
 
 <span>Ik heb mijn cookies consent form verder uitgewerkt en het vorm gegeven op een manier die beter past in mijn website.</span>
+
 <img width="1056" height="269" alt="Scherm­afbeelding 2026-09-30 om 00 24 40" src="https://github.com/user-attachments/assets/e33f2820-2b15-4e1e-a663-3c3061797fdf" />
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-27 om 17 33 45" src="https://github.com/user-attachments/assets/6adb4596-f472-4ffc-b85c-146f56da11e8" />
-<span>Ik heb de check-out gedaan van vandaag</span>
-1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
-Dat hij liever bezig is met hoe iets er uiteindelijk uitziet op de website inplaats van hoe netjes, duidelijk en toegankelijk de code is die is geschreven.
 
-- Wat voor type beperkingen hebben invloed op het gebruiken van websites?
-- Visuele beperkingen (blind, slechtziend, kleurenblind) 
+<span>Ik heb de check-out gedaan van vandaag:</span>
+
+1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?<br>
+   Dat hij liever bezig is met hoe iets er uiteindelijk uitziet op de website inplaats van hoe netjes, duidelijk en toegankelijk de code is die is geschreven.
+
+2. Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+
+- Visuele beperkingen (blind, slechtziend, kleurenblind)
 - Doof of slechthorendheid
 - Motorische beperkingen
 
-3. Noem drie manieren om door een website te navigeren met jouw screenreader.
+3. Noem drie manieren om door een website te navigeren met jouw screenreader:
+
 - Met het toetsenbord knoppen indrukken
 - De website laten voorlezen
-    - Langs alle klikbare elementen met ‘tab’
+- Langs alle klikbare elementen met ‘tab’
 
-
-<div> <b>Vrijdag 25 September</b><div>
+<div><b>Vrijdag 25 September</b></div>
 <span>Tijdens de les heb ik na een voortgangsgesprek verder gewerkt aan mijn website. Ik heb mijn carrousel die rond draait afgemaakt en nog gestyled met hovers en kleur, dat was moeilijk maar, ik ben blij met het resultaat.</span>
-  <span><img width="1659" height="894" alt="Scherm­afbeelding 2026-09-29 om 23 47 18" src="https://github.com/user-attachments/assets/ad187e6d-8cf7-44f9-ab57-0aa1fc7c1026" /></span>
-<img width="981" height="293" alt="Scherm­afbeelding 2026-09-29 om 23 58 19" src="https://github.com/user-attachments/assets/f7dbe9b0-ca4f-4083-a5a0-9bce5d9d4bde" />
-Ik heb vandaag ook mijn HTML getest aan de hand van een W3C validator. De enige errors die ik heb gekregen gingen over mijn plaatjes waar ik nog geen alt= bij had geplaatst voor de rest had ik helemaal geen errors dus dat is top! Ook bijna al mijn warming’s en info’s gingen over hetzelfde, namelijk mijn h’s en mijn foto links. Daar ga ik even naar kijken.
-<pan>Hierna heb ik een begin gemaakt aan mijn cookies consent form.</span>
   
+<span>
+  <img width="1659" height="894" alt="Scherm­afbeelding 2026-09-29 om 23 47 18" src="https://github.com/user-attachments/assets/ad187e6d-8cf7-44f9-ab57-0aa1fc7c1026" />
+</span>
+<img width="981" height="293" alt="Scherm­afbeelding 2026-09-29 om 23 58 19" src="https://github.com/user-attachments/assets/f7dbe9b0-ca4f-4083-a5a0-9bce5d9d4bde" />
+
+Ik heb vandaag ook mijn HTML getest aan de hand van een W3C validator. De enige errors die ik heb gekregen gingen over mijn plaatjes waar ik nog geen alt= bij had geplaatst voor de rest had ik helemaal geen errors dus dat is top! Ook bijna al mijn warming’s en info’s gingen over hetzelfde, namelijk mijn h’s en mijn foto links. Daar ga ik even naar kijken.
+
+<span>Hierna heb ik een begin gemaakt aan mijn cookies consent form.</span>
+
 <div><b>Woensdag 23 September </b></div>
 Vandaag moesten we wireframes tekenen in de les. Ik heb samen met mijn groepje gekozen om een wireframe te tekenen voor de darkpatterns van de website Gina tricot.
-<span>We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cookies volledig af te wijzen. Er komt een knop met alleen vereiste cookies en alle cookies toestaan. Onderin de pop-up staat een knop met instellingen waar je verder kan kijken naar wat er met je data gaat gebeuren. Ook zijn niet alle noodzakelijke cookies noodzakelijk. Ook de tekst: "Statistische cookies helpen eigenaren van websites begrijpen hoe bezoekers hun website gebruiken, door anoniem gegevens te verzamelen en te rapporteren.", hoe kan dit anoniem zijn als deze cookie staat onder statistieken en niet onder noodzakelijk? 
+
+<span>We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cookies volledig af te wijzen. Er komt een knop met alleen vereiste cookies en alle cookies toestaan. Onderin de pop-up staat een knop met instellingen waar je verder kan kijken naar wat er met je data gaat gebeuren. Ook zijn niet alle noodzakelijke cookies noodzakelijk. Ook de tekst: "Statistische cookies helpen eigenaren van websites begrijpen hoe bezoekers hun website gebruiken, door anoniem gegevens te verzamelen en te rapporteren.", hoe kan dit anoniem zijn als deze cookie staat onder statistieken en niet onder noodzakelijk?
 
 Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"Verplicht - kan niet worden gedeselecteerd. Noodzakelijke cookies helpen een website bruikbaarder te maken, door basisfuncties als paginanavigatie en toegang tot beveiligde gedeelten van de website mogelijk te maken. Zonder deze cookies kan de website niet naar behoren werken."</span>
-<span><img width="2806" height="3820" alt="60a135ae-bb98-4a75-acf2-cc8c6244f4f8" src="https://github.com/user-attachments/assets/9b219152-a7e4-4f78-b205-c64502395d49" /> </span>
+
+<span>
+/Users/tamargeuzinge/Desktop/Scherm­afbeelding 2026-10-26 om 16.12.57.png
+</span>
 
 <span>Human consent component:</span>
-<div>- Op mijn eigen website worden er sowieso gegevens verzameld door git.hub. Daarnaast heb ik fonts gebruikt van de website 1001fonts.com. Die website maakt gebruik van cookies en zouden dus ook de gegevens van gebruikers verwerken. 
-- Een pop-up maken waarmee ze de cookies kunnen accepteren, weigeren of aanpassen. In de pop-up zou dan ook een uitgestaan over welke gegevens het gaat en wat daarmee zou gebeuren.
-- Er zijn verschillende manieren waarop je mensen toestemming kan vragen op het web bijvoorbeeld: 
-* actief een vakje aan te vinken;
-* op een knop of een link te klikken;
-* een elektronisch formulier in te vullen;
-* een e-mail aan u te sturen;
-* een elektronische handtekening te zetten;
-* een gescand document met handtekening te uploaden.</div>
-  <span><img width="1000" height="494" alt="Scherm­afbeelding 2026-09-23 om 11 57 46" src="https://github.com/user-attachments/assets/dba356a1-bc15-4c9e-aa4f-51be3e603662" /></span>
-
-- Ik denk dat in mijn digital garden het beste een cookies pop-up past die simpel en niet irritant is. Omdat mijn onderwerp over beweging gaat is het misschien leuk als het in het scherm schuift inplaats van gewoon verschijnt. Verder zou ik het simpel houden met zwart wit en misschien de doorzichtigheid iets naar beneden halen zodat je nog mijn gradiënt er doorheen kan zien. Als dat zou werken zou dat denk ik wel een leuk detail zijn.</span>
-<span> <img width="910" height="358" alt="Scherm­afbeelding 2026-09-23 om 12 01 22" src="https://github.com/user-attachments/assets/22a66b86-9dab-4bb7-8b09-8249162a1b61" /> </span>
-
-
-<b> Dinsdag 22 September</b>
-<div>Ik heb gewerkt aan mijn website en ik heb floating css cards toegevoegd, dit duurde eventjes maar met hulp van een YouTube filmpje is het gelukt, het is nog niet klaar qua opmaak maar de basis is me gelukt!
-</div>
-<img width="704" height="531" alt="Scherm­afbeelding 2026-09-21 om 22 59 05" src="https://github.com/user-attachments/assets/412b6d8f-b477-4afc-8d3d-680df88e7119" />
-
-
-
-
-<b>Maandag 21 September</b>
-<div>Vandaag hebben we tijdens de les uitleg gekregen code, en cookies. Samen met een klasgenoot heb ik cookie pup-ups onderzocht.</div>
-<div></div><img width="1127" height="421" alt="Scherm­afbeelding 2026-09-21 om 20 39 46" src="https://github.com/user-attachments/assets/81cc2586-4214-4e55-b5a4-3045e4eea4d9" /></div>
-<div>En ook vandaag de check-out vragen beantwoord. </div>
-<div>Wat zijn HTML landmark role elements?</div>
-- Banner, nav, search. Met landmark role elements kan je makkelijk naar pagina’s navigeren.
-
-<div>Wat zijn heading elementen en hoe horen deze 'genest' te worden?</div>
-- Je nest dingen door een element in een ander element te plaatsen.
-
-<div>Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.</div>
-<div>- Ik accepteer niet zomaar alle cookies en dat ga ik ook zeker blijven doen, ik zet ze eigenlijk altijd allemaal uit alleen als je iets alleen kan doen zonder cookies zet ik het misschien aan.</div>
-
-
-<span><b> Het weekend 18-20 September </b></span>
-<span> Na het voortgangsgesprek met Barbara had ik eigenlijk wat nieuwe ideeën gekregen voor mijn website. Ik wou zelf eigenlijk al veel veranderen maar ik wist niet zo goed hoe, wat en waar ik moest beginnen. De feedback van het gesprek heeft me in de juiste richting geduwd. </span>
-
-<div>Wat van mijn feedback was bijvoorbeeld, dat ik nog wat meer kan spelen kleur en beweging in mijn website en dat ik terug kan kijken naar mijn visual research voor ideeën. 
-Ook moet ik mijn website gewoon nog beter uitwerken en er nog meer content inzetten
-Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onderdeel van mijn onderwerp ook gaat over belichting.</div>
 
 <div>
-  Ik ben dus weer terug gegaan naar mijn visual research van de les die we hadden een tijdje terug. Ik heb nagedacht aan leuke manieren om de kleuren en dat effect van licht te verwerken in mijn website en ik kwam al snel op het idee om de website een gradiënt van kleuren als achtergrond te geven.
+- Op mijn eigen website worden er sowieso gegevens verzameld door git.hub. Daarnaast heb ik fonts gebruikt van de website 1001fonts.com. Die website maakt gebruik van cookies en zouden dus ook de gegevens van gebruikers verwerken. 
+- Een pop-up maken waarmee ze de cookies kunnen accepteren, weigeren of aanpassen. In de pop-up zou dan ook een uitgestaan over welke gegevens het gaat en wat daarmee zou gebeuren.
+- Er zijn verschillende manieren waarop je mensen toestemming kan vragen op het web bijvoorbeeld: 
+  - actief een vakje aan te vinken;
+  - op een knop of een link te klikken;
+  - een elektronisch formulier in te vullen;
+  - een e-mail aan u te sturen;
+  - een elektronische handtekening te zetten;
+  - een gescand document met handtekening te uploaden.
 </div>
+
+<span>
+  <img width="1000" height="494" alt="Scherm­afbeelding 2026-09-23 om 11 57 46" src="https://github.com/user-attachments/assets/dba356a1-bc15-4c9e-aa4f-51be3e603662" />
+</span>
+
+- Ik denk dat in mijn digital garden het beste een cookies pop-up past die simpel en niet irritant is. Omdat mijn onderwerp over beweging gaat is het misschien leuk als het in het scherm schuift inplaats van gewoon verschijnt. Verder zou ik het simpel houden met zwart wit en misschien de doorzichtigheid iets naar beneden halen zodat je nog mijn gradiënt er doorheen kan zien. Als dat zou werken zou dat denk ik wel een leuk detail zijn.
+
+<span> 
+  <img width="910" height="358" alt="Scherm­afbeelding 2026-09-23 om 12 01 22" src="https://github.com/user-attachments/assets/22a66b86-9dab-4bb7-8b09-8249162a1b61" /> 
+</span>
+
+<b> Dinsdag 22 September</b>
+
+<div>Ik heb gewerkt aan mijn website en ik heb floating css cards toegevoegd, dit duurde eventjes maar met hulp van een YouTube filmpje is het gelukt, het is nog niet klaar qua opmaak maar de basis is me gelukt!</div>
+
+<img width="704" height="531" alt="Scherm­afbeelding 2026-09-21 om 22 59 05" src="https://github.com/user-attachments/assets/412b6d8f-b477-4afc-8d3d-680df88e7119" />
+
+<b>Maandag 21 September</b>
+
+<div>Vandaag hebben we tijdens de les uitleg gekregen code, en cookies. Samen met een klasgenoot heb ik cookie pup-ups onderzocht.</div>
+
+<img width="1127" height="421" alt="Scherm­afbeelding 2026-09-21 om 20 39 46" src="https://github.com/user-attachments/assets/81cc2586-4214-4e55-b5a4-3045e4eea4d9" />
+
+<div>En ook vandaag de check-out vragen beantwoord.</div>
+<div>Wat zijn HTML landmark role elements?<br>
+- Banner, nav, search. Met landmark role elements kan je makkelijk naar pagina’s navigeren.</div>
+
+<div>Wat zijn heading elementen en hoe horen deze 'genest' te worden?<br>
+- Je nest dingen door een element in een ander element te plaatsen.</div>
+
+<div>Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.<br>
+- Ik accepteer niet zomaar alle cookies en dat ga ik ook zeker blijven doen, ik zet ze eigenlijk altijd allemaal uit alleen als je iets alleen kan doen zonder cookies zet ik het misschien aan.</div>
+
+<span><b> Het weekend 18-20 September </b></span>
+<span>Na het voortgangsgesprek met Barbara had ik eigenlijk wat nieuwe ideeën gekregen voor mijn website. Ik wou zelf eigenlijk al veel veranderen maar ik wist niet zo goed hoe, wat en waar ik moest beginnen. De feedback van het gesprek heeft me in de juiste richting geduwd.</span>
+
+<div>Wat van mijn feedback was bijvoorbeeld, dat ik nog wat meer kan spelen kleur en beweging in mijn website en dat ik terug kan kijken naar mijn visual research voor ideeën. Ook moet ik mijn website gewoon nog beter uitwerken en er nog meer content inzetten. Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onderdeel van mijn onderwerp ook gaat over belichting.</div>
+
+<div>Ik ben dus weer terug gegaan naar mijn visual research van de les die we hadden een tijdje terug. Ik heb nagedacht aan leuke manieren om de kleuren en dat effect van licht te verwerken in mijn website en ik kwam al snel op het idee om de website een gradiënt van kleuren als achtergrond te geven.</div>
 
 <div>Als eerst heb ik geprobeerd de lay-out hetzelfde te houden en dan de achtergrond een gradiënt te maken. Ik heb de achtergrond van mijn plaatje eerst zelf geprobeerd om te matchen met de gradiënt maar het lukte niet om dat helemaal te matchen dus toen heb ik geprobeerd om de achtergrond van het plaatje te verwijderen zodat alleen het persoon op de website kwam maar dat werkte ook niet.</div>
 
-<div><img width="937" height="265" alt="Scherm­afbeelding 2026-09-21 om 20 22 00" src="https://github.com/user-attachments/assets/231a6974-238c-4727-94c8-47895a083f76" /></div>
+<div>
+  <img width="937" height="265" alt="Scherm­afbeelding 2026-09-21 om 20 22 00" src="https://github.com/user-attachments/assets/231a6974-238c-4727-94c8-47895a083f76" />
+</div>
 
-<div>Toen dat allemaal niet werkte ben ik nog eens gaan nadenken, ik dacht aan mijn onderwerp dans en aan de feedback. Het zou leuk zijn als ik iets meer kon doen met beweging, toen ben ik op het idee gekomen om een bewegende gradiënt te maken als achtergrond. Ik had geen idee hoe ik dat moest doen maar aan de hand van een YouTube video is het mij gelukt! Ik heb de kleuren gebruikt uit mijn visual research en wit gebruikt in de gradiënt zodat het soort van lijkt op licht en ik heb de gradiënt laten bewegen op een rustige vloeiende manier. </div>
+<div>Toen dat allemaal niet werkte ben ik nog eens gaan nadenken, ik dacht aan mijn onderwerp dans en aan de feedback. Het zou leuk zijn als ik iets meer kon doen met beweging, toen ben ik op het idee gekomen om een bewegende gradiënt te maken als achtergrond. Ik had geen idee hoe ik dat moest doen maar aan de hand van een YouTube video is het mij gelukt! Ik heb de kleuren gebruikt uit mijn visual research en wit gebruikt in de gradiënt zodat het soort van lijkt op licht en ik heb de gradiënt laten bewegen op een rustige vloeiende manier.</div>
 
 <div>Met deze nieuwe achtergrond heb ik besloten het plaatje weg te halen en de lay-out van de eerste pagina minimaal te houden, zo staat het licht en de beweging echt centraal en wordt je aandacht daar ook naar toe getrokken. Ik ben blij met dit resultaat.</div>
-<div><img width="754" height="697" alt="Scherm­afbeelding 2026-09-21 om 20 27 51" src="https://github.com/user-attachments/assets/51564374-3ed3-470d-bf88-4e68d9002581" /></div>
 
-<div> Ook heb ik alvast visual research gedaan voor de rest van mijn website, ik wil cards maken in css die bewegen.</div>
-<div></div><img width="839" height="590" alt="Scherm­afbeelding 2026-09-21 om 20 32 48" src="https://github.com/user-attachments/assets/f974c573-f47a-485a-9078-5ed6c0a4e3d0" /> </div>
+<div>
+  <img width="754" height="697" alt="Scherm­afbeelding 2026-09-21 om 20 27 51" src="https://github.com/user-attachments/assets/51564374-3ed3-470d-bf88-4e68d9002581" />
+</div>
 
+<div>Ook heb ik alvast visual research gedaan voor de rest van mijn website, ik wil cards maken in css die bewegen.</div>
 
+<img width="839" height="590" alt="Scherm­afbeelding 2026-09-21 om 20 32 48" src="https://github.com/user-attachments/assets/8398d590-3d28-4843-9b77-030da7904564" />
+
+<b>Maandag 21 September</b>
+
+<div>Vandaag hebben we tijdens de les uitleg gekregen code, en cookies. Samen met een klasgenoot heb ik cookie pup-ups onderzocht.</div>
+
+<img width="1127" height="421" alt="Scherm­afbeelding 2026-09-21 om 20 39 46" src="https://github.com/user-attachments/assets/81cc2586-4214-4e55-b5a4-3045e4eea4d9" />
+
+<div>En ook vandaag de check-out vragen beantwoord.</div>
+<div>What are HTML landmark role elements?<br>
+- Banner, nav, search. Met landmark role elements kan je makkelijk naar pagina’s navigeren.</div>
+
+<div>What are heading elementen en hoe horen deze 'genest' te worden?<br>
+- Je nest dingen door een element in een ander element te plaatsen.</div>
+
+<div>Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.<br>
+- Ik accepteer niet zomaar alle cookies en dat ga ik ook zeker blijven doen, ik zet ze eigenlijk altijd allemaal uit alleen als je iets alleen kan doen zonder cookies zet ik het misschien aan.</div>
+
+<span><b> Het weekend 18-20 September </b></span>
+<span>Na het voortgangsgesprek met Barbara had ik eigenlijk wat nieuwe ideeën gekregen voor mijn website. Ik wou zelf eigenlijk al veel veranderen maar ik wist niet zo goed hoe, wat en waar ik moest beginnen. De feedback van het gesprek heeft me in de juiste richting geduwd.</span>
+
+<div>Wat van mijn feedback was bijvoorbeeld, dat ik nog wat meer kan spelen kleur en beweging in mijn website en dat ik terug kan kijken naar mijn visual research voor ideeën. Ook moet ik mijn website gewoon nog beter uitwerken en er nog meer content inzetten. Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onderdeel van mijn onderwerp ook gaat over belichting.</div>
+
+<div>Ik ben dus weer terug gegaan naar mijn visual research van de les die we hadden een tijdje terug. Ik heb nagedacht aan leuke manieren om de kleuren en dat effect van licht te verwerken in mijn website en ik kwam al snel op het idee om de website een gradiënt van kleuren als achtergrond te geven.</div>
+
+<div>Als eerst heb ik geprobeerd de lay-out hetzelfde te houden en dan de achtergrond een gradiënt te maken. Ik heb de achtergrond van mijn plaatje eerst zelf probeerd om te matchen met de gradiënt maar het lukte niet om dat helemaal te matchen dus toen heb ik probeerd om de achtergrond van het plaatje te verwijderen zodat alleen het persoon op de website kwam maar dat werkte ook niet.</div>
+
+<div>
+  <img width="937" height="265" alt="Scherm­afbeelding 2026-09-21 om 20 22 00" src="https://github.com/user-attachments/assets/231a6974-238c-4727-94c8-47895a083f76" />
+</div>
+
+<div>Toen dat allemaal niet werkte ben ik nog eens gaan nadenken, ik dacht aan mijn onderwerp dans en aan de feedback. Het zou leuk zijn als ik iets meer kon doen met beweging, toen ben ik op het idee gekomen om een bewegende gradiënt te maken als achtergrond. Ik had geen idee hoe ik dat moest doen maar aan de hand van een YouTube video is het mij gelukt! Ik heb de kleuren gebruikt uit mijn visual research en wit gebruikt in de gradiënt zodat het soort van lijkt op licht en ik heb de gradiënt laten bewegen op een rustige vloeiende manier.</div>
+
+<div>Met deze nieuwe achtergrond heb ik besloten het plaatje weg te halen en de lay-out van de eerste pagina minimaal te houden, zo staat het licht en de beweging echt centraal en wordt je aandacht daar ook naar toe getrokken. Ik ben blij met dit resultaat.</div>
+
+<div>
+  <img width="754" height="697" alt="Scherm­afbeelding 2026-09-21 om 20 27 51" src="https://github.com/user-attachments/assets/51564374-3ed3-470d-bf88-4e68d9002581" />
+</div>
+
+<div>Ook heb ik alvast visual research gedaan voor de rest van mijn website, ik wil cards maken in css die bewegen.</div>
+
+<img width="839" height="590" alt="Scherm­afbeelding 2026-09-21 om 20 32 48" src="https://github.com/user-attachments/assets/f974c573-f47a-485a-9078-5ed6c0a4e3d0" />
 
 <span><b>Vrijdag 18 September</b></span>
-
-<span>
-  Vandaag ben ik de hele tijd bezig geweest met het verbeteren van mijn ontwerp. Ik heb navigatie knoppen toegevoegd, een video in mijn website gezet en nieuwe lettertypes gebruikt.
-</span>
+<span>Vandaag ben ik de hele tijd bezig geweest met het verbeteren van mijn ontwerp. Ik heb navigatie knoppen toegevoegd, een video in mijn website gezet en nieuwe lettertypes gebruikt.</span>
 
 <div>
   <img width="1004" height="301" alt="Scherm­afbeelding 2026-09-21 om 15 15 48" src="https://github.com/user-attachments/assets/2d504ab7-9766-40d4-a74f-5f65a846e8cb" />
 </div>
 
 <div>
-  Ik heb ook feedback gekregen op mijn ontwerp, dit staat in DLO en ik ga dat zeker gebruiken om mijn ontwerp te verbeteren.
-  Verder heb ik vandaag een teken opdracht gedaan tijdens de les de retrospectief.
+  Ik heb ook feedback gekregen op mijn ontwerp, dit staat in DLO en ik ga dat zeker gebruiken om mijn ontwerp te verbeteren. Verder heb ik vandaag een teken opdracht gedaan tijdens de les de retrospectief.
 </div>
 
 <div>
@@ -356,52 +504,38 @@ Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onder
 
   <img width="2676" height="3571" alt="IMG_1325" src="https://github.com/user-attachments/assets/5e3f0070-a19f-4dc9-bc41-d1d3cf60ef38" />
 
-
 </div>
 
 <div>
-  En als laatste natuurlijk de check out van deze dag.
-  <div>Check-out sprint 1
-
-<span>Ik denk dat docenten deze opdracht geven om ons op een laagdrempelige manier te laten kennismaken met het web en coderen, waarbij de druk van een 'perfecte' website wegvalt en onze creativiteit gestimuleerd wordt omdat een digital garden continu blijft ontwikkelen en alles kan zijn. Om mijn eigen digital garden op te bouwen, maak ik vooral gebruik van de technieken uit de deepdives, gecombineerd met mijn basiskennis van vorig jaar, online bronnen zoals YouTube, en Gemini voor het opsporen van eventuele fouten in mijn code. Hoewel code schrijven me de nodige tijd en moeite kost, helpt HTML en CSS me om mijn website een duidelijke structuur te geven en content vorm te geven; vooral de eindeloze mogelijkheden van CSS met kleur en beweging sluiten goed aan bij mijn onderwerp. Mijn website is op dit moment zeker nog niet af en vraagt nog de nodige tijd en aandacht voor de randvoorwaarden, maar ik ben er van overtuigd dat ik hem voor het einde van het blok succesvol kan afronden.</span>
-
-<span>Het bedenken en schetsen van verschillende ideeën lukt me goed en in Figma heb ik al zo'n tien verschillende lay-outs ontworpen, waarbij ik de sterkste elementen uit mijn eerste schetsen meeneem. De grootste uitdaging zit voor mij in het vertalen van die ontwerpen naar code, omdat het op een echte website vaak toch anders uitpakt. Om de content—zoals video's, beelden en toelichtende teksten—vorm te geven, ben ik volop aan het experimenteren in CSS met aparte lay-outs, kleur, typografie en animaties voor een vloeiend gevoel. Zo heeft bijvoorbeeld het gebruik van een CSS-gradiënt enorm geholpen om mijn idee van kleur en beweging samen te brengen in het ontwerp.</span>
-
-<span>Het testen van mijn ontwerp is essentieel en zal ik de komende sprints actief blijven doen; hoewel de basis nu begrijpelijk en toegankelijk is, moet ik bij het toevoegen van meer content en CSS-experimenten goed blijven controleren of het gebruiksvriendelijk blijft voor bezoekers. Om tijdnood bij deadlines te voorkomen, begin ik direct aan ingewikkelde ideeën zodra ik ze bedenk, aangezien ik eerder veel tijd ben verloren aan technische obstakels. Terugkijkend op dit blok wilde ik vooral de basis van het coderen weer opfrissen en leren hoe je een aantrekkelijke website bouwt. Door het volgen van deepdives, het kijken van YouTube-video's, het stellen van vragen aan docenten en assistenten en het doen van eigen onderzoek, is het me gelukt om een simpele website te bouwen waarvan ik de achterliggende code nu ook echt begrijp.</span>
-
-<span>Tijdens dit blok wilde ik de basis van het coderen opfrissen en leren hoe je een aantrekkelijke website bouwt. Door het volgen van deepdives, het bekijken van YouTube-video's, het stellen van vragen aan docenten en assistenten en het doen van eigen onderzoek, is het me gelukt om een simpele website neer te zetten waarvan ik de code ook echt begrijp. Toch is er nog ontzettend veel dat ik wil leren: technisch wil ik me verdiepen in 'moving cards' in CSS en het plaatsen van tekst op video, en qua vormgeving wil ik verder groeien in visuele hiërarchie, balans, contrast en toegankelijkheid. Om tot dit resultaat te komen heb ik veel geschetst, ontworpen en urenlang geprobeerd mijn ideeën via code vorm te geven, waarbij het opzoeken van inspiratie me erg heeft geholpen. Dit proces ging met ups en downs; het ontwerpen vond ik leuk maar ook heel uitdagend, terwijl het coderen cool was als het lukte, maar ook erg vermoeiend voelde als ik lang bezig was met een enkel detail. Momenteel voldoet mijn website op het toevoegen van enkele bronnen na aan de eisen. Wel blijf ik mijn code continu opschonen met Prettier en wil ik mijn HTML de komende sprint toegankelijker en adaptiever maken door scherp te letten op toetsenbordnavigatie, screenreaders, contrast, schermgroottes en instellingen zoals prefers-reduced-motion.</span>
-
+  En als laatste natuurlijk de check out van deze dag:
+  <div><b>Check-out sprint 1</b><br><br>
+  <span>Ik denk dat docenten deze opdracht geven om ons op een laagdrempelige manier te laten kennismaken met het web en coderen, waarbij de druk van een 'perfecte' website wegvalt en onze creativiteit gestimuleerd wordt omdat een digital garden continu blijft ontwikkelen en alles kan zijn. Om mijn eigen digital garden op te bouwen, maak ik vooral gebruik van de technieken uit de deepdives, gecombineerd met mijn basiskennis van vorig jaar, online bronnen zoals YouTube, en Gemini voor het opsporen van eventuele fouten in mijn code. Hoewel code schrijven me de nodige tijd en moeite kost, helpt HTML en CSS me om mijn website een duidelijke structuur te geven en content vorm te geven; vooral de eindeloze mogelijkheden van CSS met kleur en beweging sluiten goed aan bij mijn onderwerp. Mijn website is op dit moment zeker nog niet af en vraagt nog de nodige tijd en aandacht voor de randvoorwaarden, maar ik ben er van overtuigd dat ik hem voor het einde van het blok succesvol kan afronden.</span><br><br>
+  <span>Het bedenken en schetsen van verschillende ideeën lukt me goed en in Figma heb ik al zo'n tien verschillende lay-outs ontworpen, waarbij ik de sterkste elementen uit mijn eerste schetsen meeneem. De grootste uitdaging zit voor mij in het vertalen van die ontwerpen naar code, omdat het op een echte website vaak toch anders uitpakt. Om de content—zoals video's, beelden en toelichtende teksten—vorm te geven, ben ik volop aan het experimenteren in CSS met aparte lay-outs, kleur, typografie en animaties voor een vloeiend gevoel. Zo heeft bijvoorbeeld het gebruik van een CSS-gradiënt enorm geholpen om mijn idee van kleur en beweging samen te brengen in het ontwerp.</span><br><br>
+  <span>Het testen van mijn ontwerp is essentieel en zal ik de komende sprints actief blijven doen; hoewel de basis nu begrijpelijk en toegankelijk is, moet ik bij het toevoegen van meer content en CSS-experimenten goed blijven controleren of het gebruiksvriendelijk blijft voor bezoekers. Om tijdnood bij deadlines te voorkomen, begin ik direct aan ingewikkelde ideeën zodra ik ze bedenk, aangezien ik eerder veel tijd ben verloren aan technische obstakels. Terugkijkend op dit blok wilde ik vooral de basis van het coderen opfrissen en leren hoe je een aantrekkelijke website bouwt. Door het volgen van deepdives, het kijken van YouTube-video's, het stellen van vragen aan docenten en assistenten en het doen van eigen onderzoek, is het me gelukt om een simpele website te bouwen waarvan ik de achterliggende code nu ook echt begrijp.</span><br><br>
+  <span>Tijdens dit blok wilde ik de basis van het coderen opfrissen en leren hoe je een aantrekkelijke website bouwt. Door het volgen van deepdives, het bekijken van YouTube-video's, het stellen van vragen aan docenten en assistenten en het doen van eigen onderzoek, is het me gelukt om een simpele website neer te zetten waarvan ik de code ook echt begrijp. Toch is er nog ontzettend veel dat ik wil leren: technisch wil ik me verdiepen in 'moving cards' in CSS en het plaatsen van tekst op video, en qua vormgeving wil ik verder groeien in visuele hiërarchie, balans, contrast en toegankelijkheid. Om tot dit resultaat te komen heb ik veel geschetst, ontworpen en urenlang geprobeerd mijn ideeën via code vorm te geven, waarbij het opzoeken van inspiratie me erg heeft geholpen. Dit proces ging met ups en downs; het ontwerpen vond ik leuk maar ook heel uitdagend, terwijl het coderen cool was als het lukte, maar ook erg vermoeiend voelde als ik lang bezig was met een enkel detail. Momenteel voldoet mijn website op het toevoegen van enkele bronnen na aan de eisen. Wel blijf ik mijn code continu opschonen met Prettier en wil ik mijn HTML de komende sprint toegankelijker en adaptiever maken door scherp te letten op toetsenbordnavigatie, screenreaders, contrast, schermgroottes en instellingen zoals prefers-reduced-motion.</span>
+  </div>
 </div>
 
 <span><b>Donderdag 17 September</b></span>
-
-<span>
-  Ik was niet tevreden met mijn website en ik ben even helemaal een andere kant op gaan. Alles wat ik wou maken werkte gewoon niet goed op mijn website. Ik heb opnieuw wat inspiratie opgezocht. Ik wil iets maken dat simplistisch maar nog steeds magnetisch is. Simplistisch omdat het dan werkt op een website, het zier er schoon en netjes uit en magnetisch omdat dat het woord is dat mijn onderwerp omschrijft. Dit is de visuele inspiratie die ik heb verzameld.
-</span>
+<span>Ik was niet tevreden met mijn website en ik ben even helemaal een andere kant op gaan. Alles wat ik wou maken werkte gewoon niet goed op mijn website. Ik heb opnieuw wat inspiratie opgezocht. Ik wil iets maken dat simplistisch maar nog steeds magnetisch is. Simplistisch omdat het dan werkt op een website, het ziet er schoon en netjes uit en magnetisch omdat dat het woord is dat mijn onderwerp omschrijft. Dit is de visuele inspiratie die ik heb verzameld.</span>
 
 <div>
   <img width="421" height="605" alt="Scherm­afbeelding 2026-09-21 om 14 02 31" src="https://github.com/user-attachments/assets/661cabb3-8cd1-4a57-b3fe-175ec34b6012" />
 </div>
 
-<div>
-  Na het verzamelen van informatie ben ik begonnen met het maken van een ontwerp op figma.
-</div>
+<div>Na het verzamelen van informatie ben ik begonnen met het maken van een ontwerp op figma.</div>
 
 <div>
   <img width="999" height="764" alt="Scherm­afbeelding 2026-09-21 om 14 04 40" src="https://github.com/user-attachments/assets/a85ad984-5818-41eb-9412-678952630992" />
 </div>
 
-<div>
-  Ik vond dat het ontwerp er goed uitzag. Ik heb goed gelet op de hiërarchie en het contrast om te zorgen dat het goed is. Toen ik tevreden was met mijn ontwerp ben ik begonnen met coderen. Dit ging niet makkelijk ik ben hier lang mee bezig geweest en het lukte zeker niet allemaal in een dag. Ik ben eerst bezig geweest met alles voor de hoofdpagina op de juiste plek te krijgen door gebruik te maken van grid en children.
-</div>
+<div>Ik vond dat het ontwerp er goed uitzag. Ik heb goed gelet op de hiërarchie en het contrast om te zorgen dat het goed is. Toen ik tevreden was met mijn ontwerp ben ik begonnen met coderen. Dit ging niet makkelijk ik ben hier lang mee bezig geweest en het lukte zeker niet allemaal in een dag. Ik ben eerst bezig geweest met alles voor de hoofdpagina op de juiste plek te krijgen door gebruik te maken van grid en children.</div>
 
 <div>
   <img width="975" height="603" alt="Scherm­afbeelding 2026-09-21 om 14 59 11" src="https://github.com/user-attachments/assets/4ddef16b-94f2-4981-aa6e-3e8f1a044f11" />
 </div>
 
-<div>
-  Ook heb ik vandaag een video geëdit die ik misschien wil gebruiken op mijn website.
-</div>
+<div>Ook heb ik vandaag een video geëdit die ik misschien wil gebruiken op mijn website.</div>
 
 <div>
   <img width="542" height="411" alt="Scherm­afbeelding 2026-09-21 om 15 08 39" src="https://github.com/user-attachments/assets/2a67e392-44fa-4dc3-8ab8-8d5648c28a91" />
@@ -409,30 +543,25 @@ Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onder
 
 <span><b>Woensdag 16 September</b></span>
 
+<div>Ik heb gewerkt aan mijn website. Ik heb verschillende ontwerpen uitgeprobeerd en ik ben lang bezig met coderen en uitproberen. Ik heb voor hulp met het coderen ook verschillende websites geraadpleegd voor hulp. Dit is hoe mijn website er nu uitziet maar, ik weet eigenlijk wel zeker dat ik nog veel ga veranderen ik ben niet tevreden met hoe het er nu uitziet. Dit is nog niet heel Webby.</div>
+
 <div>
-  Ik heb gewerkt aan mijn website. Ik heb verschillende ontwerpen uitgeprobeert en ik ben lang bezig met coderen en uitproberen. Ik heb voor hulp met het coderen ook verschillende websites geraadpleegd voor hulp. Dit is hoe mijn website er nu uitziet maar, ik weet eigenlijk wel zeker dat ik nog veel ga veranderen ik ben niet tevreden moet hoe het er nu uitziet. Dit is nog niet heel Webby.
+  <img width="988" height="394" alt="Scherm­afbeelding 2026-09-21 om 19 32 44" src="https://github.com/user-attachments/assets/ecb2b894-7c6c-464b-aa04-186040ef91ff" />
 </div>
 
 <div>
- <img width="988" height="394" alt="Scherm­afbeelding 2026-09-21 om 19 32 44" src="https://github.com/user-attachments/assets/ecb2b894-7c6c-464b-aa04-186040ef91ff" />
-
+  <b>De checkout vragen van woensdag:</b><br><br>
+  Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen.<br>
+  - Balans: Er is een eerlijke verdeling van visuele signalen.<br>
+  - Hiërarchie: Je baseert de grootte van elementen op basis van hoe belangrijk ze zijn. Zo laat je mensen als eerste kijken naar het belangrijkste op de pagina.<br>
+  - Contrast: Met contrast laat je zien dat elementen verschillend zijn.<br><br>
+  Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?<br>
+  - Een grid biedt meer mogelijkheden om te spelen met de lay-out van de pagina. Het blijft een structuur omdat een grid eigenlijk een column is die altijd in een volgorde staat.<br><br>
+  Welk principe neem je mee in een laatste iteratie van je ontwerp?<br>
+  - Ik neem ze allemaal mee maar vooral hiërarchie ik vind dat heel belangrijk voor een website. Zonder een duidelijke hiërarchie is de website onduidelijk en vaak ook veel minder mooi.
 </div>
 
-<div>
-  De checkout vragen van woensdag.<br /><br />
-  Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen.<br /><br />
-  Balans: Er is een eerlijke verdeling van visuele signalen.<br /><br />
-  Hiërarchie: Je baseert de grote van elementen op basis van hoe belangrijk ze zijn. Zo laat je mensen als eerste kijken naar het belangrijkste op de pagina.<br /><br />
-  Contrast: Met contrast laat je zien dat elementen verschillend zijn.<br /><br />
-  Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?<br />
-  Een grid biedt meer mogelijkheden om te spelen met de lay-out van de pagina. Het blijft een structuur omdat een grid eigenlijk een column is die altijd in een volgorde staat.<br /><br />
-  Welk principe neem je mee in een laatste iteratie van je ontwerp?<br />
-  Ik neem ze allemaal mee maar vooral hiërarchie ik vindt dat heel belangrijk voor een website. Zonder een duidelijke hiërarchie is de website onduidelijk en vaak ook veel minder mooi.
-</div>
-
-<div>
-  Ook heb ik de deepdive responsive grid + grid areas gedaan.
-</div>
+<div>Ook heb ik de deepdive responsive grid + grid areas gedaan.</div>
 
 <div>
   <img width="1710" height="972" alt="Scherm­afbeelding 2026-09-15 om 17 22 04" src="https://github.com/user-attachments/assets/931204ee-ae20-48f7-b260-c78e8f2a4a59" />
@@ -440,72 +569,61 @@ Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onder
 
 <span><b>Maandag 14 September</b></span>
 
-<div>
-  Vanochtend zijn we begonnen met een bi-weekly. Ik heb in het weekend een filmpje gekeken en twee artikelen gelezen over het internet die op DLO stonden. Tijdens de les heb ik toen met een groepje wat vragen bedacht en nagedacht over welke onderzoeksmethoden je kan gebruiken om vragen over het onderwerp te beantwoorden.
-</div>
+<div>Vanochtend zijn we begonnen met een bi-weekly. Ik heb in het weekend een filmpje gekeken en twee artikelen gelezen over het internet die op DLO stonden. Tijdens de les heb ik toen met een groepje wat vragen bedacht en nagedacht over welke onderzoeksmethoden je kan gebruiken om vragen over het onderwerp te beantwoorden.</div>
 
 <div>
   <img width="733" height="257" alt="Scherm­afbeelding 2026-09-21 om 18 30 11" src="https://github.com/user-attachments/assets/e2d5e78e-3398-483d-b88a-e41ea0795ee7" />
 </div>
 
 <div>
-  Ook heb ik de check-out vragen gemaakt.<br /><br />
-  Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?<br />
-  Een website ziet er vaak lelijk of rommelig uit als er geen duidelijke HTML strucuur is.<br />
-  Om dat te voorkomen moet je altijd een logische en duidelijke HTML pagina maken zodat de website er minder ‘lelijk’ uit ziet.<br /><br />
-  Vertel welke volgende stap je neemt om je website responsive te maken.<br />
-  Ik wil ervoor zorgen dat je mijn website ook kan gebruiken op een kleiner scherm en de plaatjes die een groot onderdeel zijn dan ook kleiner worden zodat, het duidelijk blijft waar je naar kijkt.<br /><br />
-  Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?<br />
-  Nu is dat nog lastig als ik mijn website nog af en duidelijk maak lukt dat mij wel.
+  <b>Ook heb ik de check-out vragen gemaakt:</b><br><br>
+  Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?<br>
+  - Een website ziet er vaak lelijk of rommelig uit als er geen duidelijke HTML structuur is. Om dat te voorkomen moet je altijd een logische en duidelijke HTML pagina maken zodat de website er minder ‘lelijk’ uit ziet.<br><br>
+  Vertel welke volgende stap je neemt om je website responsive te maken.<br>
+  - Ik wil ervoor zorgen dat je mijn website ook kan gebruiken op een kleiner scherm en de plaatjes die een groot onderdeel zijn dan ook kleiner worden zodat, het duidelijk blijft waar je naar kijkt.<br><br>
+  Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?<br>
+  - Nu is dat nog lastig als ik mijn website nog af en duidelijk maak lukt dat mij wel.
 </div>
 
 <b>Vrijdag 11 September</b>
 
-<div>
-  Ik heb geprobeerd een wat duidelijker beeld te maken van mijn website. Ik vindt het heel lastig om te beginnen met coderen als ik geen idee heb wat ik wil maken. Ik heb twee ontwerpen gemaakt op figma die ik misschien ga coderen.
-</div>
+<div>Ik heb geprobeerd een wat duidelijker beeld te maken van mijn website. Ik vind het heel lastig om te beginnen met coderen als ik geen idee heb wat ik wil maken. Ik heb twee ontwerpen gemaakt op figma die ik misschien ga coderen.</div>
+
+<div>Vandaag heb ik ook de deepdive grid 101 gedaan. Dat kan je hier zien op de foto’s.</div>
 
 <div>
-  Vandaag heb ik ook de deepdive gedaan grid 101 gedaan. Dat kan je hier zien op de foto’s.
-</div>
-
-<div>
-<img width="1101" height="634" alt="Scherm­afbeelding 2026-09-21 om 19 43 24" src="https://github.com/user-attachments/assets/3b2009d4-6160-4c7d-8fd9-24a3ba24a3a8" />
-<img width="876" height="789" alt="Scherm­afbeelding 2026-09-21 om 19 41 58" src="https://github.com/user-attachments/assets/f6938935-65aa-49b7-a710-344a5d98032a" />
-
+  <img width="1101" height="634" alt="Scherm­afbeelding 2026-09-21 om 19 43 24" src="https://github.com/user-attachments/assets/3b2009d4-6160-4c7d-8fd9-24a3ba24a3a8" />
+  <img width="876" height="789" alt="Scherm­afbeelding 2026-09-21 om 19 41 58" src="https://github.com/user-attachments/assets/f6938935-65aa-49b7-a710-344a5d98032a" />
 </div>
 
 <b>Woensdag 9 September</b>
 
-<div>
-  Vandaag heb ik mijn presentatie gepresenteerd aan één klasgenoot. We hebben gepraat over onze onderwerpen en elkaar een paar vragen gesteld:<br /><br />
-  De vragen die ik heb gesteld aan Tharanika en haar antwoorden:<br />
-  Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?<br />
-  - Kleding is meer dan mode, het is een manier om creativiteit en verbondenheid uit te drukken.<br /><br />
-  Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?<br />
-  - Persoonlijk, traditioneel, modern en visueel.<br /><br />
-  Heeft 'de ander' een aanvulling op je onderwerp?<br />
-  - Hoe sociale media trends impact hebben op hoe culturele kleding nu wordt gedragen en verkocht.<br /><br />
-  Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)<br />
-  - Kleurrijk, depressief en persoonlijk.<br /><br />
-  Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.<br />
-  - Het is heel kleurrijk, verschillende culturen hebben vaak een eigen stijl in de kleding (patronen, kleuren,vormen). De culturele kleding kan ook trots gevoel opwekken.<br /><br />
-  De vragen die aan mij werden gesteld en mijn antwoorden:<br />
-  Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?<br />
-  - Vorm van screendans en dat er veel kanten van zijn, en dat je er veel mee kan doen. Kostuums, commercial, voorstellingen etc<br /><br />
-  Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?<br />
-  - Enthousiast, actief, creatief, sportief<br /><br />
-  Heeft 'de ander' een aanvulling op je onderwerp?<br />
-  - Misschien dan uiteindelijk dieper er op ingaan hoe alles te werk gaat maar ook wat misschien nu trending is als je kijkt naar dans.<br /><br />
-  Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)<br />
-  - Kleurrijk, dynamisch<br /><br />
-  Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.<br />
-  - Bronnen gebruiken, van films of videoclips om inspiratie uit te halen
+<div>Vandaag heb ik mijn presentatie gepresenteerd aan één klasgenoot. We hebben gepraat over onze onderwerpen en elkaar een paar vragen gesteld:<br><br>
+De vragen die ik heb gesteld aan Tharanika en haar antwoorden:<br>
+- Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?<br>
+  Kleding is meer dan mode, het is een manier om creativiteit en verbondenheid uit te drukken.<br>
+- Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?<br>
+  Persoonlijk, traditioneel, modern en visueel.<br>
+- Heeft 'de ander' een aanvulling op je onderwerp?<br>
+  Hoe sociale media trends impact hebben op hoe culturele kleding nu wordt gedragen en verkocht.<br>
+- Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past?<br>
+  Kleurrijk, depressief en persoonlijk.<br>
+- Welke inspiratie kun je uit je 25 afbeeldingen halen?<br>
+  Het is heel kleurrijk, verschillende culturen hebben vaak een eigen stijl in de kleding (patronen, kleuren, vormen). De culturele kleding kan ook trots gevoel opwekken.<br><br>
+De vragen die aan mij werden gesteld en mijn antwoorden:<br>
+- Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?<br>
+  Vorm van screendans en dat er veel kanten van zijn, en dat je er veel mee kan doen. Kostuums, commercial, voorstellingen etc.<br>
+- Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?<br>
+  Enthousiast, actief, creatief, sportief.<br>
+- Heeft 'de ander' een aanvulling op je onderwerp?<br>
+  Misschien dan uiteindelijk dieper er op ingaan hoe alles te werk gaat maar ook wat misschien nu trending is als je kijkt naar dans.<br>
+- Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past?<br>
+  Kleurrijk, dynamisch.<br>
+- Welke inspiratie kun je uit je 25 afbeeldingen halen?<br>
+  Bronnen gebruiken, van films of videoclips om inspiratie uit te halen.
 </div>
 
-<div>
-  Hierna heb ik visual research gedaan aan de hand van de opdrachten op het Miro bord. Die heb ik allemaal afgemaakt en kan je terug vinden op het Miro bord. https://miro.com/app/board/uXjVHpsKqYY=/?share_link_id=626870178987
-</div>
+<div>Hierna heb ik visual research gedaan aan de hand van de opdrachten op het Miro bord. Die heb ik allemaal afgemaakt en kan je terugvinden op het Miro bord: https://miro.com/app/board/uXjVHpsKqYY=/?share_link_id=626870178987</div>
 
 <div>
   <img width="699" height="377" alt="Scherm­afbeelding 2026-09-21 om 12 34 36" src="https://github.com/user-attachments/assets/0396ddf8-634e-4727-8100-fc8da8a568e0" />
@@ -513,21 +631,18 @@ Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onder
 </div>
 
 <div>
-  Ook heb ik aan het einde van de les de checkout vragen beantwoord:<br />
-  Check out vragen:<br />
-  Leg uit waar het Visual Research in 3 stappen naartoe werkt<br />
-  - Verkennen (Sfeer en Richting): Het verzamelen van eerste inspiratie en beelden.<br />
-  - Analyseren en Structureren: Het ontleden van de verzamelde beelden op specifieke elementen — zoals kleurgebruik, typografie, lichtinval, compositie en beweging — om te begrijpen waarom bepaalde visuele keuzes werken.<br />
-  - Vertalen naar Realisatie: Het omzetten van de visuele inzichten naar schetsen en ideeën.<br /><br />
-  Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).<br />
-  - Mijn garden gaat over dans op camera. Wat wordt er allemaal gebruikt bij het maken van een dansvideo clip, film of reclame. Hoe maak je een goede dansvideo?<br /><br />
-  Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.<br />
+  <b>Ook heb ik aan het einde van de les de checkout vragen beantwoord:</b><br><br>
+  Leg uit waar het Visual Research in 3 stappen naartoe werkt:<br>
+  - Verkennen (Sfeer en Richting): Het verzamelen van eerste inspiratie en beelden.<br>
+  - Analyseren en Structureren: Het ontleden van de verzamelde beelden op specifieke elementen — zoals kleurgebruik, typografie, lichtinval, compositie en beweging — om te begrijpen waarom bepaalde visuele keuzes werken.<br>
+  - Vertalen naar Realisatie: Het omzetten van de visuele inzichten naar schetsen en ideeën.<br><br>
+  Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen:<br>
+  - Mijn garden gaat over dans op camera. Wat wordt er allemaal gebruikt bij het maken van een dansvideo clip, film of reclame. Hoe maak je een goede dansvideo?<br><br>
+  Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren / verder zou willen onderzoeken:<br>
   - Een voorbeeld maken van hoe licht wordt gebruikt in dansvideo’s dat kan ik doen met een animatie, of zelf een video maken en die gebruiken.
 </div>
 
-<div>
-  Ik heb vandaag ook de deep dive mooie kleuren en gradients gevolg. Hier kan je de gradiënts en vlaggen zien die ik heb gemaakt.
-</div>
+<div>Ik heb vandaag ook de deep dive mooie kleuren en gradients gevolgd. Hier kan je de gradiënts en vlaggen zien die ik heb gemaakt.</div>
 
 <div>
   <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-09 om 18 31 51" src="https://github.com/user-attachments/assets/c84992db-f406-472c-817a-4133575150ab" />
@@ -536,64 +651,51 @@ Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onder
 
 <b>Dinsdag 8 September</b>
 
-<div>
-  Ik heb een presentatie gemaakt waarin ik mijn concept voor mijn digital garden introduceer.
-</div>
+<div>Ik heb een presentatie gemaakt waarin ik mijn concept voor mijn digital garden introduceer.</div>
 
 <div>
   <img width="1209" height="796" alt="Scherm­afbeelding 2026-09-09 om 00 26 03" src="https://github.com/user-attachments/assets/29c4481e-3fab-42fb-a50c-fe5e05af9db5" />
 </div>
 
-<div>
-  Ik heb op dinsdag ook de deep dive over light en dark modes gedaan.
-</div>
+<div>Ik heb op dinsdag ook de deep dive over light en dark modes gedaan.</div>
 
 <div>
-<img width="1109" height="653" alt="Scherm­afbeelding 2026-09-21 om 19 48 26" src="https://github.com/user-attachments/assets/016980ff-ec79-4aa6-99b4-e1d09448a553" />
-
+  <img width="1109" height="653" alt="Scherm­afbeelding 2026-09-21 om 19 48 26" src="https://github.com/user-attachments/assets/016980ff-ec79-4aa6-99b4-e1d09448a553" />
 </div>
 
 <b>Maandag 7 September</b>
 
-<div>
-  Vandaag heb ik het artikel: A Brief History & Ethos of the Digital Garden gelezen en ik vond dat heel leerzaam. Daarnaast heb ik met andere klasgenoten verschillende artikelen besproken die allemaal gingen over digital Gardens.<br />
-  Hierna hebben we digital Gardens bekeken en die geanalyseerd aan de hand van een formulier. Dit hebben we daarna weer besproken en de digital Gardens vergeleken. Toen hebben we in hetzelfde formulier de minst en meest Webby digital garden vergeleken.
+<div>Vandaag heb ik het artikel: *A Brief History & Ethos of the Digital Garden* gelezen en ik vond dat heel leerzaam. Daarnaast heb ik met andere klasgenoten verschillende artikelen besproken die allemaal gingen over digital gardens.<br>
+Hierna hebben we digital gardens bekeken en die geanalyseerd aan de hand van een formulier. Dit hebben we daarna besproken en de digital gardens vergeleken. Toen hebben we in hetzelfde formulier de minst en meest webby digital garden vergeleken.
 </div>
 
 <div>
-  <img width="4284" height="5712" alt="IMG_0905" src="https://github.com/user-attachments/assets/ce948df9-cef5-46cb-8ec7-d5f4c3df4197" /> Dit is mijn formulier, ik kreeg het niet helemaal af binnen de tijd.
-  <img width="4284" height="5712" alt="IMG_0904" src="https://github.com/user-attachments/assets/4e808138-1bcd-4fe0-94f1-5f1c28f234f6" /> en dit was gezamelijk.
+  <img width="4284" height="5712" alt="IMG_0905" src="https://github.com/user-attachments/assets/ce948df9-cef5-46cb-8ec7-d5f4c3df4197" /> Dit is mijn formulier, ik kreeg het niet helemaal af binnen de tijd.<br>
+  <img width="4284" height="5712" alt="IMG_0904" src="https://github.com/user-attachments/assets/4e808138-1bcd-4fe0-94f1-5f1c28f234f6" /> En dit was gezamenlijk.
 </div>
 
 <div>
-  De checkout vragen voor maandag 7 September<br /><br />
-  Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.<br />
-  Digital garden is niet een ‘finished product’ of een website dat al helemaal af is. Het zijn half afgemaakte onderzoeken en onderzoeken die nog aan het groeien zijn.<br /><br />
-  Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.<br />
-  Een website die Webby is, is goed gecodeerd, duidelijk te gebruiken en toegankelijk. Daarnaast is de website creatief, heeft het animaties en een persoonlijke stijl.<br />
-  Deze websites hebben mijn geïnspireerd: https://garden.carolynyoo.com - https://maggieappleton.com<br /><br />
-  Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.<br />
-  Ik zou graag iets met dans doen en om het wat specifieker te maken commercial dance on camera. Ik vindt dat zelf heel interssant en ook leuk om te maken. Ik merk dat dit een groeiende wereld is ik zie veel bedrijven die ook video clips maken specifiek voor dans.<br />
-  Een ander idee dat ik heb gaat over ontwerpen. Mijn eigen ontwerpen, inspiratie bronnen, kleuren paletten, typografie en dieper onderzoek over die onderwerpen.<br />
-  Hierin zou ik kunnen schrijven over kleurenpaletten die ik mooi vindt en waarom die goed zijn. Ontwerpen die mij aanspreken en hoe ik inspiratie heb genomen uit ontwerpen van anderen.
+  <b>De checkout vragen voor maandag 7 September:</b><br><br>
+  Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website:<br>
+  - Een digital garden is niet een ‘finished product’ of een website dat al helemaal af is. Het zijn half afgemaakte onderzoeken en onderzoeken die nog aan het groeien zijn.<br><br>
+  Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren:<br>
+  - Een website die webby is, is goed gecodeerd, duidelijk te gebruiken en toegankelijk. Daarnaast is de website creatief, heeft het animaties en een persoonlijke stijl. Deze websites hebben mij geïnspireerd: https://garden.carolynyoo.com - https://maggieappleton.com<br><br>
+  Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden:<br>
+  - Ik zou graag iets met dans doen en om het wat specifieker te maken: commercial dance on camera. Ik vind dat zelf heel interessant en ook leuk om te maken. Ik merk dat dit een groeiende wereld is en zie veel bedrijven die videoclips maken specifiek voor dans. Een ander idee gaat over ontwerpen: mijn eigen ontwerpen, inspiratiebronnen, kleurenpaletten, typografie en dieper onderzoek daarover.
 </div>
 
-<b>Woensdag 2 September Deep dive MMD</b>
+<b>Woensdag 2 September - Deep dive MMD</b>
 
-<div>
-  We moesten een menu herontwerpen voor 'Wok to walk'. Dit is hoever ik ben gekomen.
-</div>
+<div>We moesten een menu herontwerpen voor 'Wok to walk'. Dit is hoever ik ben gekomen.</div>
 
 <div>
   <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-02 om 10 36 27" src="https://github.com/user-attachments/assets/59bbd38b-7fea-42d3-a456-fd583b77991a" />
   <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-02 om 10 36 32" src="https://github.com/user-attachments/assets/16c849ac-852e-4955-b600-a60a347e97c2" />
 </div>
 
-<b>Woensdag 2 September Deep dive CSS met fonts en kleuren.</b>
+<b>Woensdag 2 September - Deep dive CSS met fonts en kleuren</b>
 
-<div>
-  Ik heb de opdrachten op duo gedaan. uitkomst eerste opdracht en mijn code.
-</div>
+<div>Ik heb de opdrachten op DLO gedaan. Uitkomst eerste opdracht en mijn code:</div>
 
 <div>
   <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-02 om 18 49 46" src="https://github.com/user-attachments/assets/f94ed8bd-ecd1-465f-b277-bb4b94051c14" />
@@ -601,35 +703,27 @@ Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onder
   <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-02 om 18 50 00" src="https://github.com/user-attachments/assets/0001d6f6-ce53-406d-92b3-96292d22cefc" />
 </div>
 
-<div>
-  Ook de derde opdracht ging goed ik heb drie blokjes gemaakt 1 ben ik vergeten te screenshoten maar ik heb wel de code ervan, die heet myst.
-</div>
+<div>Ook de derde opdracht ging goed, ik heb drie blokjes gemaakt. 1 ben ik vergeten te screenshoten maar ik heb wel de code ervan, die heet myst.</div>
 
 <div>
   <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-02 om 19 43 32" src="https://github.com/user-attachments/assets/e7b39a26-9afb-46c7-9e19-5b9b55f3c61f" />
 </div>
 
-<div>
-  tweede blokje
-</div>
+<div>Tweede blokje:</div>
 
 <div>
   <img width="316" height="287" alt="Scherm­afbeelding 2026-09-02 om 21 59 12" src="https://github.com/user-attachments/assets/42007be8-e127-48bb-bb76-7bb023af6cc2" />
   <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-02 om 21 59 09" src="https://github.com/user-attachments/assets/019edd94-adae-4cbd-bd97-1959e60f15f7" />
 </div>
 
-<div>
-  derde blokje
-</div>
+<div>Derde blokje:</div>
 
 <div>
   <img width="426" height="404" alt="Scherm­afbeelding 2026-09-02 om 22 35 40" src="https://github.com/user-attachments/assets/247700df-6de6-4a56-8266-bc217e10eb9b" />
   <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-02 om 22 53 00" src="https://github.com/user-attachments/assets/d75ccf47-b772-4aab-baf2-0310a29b4f17" />
 </div>
 
-<div>
-  bij het laatste blokje heb ik ook geëxperimenteerd met covers, dat zag er zo uit.
-</div>
+<div>Bij het laatste blokje heb ik ook geëxperimenteerd met covers, dat zag er zo uit:</div>
 
 <div>
   <img width="433" height="412" alt="Scherm­afbeelding 2026-09-02 om 22 45 39" src="https://github.com/user-attachments/assets/b762daf5-2d6f-447b-9861-0bcd05246def" />
@@ -639,11 +733,11 @@ Tot slot kan ik meer spelen met de light en dark mode omdat een belangrijk onder
 <b>31 aug - Kickoff</b>
 
 <div>
-  Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.<br /><br />
-  Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.<br />
-  Ik heb gekozen voor het platform GitHub. Ik had hier al een account en eerder mee gewerkt. Daardoor voelde het progamma al vertrouwt.<br /><br />
-  Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.<br />
-  Ik heb gekozen voor Tyegeuzinge.nl ik wou eigenlijk tamargeuzinge.nl maar die was al bezet. TYE zijn mijn initialen dus ik heb die gebruikt. Ik heb het domein gekoppeld aan de hand van het stappen plan op DLO.<br /><br />
-  Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.<br />
-  Dat heb ik nog niet gedaan. Mijn DNS is nog niet geladen dus dat is nu nog niet mogelijk.
+  - Een fork van de model repository gemaakt en gepubliceerd via mijn eigen GitHub omgeving.<br><br>
+  Leg uit wat een source hosting platform is en voor welke jij gekozen hebt:<br>
+  - Ik heb gekozen voor het platform GitHub. Ik had hier al een account en eerder mee gewerkt. Daardoor voelde het programma al vertrouwd.<br><br>
+  Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina:<br>
+  - Ik heb gekozen voor tyegeuzinge.nl, ik wou eigenlijk tamargeuzinge.nl maar die was al bezet. TYE zijn mijn initialen dus ik heb die gebruikt. Ik heb het domein gekoppeld aan de hand van het stappenplan op DLO.<br><br>
+  Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je ervoor zorgt dat die op het web gepubliceerd worden:<br>
+  - Dat heb ik nog niet gedaan. Mijn DNS is nog niet geladen dus dat is nu nog niet mogelijk.
 </div>
