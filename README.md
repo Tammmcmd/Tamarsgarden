@@ -447,8 +447,8 @@ Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"
 </div>
 
 <div>Ook heb ik alvast visual research gedaan voor de rest van mijn website, ik wil cards maken in css die bewegen.</div>
+<img width="1003" height="850" alt="Scherm­afbeelding 2026-10-26 om 16 43 56" src="https://github.com/user-attachments/assets/abacaee9-89e3-46b0-8eb3-4931edbc4ec1" />
 
-<img width="839" height="590" alt="Scherm­afbeelding 2026-09-21 om 20 32 48" src="https://github.com/user-attachments/assets/8398d590-3d28-4843-9b77-030da7904564" />
 
 <b>Maandag 21 September</b>
 
@@ -503,7 +503,8 @@ Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"
 </div>
 
 <div>
-/Users/tamargeuzinge/Desktop/Scherm­afbeelding 2026-10-26 om 16.17.07.png
+<img width="715" height="749" alt="Scherm­afbeelding 2026-10-26 om 16 17 07" src="https://github.com/user-attachments/assets/4aa4255d-ece4-4254-9858-a2bf0f1638e6" />
+
 </div>
 
 <div>
