@@ -503,10 +503,7 @@ Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"
 </div>
 
 <div>
-  <img width="951" height="326" alt="Scherm­afbeelding 2026-10-05 om 23 44 23" src="https://github.com/user-attachments/assets/f3fb9b45-bbf4-48b6-84ef-62425c3c68ce" />
-
-  <img width="2676" height="3571" alt="IMG_1325" src="https://github.com/user-attachments/assets/5e3f0070-a19f-4dc9-bc41-d1d3cf60ef38" />
-
+/Users/tamargeuzinge/Desktop/Scherm­afbeelding 2026-10-26 om 16.17.07.png
 </div>
 
 <div>
