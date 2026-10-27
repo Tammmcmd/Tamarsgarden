@@ -1,3 +1,9 @@
+<b>Dinsdag 27 Oktober </b>
+Ik wou nog een ding aanpassen namelijk mijn cookie button. Ik vindt hoe die was namelijk niet zo mooi. Ik heb aan de hand van een code die ik had gekregen van een student assistent mijn cookie pop-up zo gemaakt dat hij in het beeld verschijnt inplaats van dat het een knop is die de hele tijd op de pagina blijft hangen. 
+Ik vindt de button op deze manier een stuk mooier dus ik ben blij dat ik het toch nog even heb aangepast.
+<div>
+  <img width="1121" height="366" alt="Scherm­afbeelding 2026-10-27 om 12 18 39" src="https://github.com/user-attachments/assets/d8b5fe7e-12e8-4b6a-ae3f-a7cf81126d95" />
+</div>
 <b>Maandag 26 Oktober</b>
 Vandaag hadden we tijdens de les een expo. Ik heb gekeken naar het werk van klasgenoten en ook nog wat feedback gekregen. Dit was allemaal positief dus dat is fijn. Ik kreeg veel complimenten over mijn code wat ik ook heel leuk vindt want dat is eigenlijk het gene dat ik het meest lastig vindt.
 <div><img width="4928" height="3237" alt="IMG_1337" src="https://github.com/user-attachments/assets/ec64e754-081e-42af-9b58-5baabb0365cc" /></div>
