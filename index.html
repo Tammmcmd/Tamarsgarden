@@ -55,12 +55,6 @@
           </p>
         </article>
         <article>
-          <!-- <div
-            class="carousel"
-            role="region"
-            aria-label="Onderwerpen"
-            aria-roledescription="carousel"
-          > -->
           <ul class="carousel">
             <li>
               <a href="camerawerk.html" target="camerawerk">
@@ -126,18 +120,19 @@
         </button>
       </nav>
 
-      <dialog id="cookieModal">
+      <dialog open>
+        <h3>Privacy</h3>
+        <p>
+          Welkom in mijn digitale tuin! Deze website wordt gehost via Github
+          pages. Github pages houdt technische logs bij (zoals IP-adres) voor
+          beveiliging.
+        </p>
+        <p>
+          Op deze website worden ook YouTube-video's getoond. YouTube verzamelt
+          persoonsgegevens (zoals cookies en IP-adressen) en kan deze delen met
+          de servers van Google/YouTube.
+        </p>
         <form method="dialog">
-          <p>
-            Welkom in mijn digitale tuin! Deze website wordt gehost via Github
-            pages. Github pages houdt technische logs bij (zoals IP-adres) voor
-            beveiliging.
-          </p>
-          <p>
-            Op deze website worden ook YouTube-video's getoond. YouTube
-            verzamelt persoonsgegevens (zoals cookies en IP-adressen) en kan
-            deze delen met de servers van Google/YouTube.
-          </p>
           <button id="cookieallow" onclick="setCookie()">Akkoord</button>
           <button id="cookiedeny" onclick="unsetCookie()">Sluiten</button>
         </form>
