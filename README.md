@@ -410,7 +410,7 @@ Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"
 </span>
 
 Ik heb een schets gemaakt van hoe ik wil dat mijn cookie pop-up er ongeveer uit zal zien.
-<img width="1708" height="2277" alt="IMG_1327" src="https://github.com/user-attachments/assets/8803a892-8c3f-4077-a0cb-22ea7ba5d61a" />
+<img width="646" height="468" alt="Scherm­afbeelding 2026-10-27 om 11 18 53" src="https://github.com/user-attachments/assets/a3cd1986-fcfc-46c6-8b28-dd9139f859a8" />
 
 
 <b> Dinsdag 22 September</b>
