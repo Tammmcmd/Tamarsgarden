@@ -409,6 +409,10 @@ Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"
   <img width="910" height="358" alt="Scherm­afbeelding 2026-09-23 om 12 01 22" src="https://github.com/user-attachments/assets/22a66b86-9dab-4bb7-8b09-8249162a1b61" /> 
 </span>
 
+Ik heb een schets gemaakt van hoe ik wil dat mijn cookie pop-up er ongeveer uit zal zien.
+<img width="1708" height="2277" alt="IMG_1327" src="https://github.com/user-attachments/assets/8803a892-8c3f-4077-a0cb-22ea7ba5d61a" />
+
+
 <b> Dinsdag 22 September</b>
 
 <div>Ik heb gewerkt aan mijn website en ik heb floating css cards toegevoegd, dit duurde eventjes maar met hulp van een YouTube filmpje is het gelukt, het is nog niet klaar qua opmaak maar de basis is me gelukt!</div>
