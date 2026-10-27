@@ -100,8 +100,8 @@ Vandaag heb ik thuis veel gedaan. Ik ben er lang mee bezig geweest maar het is m
 Het was mij uiteindelijk redelijk gelukt maar ik was nog steeds niet helemaal tevreden want de hoofdtekst van mijn eerste pagina stond nog steeds niet helemaal goed en de hoofdstukken in de header ook niet. Hier ga ik morgen zeker aan verder werken.
 
 <div>Tijdens de les hebben we ook nog een keer gecheckt of onze pagina 'webby' is en dit daarna besproken met een klasgenoot</div>
+<img width="680" height="543" alt="Scherm­afbeelding 2026-10-27 om 11 22 48 1" src="https://github.com/user-attachments/assets/e5c67829-839f-40bd-a51d-05b5e672f74a" />
 
-<img width="4284" height="5712" alt="IMG_1310" src="https://github.com/user-attachments/assets/df1693f3-3bae-4b9e-92c0-3777f2b32ff8" />
 
 Zoals je op de foto ziet had ik binnen de tijd niet alles kunnen invullen maar toen we het met een klasgenoot gingen checken hebben we wel elk onderwerp besproken ook die nog niet ingevuld waren. Hier kwamen een paar verbeterpunten uit:
 
